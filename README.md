@@ -3,6 +3,7 @@
 A benchmark for Java gadget chain detecting algorithms.
 
 <img src="Gleipner.png" width="400" height="400">
+(If you are thinking this image is AI-generated: *it is*.)
 
 ## Citation
 
