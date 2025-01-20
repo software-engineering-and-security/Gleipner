@@ -1,0 +1,8 @@
+[
+ <gleipner.chains.reflection.proxy.Proxy_002_Trampoline: void readObject(java.io.ObjectInputStream)>
+ <gleipner.core.SinkGadget: void sinkMethod(java.lang.String)>
+]
+[
+ <gleipner.chains.reflection.proxy.Proxy_003_FP_Trampoline: void readObject(java.io.ObjectInputStream)>
+ <gleipner.core.SinkGadget: void sinkMethod(java.lang.String)>
+]

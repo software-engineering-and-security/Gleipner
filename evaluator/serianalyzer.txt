@@ -1,0 +1,143 @@
+gleipner.core.Controller::invokeSink [(Ljava/lang/Object;Ljava/lang/String;)V] U[TT]
+gleipner.chains.basic.BasicSinkGadget->load [()V] T[]  serializable
+gleipner.chains.basic.BasicLinkGadget->trampolineMethod [()V] U[]  serializable
+
+gleipner.core.Controller::invokeSink [(Ljava/lang/String;)V] U[T]
+gleipner.chains.basic.BasicTriggerGadget->readObject [(Ljava/io/ObjectInputStream;)V] U[U]  serializable
+
+gleipner.core.Controller::invokeSink [(Ljava/lang/String;)V] U[T]
+gleipner.chains.basic.BasicSinkGadget->load [()V] T[]  serializable
+gleipner.chains.basic.BasicLinkGadget->trampolineMethod [()V] U[]  serializable
+
+gleipner.core.Controller::invokeSink [(Ljava/lang/String;)V] U[T]
+gleipner.chains.falsepositive.FalsePositive_001_SinkGadget->sinkMethod [()V] T[]  serializable
+gleipner.chains.falsepositive.FalsePositive_001_TriggerGadget->trampolineMethod [()V] U[]  serializable
+
+gleipner.core.Controller::invokeSink [(Ljava/lang/String;)V] U[T]
+gleipner.chains.falsepositive.FalsePositive_002_SinkGadget->sinkMethod [()V] T[]  serializable
+gleipner.chains.falsepositive.FalsePositive_002_TriggerGadget->trampolineMethod [()V] U[]  serializable
+
+gleipner.core.Controller::invokeSink [(Ljava/lang/String;)V] U[T]
+gleipner.chains.reflection.metaobjects.Annotation_001_SinkGadget->sinkMethod [()V] T[]  serializable
+gleipner.chains.reflection.metaobjects.Annotation_001_TriggerGadget->trampolineMethod [()V] U[]  serializable
+
+gleipner.core.Controller::invokeSink [(Ljava/lang/String;)V] U[T]
+gleipner.chains.polymorphism.Polymorphism_002_SinkGadget->linkMethod [()V] T[]  serializable
+gleipner.chains.polymorphism.Polymorphism_002_LinkGadget->linkMethod [()V] T[]  serializable
+gleipner.chains.polymorphism.Polymorphism_002_TriggerGadget->trampolineMethod [()V] U[]  serializable
+
+gleipner.core.Controller::invokeSink [(Ljava/lang/String;)V] U[T]
+gleipner.chains.polymorphism.Polymorphism_001_SinkGadget->linkMethod [()V] T[]  serializable
+gleipner.chains.polymorphism.Polymorphism_001_LinkGadget->linkMethod [()V] T[]  serializable
+gleipner.chains.polymorphism.Polymorphism_001_TriggerGadget->trampolineMethod [()V] U[]  serializable
+
+gleipner.core.Controller::invokeSink [(Ljava/lang/String;)V] U[T]
+gleipner.chains.polymorphism.Polymorphism_003_SinkGadget->linkMethod [()V] T[]  serializable
+gleipner.chains.polymorphism.Polymorphism_003_LinkGadget->linkMethod [()V] T[]  serializable
+gleipner.chains.polymorphism.Polymorphism_003_TriggerGadget->trampolineMethod [()V] U[]  serializable
+
+gleipner.core.Controller::invokeSink [(Ljava/lang/String;)V] U[T]
+gleipner.chains.depth.Depth_001_SinkGadget->linkMethod [()V] T[]  serializable
+gleipner.chains.depth.Depth_001_LinkGadget2->linkMethod [()V] T[]  serializable
+gleipner.chains.depth.Depth_001_LinkGadget1->linkMethod [()V] T[]  serializable
+gleipner.chains.depth.Depth_001_TriggerGadget->trampolineMethod [()V] U[]  serializable
+
+gleipner.core.Controller::invokeSink [(Ljava/lang/String;)V] U[T]
+gleipner.chains.ysoserial.myfaces1.MyFaces_ValueExpressionImpl->getValue [(Lgleipnir/chains/ysoserial/myfaces1/MyFaces_ELContext;)Ljava/lang/Object;] T[T]  serializable
+gleipner.chains.ysoserial.myfaces1.MyFaces_ValueExpressionMethodExpression->getMethodExpression [(Lgleipnir/chains/ysoserial/myfaces1/MyFaces_ELContext;)Lgleipnir/chains/ysoserial/myfaces1/MyFaces_MethodExpression;] T[T]  serializable
+gleipner.chains.ysoserial.myfaces1.MyFaces_ValueExpressionMethodExpression->getMethodExpression [()Lgleipnir/chains/ysoserial/myfaces1/MyFaces_MethodExpression;] T[]  serializable
+gleipner.chains.ysoserial.myfaces1.MyFaces_ValueExpressionMethodExpression->hashCode [()I] U[]  serializable
+
+gleipner.core.Controller::invokeSink [(Ljava/lang/String;)V] U[T]
+gleipner.chains.depth.Depth_002_SinkGadget->linkMethod [()V] T[]  serializable
+gleipner.chains.depth.Depth_002_LinkGadget3->linkMethod [()V] T[]  serializable
+gleipner.chains.depth.Depth_002_LinkGadget2->linkMethod [()V] T[]  serializable
+gleipner.chains.depth.Depth_002_LinkGadget1->linkMethod [()V] T[]  serializable
+gleipner.chains.depth.Depth_002_TriggerGadget->trampolineMethod [()V] U[]  serializable
+
+gleipner.core.Controller::invokeSink [(Ljava/lang/String;)V] U[T]
+gleipner.chains.depth.Depth_003_SinkGadget->linkMethod [()V] T[]  serializable
+gleipner.chains.depth.Depth_003_LinkGadget4->linkMethod [()V] T[]  serializable
+gleipner.chains.depth.Depth_003_LinkGadget3->linkMethod [()V] T[]  serializable
+gleipner.chains.depth.Depth_003_LinkGadget2->linkMethod [()V] T[]  serializable
+gleipner.chains.depth.Depth_003_LinkGadget1->linkMethod [()V] T[]  serializable
+gleipner.chains.depth.Depth_003_TriggerGadget->trampolineMethod [()V] U[]  serializable
+
+gleipner.core.Controller::invokeSink [(Ljava/lang/String;)V] U[T]
+gleipner.chains.depth.Depth_004_SinkGadget->linkMethod [()V] T[]  serializable
+gleipner.chains.depth.Depth_004_LinkGadget5->linkMethod [()V] T[]  serializable
+gleipner.chains.depth.Depth_004_LinkGadget4->linkMethod [()V] T[]  serializable
+gleipner.chains.depth.Depth_004_LinkGadget3->linkMethod [()V] T[]  serializable
+gleipner.chains.depth.Depth_004_LinkGadget2->linkMethod [()V] T[]  serializable
+gleipner.chains.depth.Depth_004_LinkGadget1->linkMethod [()V] T[]  serializable
+gleipner.chains.depth.Depth_004_TriggerGadget->trampolineMethod [()V] U[]  serializable
+
+gleipner.core.Controller::invokeSink [(Ljava/lang/String;)V] U[T]
+gleipner.chains.depth.Depth_005_SinkGadget->linkMethod [()V] T[]  serializable
+gleipner.chains.depth.Depth_005_LinkGadget6->linkMethod [()V] T[]  serializable
+gleipner.chains.depth.Depth_005_LinkGadget5->linkMethod [()V] T[]  serializable
+gleipner.chains.depth.Depth_005_LinkGadget4->linkMethod [()V] T[]  serializable
+gleipner.chains.depth.Depth_005_LinkGadget3->linkMethod [()V] T[]  serializable
+gleipner.chains.depth.Depth_005_LinkGadget2->linkMethod [()V] T[]  serializable
+gleipner.chains.depth.Depth_005_LinkGadget1->linkMethod [()V] T[]  serializable
+gleipner.chains.depth.Depth_005_TriggerGadget->trampolineMethod [()V] U[]  serializable
+
+gleipner.core.Controller::invokeSink [(Ljava/lang/String;)V] U[T]
+gleipner.chains.ysoserial.hibernate1.Hibernate_GetterMethodImpl->get [(Ljava/lang/Object;)Ljava/lang/Object;] T[T]  serializable
+gleipner.chains.ysoserial.hibernate1.Hibernate_AbstractComponentTuplizer->getPropertyValue [(Ljava/lang/Object;I)Ljava/lang/Object;] T[TT]  serializable
+gleipner.chains.ysoserial.hibernate1.Hibernate_ComponentType->getPropertyValue [(Ljava/lang/Object;I)Ljava/lang/Object;] T[TT]  serializable
+gleipner.chains.ysoserial.hibernate1.Hibernate_ComponentType->getHashCode [(Ljava/lang/Object;)I] T[T]  serializable
+gleipner.chains.ysoserial.hibernate1.Hibernate_TypedValue$1->initialize [()Ljava/lang/Integer;] T[]  instantiable
+gleipner.chains.ysoserial.hibernate1.Hibernate_TypedValue$1->initialize [()Ljava/lang/Object;] T[]  instantiable
+gleipner.chains.ysoserial.hibernate1.Hibernate_ValueHolder->getValue [()Ljava/lang/Object;] T[]  instantiable
+gleipner.chains.ysoserial.hibernate1.Hibernate_TypedValue->trampolineMethod [()V] U[]  serializable
+
+gleipner.core.Controller::invokeSink [(Ljava/lang/String;)V] U[T]
+gleipner.chains.depth.Depth_006_SinkGadget->linkMethod [()V] T[]  serializable
+gleipner.chains.depth.Depth_006_LinkGadget7->linkMethod [()V] T[]  serializable
+gleipner.chains.depth.Depth_006_LinkGadget6->linkMethod [()V] T[]  serializable
+gleipner.chains.depth.Depth_006_LinkGadget5->linkMethod [()V] T[]  serializable
+gleipner.chains.depth.Depth_006_LinkGadget4->linkMethod [()V] T[]  serializable
+gleipner.chains.depth.Depth_006_LinkGadget3->linkMethod [()V] T[]  serializable
+gleipner.chains.depth.Depth_006_LinkGadget2->linkMethod [()V] T[]  serializable
+gleipner.chains.depth.Depth_006_LinkGadget1->linkMethod [()V] T[]  serializable
+gleipner.chains.depth.Depth_006_TriggerGadget->trampolineMethod [()V] U[]  serializable
+
+gleipner.core.Controller::invokeSink [(Ljava/lang/String;)V] U[T]
+gleipner.chains.depth.Depth_007_SinkGadget->linkMethod [()V] T[]  serializable
+gleipner.chains.depth.Depth_007_LinkGadget8->linkMethod [()V] T[]  serializable
+gleipner.chains.depth.Depth_007_LinkGadget7->linkMethod [()V] T[]  serializable
+gleipner.chains.depth.Depth_007_LinkGadget6->linkMethod [()V] T[]  serializable
+gleipner.chains.depth.Depth_007_LinkGadget5->linkMethod [()V] T[]  serializable
+gleipner.chains.depth.Depth_007_LinkGadget4->linkMethod [()V] T[]  serializable
+gleipner.chains.depth.Depth_007_LinkGadget3->linkMethod [()V] T[]  serializable
+gleipner.chains.depth.Depth_007_LinkGadget2->linkMethod [()V] T[]  serializable
+gleipner.chains.depth.Depth_007_LinkGadget1->linkMethod [()V] T[]  serializable
+gleipner.chains.depth.Depth_007_TriggerGadget->trampolineMethod [()V] U[]  serializable
+
+gleipner.core.Controller::invokeSink [(Ljava/lang/String;)V] U[T]
+gleipner.chains.depth.Depth_008_SinkGadget->linkMethod [()V] T[]  serializable
+gleipner.chains.depth.Depth_008_LinkGadget9->linkMethod [()V] T[]  serializable
+gleipner.chains.depth.Depth_008_LinkGadget8->linkMethod [()V] T[]  serializable
+gleipner.chains.depth.Depth_008_LinkGadget7->linkMethod [()V] T[]  serializable
+gleipner.chains.depth.Depth_008_LinkGadget6->linkMethod [()V] T[]  serializable
+gleipner.chains.depth.Depth_008_LinkGadget5->linkMethod [()V] T[]  serializable
+gleipner.chains.depth.Depth_008_LinkGadget4->linkMethod [()V] T[]  serializable
+gleipner.chains.depth.Depth_008_LinkGadget3->linkMethod [()V] T[]  serializable
+gleipner.chains.depth.Depth_008_LinkGadget2->linkMethod [()V] T[]  serializable
+gleipner.chains.depth.Depth_008_LinkGadget1->linkMethod [()V] T[]  serializable
+gleipner.chains.depth.Depth_008_TriggerGadget->trampolineMethod [()V] U[]  serializable
+
+gleipner.core.Controller::invokeSink [(Ljava/lang/String;)V] U[T]
+gleipner.chains.depth.Depth_009_SinkGadget->linkMethod [()V] T[]  serializable
+gleipner.chains.depth.Depth_009_LinkGadget10->linkMethod [()V] T[]  serializable
+gleipner.chains.depth.Depth_009_LinkGadget9->linkMethod [()V] T[]  serializable
+gleipner.chains.depth.Depth_009_LinkGadget8->linkMethod [()V] T[]  serializable
+gleipner.chains.depth.Depth_009_LinkGadget7->linkMethod [()V] T[]  serializable
+gleipner.chains.depth.Depth_009_LinkGadget6->linkMethod [()V] T[]  serializable
+gleipner.chains.depth.Depth_009_LinkGadget5->linkMethod [()V] T[]  serializable
+gleipner.chains.depth.Depth_009_LinkGadget4->linkMethod [()V] T[]  serializable
+gleipner.chains.depth.Depth_009_LinkGadget3->linkMethod [()V] T[]  serializable
+gleipner.chains.depth.Depth_009_LinkGadget2->linkMethod [()V] T[]  serializable
+gleipner.chains.depth.Depth_009_LinkGadget1->linkMethod [()V] T[]  serializable
+gleipner.chains.depth.Depth_009_TriggerGadget->trampolineMethod [()V] U[]  serializable

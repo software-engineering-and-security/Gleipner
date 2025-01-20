@@ -1,0 +1,60 @@
+0 [main] INFO  analysis.BaseAnalysis  - Starting up static analysis...
+1 [main] INFO  analysis.BaseAnalysis  - Sink ID mode
+1 [main] INFO  analysis.BaseAnalysis  - Checking file:/root/SeriFuzz/jazzer/crashes/potential_sinks
+5 [main] INFO  analysis.BaseAnalysis  - Jar file:/root/SeriFuzz/targets/gleipner/gleipner.jar
+5 [main] INFO  analysis.BaseAnalysis  - Source dir:/root/SeriFuzz/targets/gleipner
+5 [main] DEBUG analysis.BaseAnalysis  - No matching rules found for a library, loading in default rules
+1062 [main] INFO  analysis.SinkAnalysis  - Number of reachable nodes:7
+1062 [main] INFO  analysis.SinkAnalysis  - Number of reachable edges:11
+1141 [main] DEBUG analysis.SinkAnalysis  - Pre-processing type:[Lgleipner.chains.ysoserial.cc1.Transformer; to gleipner.chains.ysoserial.cc1.Transformer[]
+1150 [main] DEBUG analysis.SinkAnalysis  - Pre-processing type:[Ljava.lang.Class; to java.lang.Class[]
+1176 [main] DEBUG analysis.SinkAnalysis  - Stmt:$r7 = virtualinvoke $r5.<java.lang.reflect.Method: java.lang.Object invoke(java.lang.Object,java.lang.Object[])>(r0, $r6)
+1176 [main] DEBUG analysis.SinkAnalysis  - Found user-controlled invocation of Method.invoke!
+1176 [main] DEBUG analysis.SinkAnalysis  - Analyzing class:gleipner.chains.ysoserial.cc1.AnnotationInvocationHandler
+1176 [main] DEBUG analysis.SinkAnalysis  - Analyzing gadget:void <clinit>()
+1177 [main] DEBUG analysis.SinkAnalysis  - Performing intra-procedural analysis
+1180 [main] DEBUG analysis.SinkAnalysis  - Performing recursive method analysis using the call graph
+1180 [main] DEBUG analysis.SinkAnalysis  - Analyzing descendant:<gleipner.chains.ysoserial.cc1.AnnotationInvocationHandler: void <clinit>()>
+1181 [main] DEBUG analysis.SinkAnalysis  - Performing transitive transformation anaylsis
+1183 [main] DEBUG analysis.SinkAnalysis  - Analyzing class:gleipner.chains.ysoserial.cc1.InvokerTransformer
+1183 [main] DEBUG analysis.SinkAnalysis  - Analyzing gadget:java.lang.Object transform(java.lang.Object)
+1183 [main] DEBUG analysis.SinkAnalysis  - Already added to flagged list as a part of vulnerable method flagging module, skipping analysis
+1183 [main] DEBUG analysis.SinkAnalysis  - Analyzing class:gleipner.chains.ysoserial.cc1.ChainedTransformer
+1183 [main] DEBUG analysis.SinkAnalysis  - Analyzing gadget:java.lang.Object transform(java.lang.Object)
+1183 [main] DEBUG analysis.SinkAnalysis  - Already added to flagged list as a part of vulnerable method flagging module, skipping analysis
+1183 [main] DEBUG analysis.SinkAnalysis  - Analyzing class:gleipner.chains.ysoserial.cc1.ConstantTransformer
+1183 [main] DEBUG analysis.SinkAnalysis  - Analyzing gadget:java.lang.Object transform(java.lang.Object)
+1183 [main] DEBUG analysis.SinkAnalysis  - Performing intra-procedural analysis
+1183 [main] DEBUG analysis.SinkAnalysis  - Field ref found successfully
+1184 [main] INFO  analysis.SinkAnalysis  - Class:gleipner.chains.ysoserial.cc1.ConstantTransformer Potential Sink:transform
+1184 [main] DEBUG analysis.SinkAnalysis  - Found using intra-procedural
+1184 [main] DEBUG analysis.SinkAnalysis  - Analyzing class:gleipner.chains.ysoserial.cc1.LazyMap
+1184 [main] DEBUG analysis.SinkAnalysis  - Analyzing gadget:java.lang.Object get(java.lang.Object)
+1184 [main] DEBUG analysis.SinkAnalysis  - Already added to flagged list as a part of vulnerable method flagging module, skipping analysis
+1184 [main] DEBUG analysis.SinkAnalysis  - Analyzing gadget:boolean containsKey(java.lang.Object)
+1184 [main] DEBUG analysis.SinkAnalysis  - Performing intra-procedural analysis
+1184 [main] DEBUG analysis.SinkAnalysis  - Performing recursive method analysis using the call graph
+1184 [main] DEBUG analysis.SinkAnalysis  - Analyzing descendant:<gleipner.chains.ysoserial.cc1.LazyMap: boolean containsKey(java.lang.Object)>
+1184 [main] DEBUG analysis.SinkAnalysis  - Performing transitive transformation anaylsis
+1186 [main] DEBUG analysis.SinkAnalysis  - Analyzing gadget:java.lang.Object put(java.lang.Object,java.lang.Object)
+1186 [main] DEBUG analysis.SinkAnalysis  - Performing intra-procedural analysis
+1188 [main] DEBUG analysis.SinkAnalysis  - Performing recursive method analysis using the call graph
+1188 [main] DEBUG analysis.SinkAnalysis  - Analyzing descendant:<gleipner.chains.ysoserial.cc1.LazyMap: java.lang.Object put(java.lang.Object,java.lang.Object)>
+1188 [main] DEBUG analysis.SinkAnalysis  - Performing transitive transformation anaylsis
+1188 [main] INFO  analysis.SinkAnalysis  - Writing processed sinks to:/root/SeriFuzz/jazzer/crashes/potential_sinks_processed
+1190 [main] INFO  analysis.SinkAnalysis  - Confirmed exploitable sinks:1
+1190 [main] INFO  analysis.SinkAnalysis  - Writing exploitable sinks to:/root/SeriFuzz/jazzer/crashes/potential_sinks_exploitable
+1190 [main] DEBUG analysis.SinkAnalysis  - ==CULLED SINKS==
+1190 [main] DEBUG analysis.SinkAnalysis  - <gleipner.chains.ysoserial.cc1.LazyMap: boolean containsKey(java.lang.Object)>
+1190 [main] DEBUG analysis.SinkAnalysis  - <gleipner.chains.ysoserial.cc1.AnnotationInvocationHandler: java.lang.Object invoke(java.lang.Object,java.lang.reflect.Method,java.lang.Object[])>
+1190 [main] DEBUG analysis.SinkAnalysis  - <gleipner.chains.ysoserial.cc1.LazyMap: java.lang.Object put(java.lang.Object,java.lang.Object)>
+1190 [main] DEBUG analysis.SinkAnalysis  - <gleipner.chains.ysoserial.cc1.LazyMap: java.util.Set entrySet()>
+1190 [main] DEBUG analysis.SinkAnalysis  - <gleipner.chains.ysoserial.cc1.AnnotationInvocationHandler: void <clinit>()>
+1190 [main] DEBUG analysis.SinkAnalysis  - ==FINAL SINKS==
+1190 [main] DEBUG analysis.SinkAnalysis  - <gleipner.chains.ysoserial.cc1.InvokerTransformer: java.lang.Object transform(java.lang.Object)>
+1190 [main] DEBUG analysis.SinkAnalysis  - <gleipner.chains.ysoserial.cc1.LazyMap: java.lang.Object get(java.lang.Object)>
+1190 [main] DEBUG analysis.SinkAnalysis  - <gleipner.chains.ysoserial.cc1.ConstantTransformer: java.lang.Object transform(java.lang.Object)>
+1190 [main] DEBUG analysis.SinkAnalysis  - <gleipner.chains.ysoserial.cc1.ChainedTransformer: java.lang.Object transform(java.lang.Object)>
+1190 [main] INFO  analysis.SinkAnalysis  - Exploitable sink set size:1
+1190 [main] INFO  analysis.SinkAnalysis  - Initial sink set size:9
+1190 [main] INFO  analysis.SinkAnalysis  - Final sink set size:4

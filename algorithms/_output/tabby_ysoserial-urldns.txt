@@ -1,0 +1,10 @@
+[
+<gleipner.core.SinkGadget: void sinkMethod(java.lang.String)>
+<gleipner.chains.ysoserial.urldns.URL: java.lang.String getHostAddress()>
+<gleipner.chains.ysoserial.urldns.URLStreamHandler: java.lang.String getHostAdress(gleipner.chains.ysoserial.urldns.URL)>
+<gleipner.chains.ysoserial.urldns.URLStreamHandler: int hashCode(gleipner.chains.ysoserial.urldns.URL)>
+<gleipner.chains.ysoserial.urldns.URL: int hashCode()>
+<gleipner.core.GleipnerObject: int hashCode()>
+<gleipner.core.TriggerGadget: void readObject(java.io.ObjectInputStream)>
+]
+

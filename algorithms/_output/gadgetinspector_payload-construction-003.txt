@@ -1,0 +1,4 @@
+gleipner/chains/taint/Taint_003_Trampoline.hashCode()I (0)
+  gleipner/chains/taint/nested/NestedSink.invoke(Ljava/lang/String;)Ljava/lang/String; (0)
+  gleipner/core/SinkGadget.sinkMethod(Ljava/lang/String;)V (0)
+

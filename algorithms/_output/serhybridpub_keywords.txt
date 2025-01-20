@@ -1,0 +1,6 @@
+<gleipner.chains.keywords.Transient_002_FP_TrampolineMethod: java.lang.String taint>
+
+<gleipner.chains.keywords.Transient_001_TrampolineMethod: java.lang.String taint>
+
+<gleipner.chains.keywords.Serializable_001_TrampolineMethod: java.lang.String taint>
+

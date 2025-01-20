@@ -1,0 +1,5 @@
+gleipner.chains.ysoserial.myfaces1.MyFaces_ValueExpressionMethodExpression;hashCode;
+gleipner.chains.ysoserial.myfaces1.MyFaces_ValueExpressionMethodExpression;getMethodExpression;
+gleipner.chains.ysoserial.myfaces1.MyFaces_ValueExpressionMethodExpression;getMethodExpression;Lgleipnir.chains.ysoserial.myfaces1.MyFaces_ELContext
+gleipner.chains.ysoserial.myfaces1.MyFaces_ValueExpressionImpl;getValue;Lgleipnir.chains.ysoserial.myfaces1.MyFaces_ELContext
+gleipner.core.Controller;invokeSink;Ljava.lang.String

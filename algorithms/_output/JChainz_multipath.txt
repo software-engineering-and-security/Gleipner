@@ -1,0 +1,60 @@
+[
+ <gleipner.chains.multipath.Multipath_001_TrampolineGadget: void readObject(java.io.ObjectInputStream)>
+ <gleipner.chains.multipath.Multipath_001_LinkGadget10: void linkMethod()>
+ <gleipner.chains.multipath.Multipath_001_SinkGadget: void linkMethod()>
+ <gleipner.core.SinkGadget: void sinkMethod(java.lang.String)>
+]
+[
+ <gleipner.chains.multipath.Multipath_001_TrampolineGadget: void readObject(java.io.ObjectInputStream)>
+ <gleipner.chains.multipath.Multipath_001_LinkGadget1: void linkMethod()>
+ <gleipner.chains.multipath.Multipath_001_SinkGadget: void linkMethod()>
+ <gleipner.core.SinkGadget: void sinkMethod(java.lang.String)>
+]
+[
+ <gleipner.chains.multipath.Multipath_001_TrampolineGadget: void readObject(java.io.ObjectInputStream)>
+ <gleipner.chains.multipath.Multipath_001_LinkGadget7: void linkMethod()>
+ <gleipner.chains.multipath.Multipath_001_SinkGadget: void linkMethod()>
+ <gleipner.core.SinkGadget: void sinkMethod(java.lang.String)>
+]
+[
+ <gleipner.chains.multipath.Multipath_001_TrampolineGadget: void readObject(java.io.ObjectInputStream)>
+ <gleipner.chains.multipath.Multipath_001_LinkGadget3: void linkMethod()>
+ <gleipner.chains.multipath.Multipath_001_SinkGadget: void linkMethod()>
+ <gleipner.core.SinkGadget: void sinkMethod(java.lang.String)>
+]
+[
+ <gleipner.chains.multipath.Multipath_001_TrampolineGadget: void readObject(java.io.ObjectInputStream)>
+ <gleipner.chains.multipath.Multipath_001_LinkGadget9: void linkMethod()>
+ <gleipner.chains.multipath.Multipath_001_SinkGadget: void linkMethod()>
+ <gleipner.core.SinkGadget: void sinkMethod(java.lang.String)>
+]
+[
+ <gleipner.chains.multipath.Multipath_001_TrampolineGadget: void readObject(java.io.ObjectInputStream)>
+ <gleipner.chains.multipath.Multipath_001_LinkGadget6: void linkMethod()>
+ <gleipner.chains.multipath.Multipath_001_SinkGadget: void linkMethod()>
+ <gleipner.core.SinkGadget: void sinkMethod(java.lang.String)>
+]
+[
+ <gleipner.chains.multipath.Multipath_001_TrampolineGadget: void readObject(java.io.ObjectInputStream)>
+ <gleipner.chains.multipath.Multipath_001_LinkGadget4: void linkMethod()>
+ <gleipner.chains.multipath.Multipath_001_SinkGadget: void linkMethod()>
+ <gleipner.core.SinkGadget: void sinkMethod(java.lang.String)>
+]
+[
+ <gleipner.chains.multipath.Multipath_001_TrampolineGadget: void readObject(java.io.ObjectInputStream)>
+ <gleipner.chains.multipath.Multipath_001_LinkGadget8: void linkMethod()>
+ <gleipner.chains.multipath.Multipath_001_SinkGadget: void linkMethod()>
+ <gleipner.core.SinkGadget: void sinkMethod(java.lang.String)>
+]
+[
+ <gleipner.chains.multipath.Multipath_001_TrampolineGadget: void readObject(java.io.ObjectInputStream)>
+ <gleipner.chains.multipath.Multipath_001_LinkGadget5: void linkMethod()>
+ <gleipner.chains.multipath.Multipath_001_SinkGadget: void linkMethod()>
+ <gleipner.core.SinkGadget: void sinkMethod(java.lang.String)>
+]
+[
+ <gleipner.chains.multipath.Multipath_001_TrampolineGadget: void readObject(java.io.ObjectInputStream)>
+ <gleipner.chains.multipath.Multipath_001_LinkGadget2: void linkMethod()>
+ <gleipner.chains.multipath.Multipath_001_SinkGadget: void linkMethod()>
+ <gleipner.core.SinkGadget: void sinkMethod(java.lang.String)>
+]

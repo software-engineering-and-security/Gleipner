@@ -1,0 +1,147 @@
+Vulnerable Class:gleipner.chains.ysoserial.cc1.AnnotationInvocationHandler Vulnerable Method:<gleipner.chains.ysoserial.cc1.AnnotationInvocationHandler: java.lang.Object invoke(java.lang.Object,java.lang.reflect.Method,java.lang.Object[])> Vulnerable Argument:class java.lang.Object Time:1
+==Construction Steps==
+Instantiating method:invoke
+Instantiating raw type:class java.lang.Object
+Making choice for object.class:5
+Instantiating raw type:class jaz.Zer
+Instantiating constructor:public jaz.Zer()
+Vulnerable Class:gleipner.chains.ysoserial.cc1.LazyMap Vulnerable Member:interface gleipner.chains.ysoserial.cc1.Transformer Time:1
+==Potential Gadgets==
+<gleipner.chains.ysoserial.cc1.LazyMap: java.lang.Object get(java.lang.Object)>
+<gleipner.chains.ysoserial.cc1.LazyMap: boolean containsKey(java.lang.Object)>
+<gleipner.chains.ysoserial.cc1.LazyMap: java.lang.Object put(java.lang.Object,java.lang.Object)>
+<gleipner.chains.ysoserial.cc1.LazyMap: java.util.Set entrySet()>
+==Construction Steps==
+Instantiating raw type:class gleipner.chains.ysoserial.cc1.LazyMap
+Instantiating constructor:protected gleipner.chains.ysoserial.cc1.LazyMap(java.util.Map,gleipner.chains.ysoserial.cc1.Transformer)
+Instantiating raw type:interface java.util.Map
+Found raw type instantiation, returning a raw hashmap, choice:0
+Instantiating raw type:interface gleipner.chains.ysoserial.cc1.Transformer
+Interface/Abstract type detected..choosing a class
+Instantiating raw type:class gleipner.chains.ysoserial.cc1.ConstantTransformer
+Instantiating constructor:public gleipner.chains.ysoserial.cc1.ConstantTransformer(java.lang.Object)
+Instantiating raw type:class java.lang.Object
+Making choice for object.class:5
+Instantiating raw type:class jaz.Zer
+Instantiating constructor:public jaz.Zer()
+Vulnerable Class:gleipner.chains.ysoserial.cc1.ChainedTransformer Vulnerable Member:class [Lgleipner.chains.ysoserial.cc1.Transformer; Time:1
+==Potential Gadgets==
+<gleipner.chains.ysoserial.cc1.ChainedTransformer: java.lang.Object transform(java.lang.Object)>
+==Construction Steps==
+Instantiating raw type:class gleipner.chains.ysoserial.cc1.ChainedTransformer
+Instantiating constructor:public gleipner.chains.ysoserial.cc1.ChainedTransformer(gleipner.chains.ysoserial.cc1.Transformer[])
+Instantiating raw type:class [Lgleipner.chains.ysoserial.cc1.Transformer;
+Instantiating raw type:interface gleipner.chains.ysoserial.cc1.Transformer
+Interface/Abstract type detected..choosing a class
+Instantiating raw type:class gleipner.chains.ysoserial.cc1.ConstantTransformer
+Instantiating constructor:public gleipner.chains.ysoserial.cc1.ConstantTransformer(java.lang.Object)
+Instantiating raw type:class java.lang.Object
+Making choice for object.class:5
+Instantiating raw type:class jaz.Zer
+Instantiating constructor:public jaz.Zer()
+Vulnerable Class:gleipner.chains.ysoserial.cc1.AnnotationInvocationHandler Vulnerable Member:class java.lang.Class Time:1
+==Potential Gadgets==
+<gleipner.chains.ysoserial.cc1.AnnotationInvocationHandler: java.lang.Object invoke(java.lang.Object,java.lang.reflect.Method,java.lang.Object[])>
+<gleipner.chains.ysoserial.cc1.AnnotationInvocationHandler: void <clinit>()>
+==Construction Steps==
+Instantiating raw type:class gleipner.chains.ysoserial.cc1.AnnotationInvocationHandler
+Instantiating constructor:protected gleipner.chains.ysoserial.cc1.AnnotationInvocationHandler(java.lang.Class,gleipner.chains.ysoserial.cc1.IntermediaryMap)
+Instantiating raw type:class java.lang.Class
+Instantiating raw type:interface gleipner.chains.ysoserial.cc1.IntermediaryMap
+Interface/Abstract type detected..choosing a class
+Instantiating raw type:class gleipner.chains.ysoserial.cc1.LazyMap
+Instantiating constructor:protected gleipner.chains.ysoserial.cc1.LazyMap(java.util.Map,gleipner.chains.ysoserial.cc1.Transformer)
+Instantiating raw type:interface java.util.Map
+Found raw type instantiation, returning a raw hashmap, choice:0
+Instantiating raw type:interface gleipner.chains.ysoserial.cc1.Transformer
+Interface/Abstract type detected..choosing a class
+Instantiating raw type:class gleipner.chains.ysoserial.cc1.ConstantTransformer
+Instantiating constructor:public gleipner.chains.ysoserial.cc1.ConstantTransformer(java.lang.Object)
+Instantiating raw type:class java.lang.Object
+Making choice for object.class:5
+Instantiating raw type:class jaz.Zer
+Instantiating constructor:public jaz.Zer()
+Vulnerable Class:gleipner.chains.ysoserial.cc1.ChainedTransformer Vulnerable Method:<gleipner.chains.ysoserial.cc1.ChainedTransformer: java.lang.Object transform(java.lang.Object)> Vulnerable Argument:class java.lang.Object Time:1
+==Construction Steps==
+Instantiating method:transform
+Instantiating raw type:class java.lang.Object
+Making choice for object.class:5
+Instantiating raw type:class jaz.Zer
+Instantiating constructor:public jaz.Zer(java.lang.String,java.lang.Throwable)
+Instantiating raw type:class java.lang.String
+Making choice for String.class:1
+Instantiating raw type:class java.lang.Throwable
+Instantiating constructor:public java.lang.Throwable()
+Vulnerable Class:gleipner.chains.ysoserial.cc1.InvokerTransformer Vulnerable Member:class [Ljava.lang.Class; Time:1
+==Potential Gadgets==
+<gleipner.chains.ysoserial.cc1.InvokerTransformer: java.lang.Object transform(java.lang.Object)>
+==Construction Steps==
+Instantiating raw type:class gleipner.chains.ysoserial.cc1.InvokerTransformer
+Instantiating constructor:public gleipner.chains.ysoserial.cc1.InvokerTransformer(java.lang.String,java.lang.Class[],java.lang.Object[])
+Instantiating raw type:class java.lang.String
+Making choice for String.class:4
+Instantiating raw type:class [Ljava.lang.Class;
+Instantiating raw type:class java.lang.Class
+Instantiating raw type:class [Ljava.lang.Object;
+Instantiating raw type:class java.lang.Object
+Making choice for object.class:5
+Instantiating raw type:class jaz.Zer
+Instantiating constructor:public jaz.Zer(java.lang.String,java.lang.Throwable)
+Instantiating raw type:class java.lang.String
+Making choice for String.class:4
+Instantiating raw type:class java.lang.Throwable
+Instantiating constructor:public java.lang.Throwable()
+Vulnerable Class:gleipner.chains.ysoserial.cc1.LazyMap Vulnerable Method:<gleipner.chains.ysoserial.cc1.LazyMap: java.lang.Object get(java.lang.Object)> Vulnerable Argument:class java.lang.Object Time:1
+==Construction Steps==
+Instantiating method:get
+Instantiating raw type:class java.lang.Object
+Making choice for object.class:5
+Instantiating raw type:class jaz.Zer
+Instantiating constructor:public jaz.Zer()
+Vulnerable Class:gleipner.chains.ysoserial.cc1.ConstantTransformer Vulnerable Member:class java.lang.Object Time:1
+==Potential Gadgets==
+<gleipner.chains.ysoserial.cc1.ConstantTransformer: java.lang.Object transform(java.lang.Object)>
+==Construction Steps==
+Instantiating raw type:class gleipner.chains.ysoserial.cc1.ConstantTransformer
+Instantiating constructor:public gleipner.chains.ysoserial.cc1.ConstantTransformer(java.lang.Object)
+Instantiating raw type:class java.lang.Object
+Making choice for object.class:5
+Instantiating raw type:class jaz.Zer
+Instantiating constructor:public jaz.Zer(java.lang.String,java.lang.Throwable)
+Instantiating raw type:class java.lang.String
+Making choice for String.class:0
+Instantiating raw type:class java.lang.Throwable
+Instantiating constructor:public java.lang.Throwable()
+Vulnerable Class:gleipner.chains.ysoserial.cc1.ConstantTransformer Vulnerable Method:<gleipner.chains.ysoserial.cc1.ConstantTransformer: java.lang.Object transform(java.lang.Object)> Vulnerable Argument:class java.lang.Object Time:1
+==Construction Steps==
+Instantiating method:transform
+Instantiating raw type:class java.lang.Object
+Making choice for object.class:5
+Instantiating raw type:class jaz.Zer
+Instantiating constructor:public jaz.Zer(java.lang.String,java.lang.Throwable)
+Instantiating raw type:class java.lang.String
+Making choice for String.class:0
+Instantiating raw type:class java.lang.Throwable
+Instantiating constructor:public java.lang.Throwable(java.lang.String,java.lang.Throwable)
+Instantiating raw type:class java.lang.String
+Making choice for String.class:3
+Instantiating raw type:class java.lang.Throwable
+Instantiating constructor:public java.lang.Throwable()
+Vulnerable Class:gleipner.chains.ysoserial.cc1.LazyMap Vulnerable Method:<gleipner.chains.ysoserial.cc1.LazyMap: boolean containsKey(java.lang.Object)> Vulnerable Argument:class java.lang.Object Time:1
+==Construction Steps==
+Instantiating method:containsKey
+Instantiating raw type:class java.lang.Object
+Making choice for object.class:5
+Instantiating raw type:class jaz.Zer
+Instantiating constructor:public jaz.Zer(java.lang.String)
+Instantiating raw type:class java.lang.String
+Making choice for String.class:0
+Vulnerable Class:gleipner.chains.ysoserial.cc1.InvokerTransformer Vulnerable Method:<gleipner.chains.ysoserial.cc1.InvokerTransformer: java.lang.Object transform(java.lang.Object)> Vulnerable Argument:class java.lang.Object Time:1
+==Construction Steps==
+Instantiating method:transform
+Instantiating raw type:class java.lang.Object
+Making choice for object.class:5
+Instantiating raw type:class jaz.Zer
+Instantiating constructor:public jaz.Zer(java.lang.String)
+Instantiating raw type:class java.lang.String
+Making choice for String.class:1

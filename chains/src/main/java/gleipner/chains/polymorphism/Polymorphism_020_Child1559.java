@@ -1,0 +1,8 @@
+package gleipner.chains.polymorphism;
+
+public class Polymorphism_020_Child1559 extends Polymorphism_020_Child1558{
+    @Override
+    public void linkMethod() {
+        super.linkMethod();
+    }
+}

@@ -1,0 +1,5 @@
+[EXEC Gadget] <gleipner.chains.reflection.classloading.Classloading_001_Trampoline: int hashCode()>
+ -> <gleipner.core.SinkGadget: void sinkMethod(java.lang.String)>
+[EXEC Gadget] <gleipner.chains.reflection.classloading.Classloading_002_FP_Trampoline: int hashCode()>
+ -> <gleipner.core.SinkGadget: void sinkMethod(java.lang.String)>
+

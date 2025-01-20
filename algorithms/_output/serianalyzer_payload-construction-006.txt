@@ -1,0 +1,4 @@
+gleipner.core.SinkGadget->sinkMethod [(Ljava/lang/String;)V] T[U]  serializable
+gleipner.chains.taint.nested.NestedSink->invoke [(Ljava/lang/String;)Ljava/lang/String;] T[T]  serializable
+gleipner.chains.taint.Taint_006_Trampoline->hashCode [()I] U[]  serializable
+

@@ -1,0 +1,2 @@
+<sun.security.util.ObjectIdentifier: java.lang.String stringForm>
+<sun.security.x509.AlgorithmId: sun.security.util.ObjectIdentifier algid>

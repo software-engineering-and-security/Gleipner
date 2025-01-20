@@ -1,0 +1,27 @@
+<gleipner.chains.runtime_exceptions.ArrayStoreException_002_FP_Trampoline: java.lang.String taint>
+
+<gleipner.chains.runtime_exceptions.NullPointerException_001_Trampoline: java.lang.String taint>
+
+<gleipner.chains.runtime_exceptions.ArithmeticException_001_Trampoline: java.lang.String taint>
+
+<gleipner.chains.runtime_exceptions.IndexOutOfBoundsException_001_Trampoline: java.lang.String taint>
+
+<gleipner.chains.runtime_exceptions.NullPointerException_002_FP_Trampoline: java.lang.String taint>
+
+<gleipner.chains.runtime_exceptions.NoSuchElementException_001_Trampoline: java.lang.String taint>
+
+<gleipner.chains.runtime_exceptions.NegativeArraySizeException_001_Trampoline: java.lang.String taint>
+
+<gleipner.chains.runtime_exceptions.EmptyStackException_002_FP_Trampoline: java.lang.String taint>
+
+<gleipner.chains.runtime_exceptions.IndexOutOfBoundsException_002_FP_Trampoline: java.lang.String taint>
+
+<gleipner.chains.runtime_exceptions.NegativeArraySizeException_002_FP_Trampoline: java.lang.String taint>
+
+<gleipner.chains.runtime_exceptions.EmptyStackException_001_Trampoline: java.lang.String taint>
+
+<gleipner.chains.runtime_exceptions.NoSuchElementException_002_FP_Trampoline: java.lang.String taint>
+
+<gleipner.chains.runtime_exceptions.ArrayStoreException_001_Trampoline: java.lang.String taint>
+
+

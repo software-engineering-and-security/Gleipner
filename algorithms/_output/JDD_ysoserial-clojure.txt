@@ -1,0 +1,5 @@
+[EXEC Gadget] <gleipner.chains.ysoserial.clojure.AbstractTableModel$ff19274a: int hashCode()>
+ -> <gleipner.chains.ysoserial.clojure.main$eval_opt: java.lang.Object invoke(java.lang.Object)>
+ -> <gleipner.chains.ysoserial.clojure.main$eval_opt: java.lang.Object invokeStatic(java.lang.Object)>
+ -> <gleipner.core.SinkGadget: void sinkMethod(java.lang.String)>
+

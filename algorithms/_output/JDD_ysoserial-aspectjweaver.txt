@@ -1,0 +1,4 @@
+[EXEC Gadget] <gleipner.chains.ysoserial.aspectjweaver.SimpleCache$StoreableCachingMap: java.lang.Object put(java.lang.Object,java.lang.Object)>
+ -> <gleipner.chains.ysoserial.aspectjweaver.SimpleCache$StoreableCachingMap: java.lang.String writeToPath(java.lang.Object,java.lang.String)>
+ -> <gleipner.core.SinkGadget: void sinkMethod(java.lang.String)>
+

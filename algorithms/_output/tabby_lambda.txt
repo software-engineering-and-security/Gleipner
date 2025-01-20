@@ -1,0 +1,40 @@
+[
+<gleipner.core.SinkGadget: void sinkMethod(java.lang.String[])>
+<gleipner.chains.lambda.Lambda_001_Trampoline: void lambda$hashCode$0(java.lang.String)>
+<gleipner.chains.lambda.Lambda_001_Trampoline$lambda_hashCode_0__1: void method(java.lang.String)>
+<gleipner.chains.lambda.ILambdaExpr: void method(java.lang.String)>
+<gleipner.chains.lambda.Lambda_001_Trampoline: int hashCode()>
+<gleipner.core.GleipnerObject: int hashCode()>
+<gleipner.core.TriggerGadget: void readObject(java.io.ObjectInputStream)>
+]
+
+[
+<gleipner.core.SinkGadget: void sinkMethod(java.lang.String[])>
+<gleipner.chains.lambda.Lambda_001_Trampoline: void lambda$hashCode$0(java.lang.String)>
+<gleipner.chains.lambda.Lambda_001_Trampoline$lambda_hashCode_0__1: void method(java.lang.String)>
+<gleipner.chains.lambda.ILambdaExpr: void method(java.lang.String)>
+<gleipner.chains.lambda.Lambda_002_FP_Trampoline: int hashCode()>
+<gleipner.core.GleipnerObject: int hashCode()>
+<gleipner.core.TriggerGadget: void readObject(java.io.ObjectInputStream)>
+]
+
+[
+<gleipner.core.SinkGadget: void sinkMethod(java.lang.String[])>
+<gleipner.chains.lambda.Lambda_002_FP_Trampoline: void lambda$hashCode$0(java.lang.String)>
+<gleipner.chains.lambda.Lambda_002_FP_Trampoline$lambda_hashCode_0__2: void method(java.lang.String)>
+<gleipner.chains.lambda.ILambdaExpr: void method(java.lang.String)>
+<gleipner.chains.lambda.Lambda_001_Trampoline: int hashCode()>
+<gleipner.core.GleipnerObject: int hashCode()>
+<gleipner.core.TriggerGadget: void readObject(java.io.ObjectInputStream)>
+]
+
+[
+<gleipner.core.SinkGadget: void sinkMethod(java.lang.String[])>
+<gleipner.chains.lambda.Lambda_002_FP_Trampoline: void lambda$hashCode$0(java.lang.String)>
+<gleipner.chains.lambda.Lambda_002_FP_Trampoline$lambda_hashCode_0__2: void method(java.lang.String)>
+<gleipner.chains.lambda.ILambdaExpr: void method(java.lang.String)>
+<gleipner.chains.lambda.Lambda_002_FP_Trampoline: int hashCode()>
+<gleipner.core.GleipnerObject: int hashCode()>
+<gleipner.core.TriggerGadget: void readObject(java.io.ObjectInputStream)>
+]
+

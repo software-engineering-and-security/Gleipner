@@ -1,0 +1,8 @@
+gleipner.core.SinkGadget->sinkMethod [(Ljava/lang/String;)V] T[U]  serializable
+gleipner.chains.lambda.Lambda_002_FP_Trampoline->lambda$hashCode$0 [(Ljava/lang/String;)V] U[U]  serializable
+gleipner.chains.lambda.Lambda_002_FP_Trampoline->hashCode [()I] T[]  serializable
+
+gleipner.core.SinkGadget->sinkMethod [(Ljava/lang/String;)V] T[U]  serializable
+gleipner.chains.lambda.Lambda_001_Trampoline->lambda$hashCode$0 [(Ljava/lang/String;)V] U[U]  serializable
+gleipner.chains.lambda.Lambda_001_Trampoline->hashCode [()I] T[]  serializable
+

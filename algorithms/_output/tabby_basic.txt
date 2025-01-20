@@ -1,0 +1,13 @@
+[
+<gleipner.core.SinkGadget: void sinkMethod(java.lang.String[])>
+<gleipner.chains.basic.BasicTriggerGadget: void readObject(java.io.ObjectInputStream)>
+]
+
+[
+<gleipner.core.SinkGadget: void sinkMethod(java.lang.String[])>
+<gleipner.chains.basic.BasicSinkGadget: void load()>
+<gleipner.chains.basic.BasicLinkGadget: int hashCode()>
+<gleipner.core.GleipnerObject: int hashCode()>
+<gleipner.core.TriggerGadget: void readObject(java.io.ObjectInputStream)>
+]
+

@@ -1,0 +1,17 @@
+0 [main] INFO  analysis.BaseAnalysis  - Starting up static analysis...
+1 [main] INFO  analysis.BaseAnalysis  - Sink ID mode
+1 [main] INFO  analysis.BaseAnalysis  - Checking file:/root/SeriFuzz/jazzer/crashes/potential_sinks
+3 [main] INFO  analysis.BaseAnalysis  - Jar file:/root/SeriFuzz/targets/gleipner/gleipner.jar
+3 [main] INFO  analysis.BaseAnalysis  - Source dir:/root/SeriFuzz/targets/gleipner
+4 [main] DEBUG analysis.BaseAnalysis  - No matching rules found for a library, loading in default rules
+975 [main] INFO  analysis.SinkAnalysis  - Number of reachable nodes:2
+975 [main] INFO  analysis.SinkAnalysis  - Number of reachable edges:28
+985 [main] INFO  analysis.SinkAnalysis  - Writing processed sinks to:/root/SeriFuzz/jazzer/crashes/potential_sinks_processed
+986 [main] INFO  analysis.SinkAnalysis  - Confirmed exploitable sinks:1
+986 [main] INFO  analysis.SinkAnalysis  - Writing exploitable sinks to:/root/SeriFuzz/jazzer/crashes/potential_sinks_exploitable
+986 [main] DEBUG analysis.SinkAnalysis  - ==CULLED SINKS==
+987 [main] DEBUG analysis.SinkAnalysis  - ==FINAL SINKS==
+987 [main] DEBUG analysis.SinkAnalysis  - <gleipner.core.SinkGadget: void sinkMethod(java.lang.String)>
+987 [main] INFO  analysis.SinkAnalysis  - Exploitable sink set size:1
+987 [main] INFO  analysis.SinkAnalysis  - Initial sink set size:1
+987 [main] INFO  analysis.SinkAnalysis  - Final sink set size:1

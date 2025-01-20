@@ -1,0 +1,21 @@
+package ${package};
+
+import gleipner.core.annotations.InterProcedural;
+import java.io.Serializable;
+
+public class ${class} implements Serializable {
+    public ${linkGadgetClass} ${linkGadgetVar};
+
+    public ${class} () {
+    }
+
+    public ${class} (${linkGadgetClass} ${linkGadgetVar}) {
+        this.${linkGadgetVar} = ${linkGadgetVar};
+    }
+
+    @InterProcedural(InterProcedural.VIRTUAL_INVOKE)
+    public void linkMethod() {
+        ${linkGadgetVar}.linkMethod();
+    }
+
+}

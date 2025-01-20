@@ -1,0 +1,137 @@
+[
+<gleipner.core.SinkGadget: void sinkMethod(java.lang.String)>
+<gleipner.chains.taint.nested.NestedSink: java.lang.String invoke(java.lang.String)>
+<gleipner.chains.taint.nested.Nested: java.lang.String invoke(java.lang.String)>
+<gleipner.chains.taint.Taint_010_Trampoline: int hashCode()>
+<gleipner.core.GleipnerObject: int hashCode()>
+<gleipner.core.TriggerGadget: void readObject(java.io.ObjectInputStream)>
+]
+
+[
+<gleipner.core.SinkGadget: void sinkMethod(java.lang.String)>
+<gleipner.chains.taint.nested.NestedSink: java.lang.String invoke(java.lang.String)>
+<gleipner.chains.taint.nested.Nested: java.lang.String invoke(java.lang.String)>
+<gleipner.chains.taint.Taint_013_Trampoline: int hashCode()>
+<gleipner.core.GleipnerObject: int hashCode()>
+<gleipner.core.TriggerGadget: void readObject(java.io.ObjectInputStream)>
+]
+
+[
+<gleipner.core.SinkGadget: void sinkMethod(java.lang.String)>
+<gleipner.chains.taint.nested.NestedSink: java.lang.String invoke(java.lang.String)>
+<gleipner.chains.taint.nested.Nested: java.lang.String invoke(java.lang.String)>
+<gleipner.chains.taint.Taint_004_Trampoline: int hashCode()>
+<gleipner.core.GleipnerObject: int hashCode()>
+<gleipner.core.TriggerGadget: void readObject(java.io.ObjectInputStream)>
+]
+
+[
+<gleipner.core.SinkGadget: void sinkMethod(java.lang.String)>
+<gleipner.chains.taint.nested.NestedSink: java.lang.String invoke(java.lang.String)>
+<gleipner.chains.taint.nested.Nested: java.lang.String invoke(java.lang.String)>
+<gleipner.chains.taint.Taint_011_Trampoline: int hashCode()>
+<gleipner.core.GleipnerObject: int hashCode()>
+<gleipner.core.TriggerGadget: void readObject(java.io.ObjectInputStream)>
+]
+
+[
+<gleipner.core.SinkGadget: void sinkMethod(java.lang.String)>
+<gleipner.chains.taint.nested.NestedSink: java.lang.String invoke(java.lang.String)>
+<gleipner.chains.taint.nested.Nested: java.lang.String invoke(java.lang.String)>
+<gleipner.chains.taint.Taint_007_FP_Trampoline: int hashCode()>
+<gleipner.core.GleipnerObject: int hashCode()>
+<gleipner.core.TriggerGadget: void readObject(java.io.ObjectInputStream)>
+]
+
+[
+<gleipner.core.SinkGadget: void sinkMethod(java.lang.String)>
+<gleipner.chains.taint.nested.NestedSink: java.lang.String invoke(java.lang.String)>
+<gleipner.chains.taint.nested.Nested: java.lang.String invoke(java.lang.String)>
+<gleipner.chains.taint.Taint_012_FP_Trampoline: int hashCode()>
+<gleipner.core.GleipnerObject: int hashCode()>
+<gleipner.core.TriggerGadget: void readObject(java.io.ObjectInputStream)>
+]
+
+[
+<gleipner.core.SinkGadget: void sinkMethod(java.lang.String)>
+<gleipner.chains.taint.nested.NestedSink: java.lang.String invoke(java.lang.String)>
+<gleipner.chains.taint.nested.Nested: java.lang.String invoke(java.lang.String)>
+<gleipner.chains.taint.Taint_001_Trampoline: int hashCode()>
+<gleipner.core.GleipnerObject: int hashCode()>
+<gleipner.core.TriggerGadget: void readObject(java.io.ObjectInputStream)>
+]
+
+[
+<gleipner.core.SinkGadget: void sinkMethod(java.lang.String)>
+<gleipner.chains.taint.nested.NestedSink: java.lang.String invoke(java.lang.String)>
+<gleipner.chains.taint.nested.Nested: java.lang.String invoke(java.lang.String)>
+<gleipner.chains.taint.Taint_008_Trampoline: int hashCode()>
+<gleipner.core.GleipnerObject: int hashCode()>
+<gleipner.core.TriggerGadget: void readObject(java.io.ObjectInputStream)>
+]
+
+[
+<gleipner.core.SinkGadget: void sinkMethod(java.lang.String)>
+<gleipner.chains.taint.nested.NestedSink: java.lang.String invoke(java.lang.String)>
+<gleipner.chains.taint.nested.Nested: java.lang.String invoke(java.lang.String)>
+<gleipner.chains.taint.Taint_015_Trampoline: gleipner.chains.taint.nested.NestedString recursiveSearch(gleipner.chains.taint.nested.Nested,java.lang.String)>
+<gleipner.chains.taint.Taint_015_Trampoline: int hashCode()>
+<gleipner.core.GleipnerObject: int hashCode()>
+<gleipner.core.TriggerGadget: void readObject(java.io.ObjectInputStream)>
+]
+
+[
+<gleipner.core.SinkGadget: void sinkMethod(java.lang.String)>
+<gleipner.chains.taint.nested.NestedSink: java.lang.String invoke(java.lang.String)>
+<gleipner.chains.taint.nested.Nested: java.lang.String invoke(java.lang.String)>
+<gleipner.chains.taint.Taint_009_FP_Trampoline: int hashCode()>
+<gleipner.core.GleipnerObject: int hashCode()>
+<gleipner.core.TriggerGadget: void readObject(java.io.ObjectInputStream)>
+]
+
+[
+<gleipner.core.SinkGadget: void sinkMethod(java.lang.String)>
+<gleipner.chains.taint.nested.NestedSink: java.lang.String invoke(java.lang.String)>
+<gleipner.chains.taint.nested.Nested: java.lang.String invoke(java.lang.String)>
+<gleipner.chains.taint.Taint_003_Trampoline: int hashCode()>
+<gleipner.core.GleipnerObject: int hashCode()>
+<gleipner.core.TriggerGadget: void readObject(java.io.ObjectInputStream)>
+]
+
+[
+<gleipner.core.SinkGadget: void sinkMethod(java.lang.String)>
+<gleipner.chains.taint.nested.NestedSink: java.lang.String invoke(java.lang.String)>
+<gleipner.chains.taint.nested.Nested: java.lang.String invoke(java.lang.String)>
+<gleipner.chains.taint.Taint_014_FP_Trampoline: gleipner.chains.taint.nested.NestedString recursiveSearch(gleipner.chains.taint.nested.Nested,java.lang.String)>
+<gleipner.chains.taint.Taint_014_FP_Trampoline: int hashCode()>
+<gleipner.core.GleipnerObject: int hashCode()>
+<gleipner.core.TriggerGadget: void readObject(java.io.ObjectInputStream)>
+]
+
+[
+<gleipner.core.SinkGadget: void sinkMethod(java.lang.String)>
+<gleipner.chains.taint.nested.NestedSink: java.lang.String invoke(java.lang.String)>
+<gleipner.chains.taint.nested.Nested: java.lang.String invoke(java.lang.String)>
+<gleipner.chains.taint.Taint_005_FP_Trampoline: int hashCode()>
+<gleipner.core.GleipnerObject: int hashCode()>
+<gleipner.core.TriggerGadget: void readObject(java.io.ObjectInputStream)>
+]
+
+[
+<gleipner.core.SinkGadget: void sinkMethod(java.lang.String)>
+<gleipner.chains.taint.nested.NestedSink: java.lang.String invoke(java.lang.String)>
+<gleipner.chains.taint.nested.Nested: java.lang.String invoke(java.lang.String)>
+<gleipner.chains.taint.Taint_002_FP_Trampoline: int hashCode()>
+<gleipner.core.GleipnerObject: int hashCode()>
+<gleipner.core.TriggerGadget: void readObject(java.io.ObjectInputStream)>
+]
+
+[
+<gleipner.core.SinkGadget: void sinkMethod(java.lang.String)>
+<gleipner.chains.taint.nested.NestedSink: java.lang.String invoke(java.lang.String)>
+<gleipner.chains.taint.nested.Nested: java.lang.String invoke(java.lang.String)>
+<gleipner.chains.taint.Taint_006_Trampoline: int hashCode()>
+<gleipner.core.GleipnerObject: int hashCode()>
+<gleipner.core.TriggerGadget: void readObject(java.io.ObjectInputStream)>
+]
+

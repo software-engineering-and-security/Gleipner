@@ -1,0 +1,132 @@
+<gleipner.chains.depth.Depth_002_SinkGadget: java.lang.String tainted>
+<gleipner.chains.depth.Depth_002_LinkGadget3: gleipner.chains.depth.Depth_002_SinkGadget sinkGadget>
+<gleipner.chains.depth.Depth_002_LinkGadget2: gleipner.chains.depth.Depth_002_LinkGadget3 linkGadget>
+<gleipner.chains.depth.Depth_002_LinkGadget1: gleipner.chains.depth.Depth_002_LinkGadget2 linkGadget>
+<gleipner.chains.depth.Depth_002_TriggerGadget: gleipner.chains.depth.Depth_002_LinkGadget1 linkGadget>
+<gleipner.core.TriggerGadget: gleipner.core.GleipnerObject o>
+
+<gleipner.chains.reflection.metaobjects.Annotation_001_SinkGadget: java.lang.String tainted>
+<gleipner.chains.reflection.metaobjects.Annotation_001_TriggerGadget: gleipner.chains.reflection.metaobjects.Annotation_001_SinkGadget sinkGadget>
+<gleipner.core.TriggerGadget: gleipner.core.GleipnerObject o>
+
+<gleipner.chains.depth.Depth_001_SinkGadget: java.lang.String tainted>
+<gleipner.chains.depth.Depth_001_LinkGadget2: gleipner.chains.depth.Depth_001_SinkGadget sinkGadget>
+<gleipner.chains.depth.Depth_001_LinkGadget1: gleipner.chains.depth.Depth_001_LinkGadget2 linkGadget>
+<gleipner.chains.depth.Depth_001_TriggerGadget: gleipner.chains.depth.Depth_001_LinkGadget1 linkGadget>
+<gleipner.core.TriggerGadget: gleipner.core.GleipnerObject o>
+
+<gleipner.chains.basic.BasicSinkGadget: java.lang.String tainted>
+<gleipner.chains.basic.BasicLinkGadget: gleipner.chains.basic.BasicSinkGadget basicSinkGadget>
+<gleipner.core.TriggerGadget: gleipner.core.GleipnerObject o>
+
+<gleipner.chains.depth.Depth_008_SinkGadget: java.lang.String tainted>
+<gleipner.chains.depth.Depth_008_LinkGadget9: gleipner.chains.depth.Depth_008_SinkGadget sinkGadget>
+<gleipner.chains.depth.Depth_008_LinkGadget8: gleipner.chains.depth.Depth_008_LinkGadget9 linkGadget>
+<gleipner.chains.depth.Depth_008_LinkGadget7: gleipner.chains.depth.Depth_008_LinkGadget8 linkGadget>
+<gleipner.chains.depth.Depth_008_LinkGadget6: gleipner.chains.depth.Depth_008_LinkGadget7 linkGadget>
+<gleipner.chains.depth.Depth_008_LinkGadget5: gleipner.chains.depth.Depth_008_LinkGadget6 linkGadget>
+<gleipner.chains.depth.Depth_008_LinkGadget4: gleipner.chains.depth.Depth_008_LinkGadget5 linkGadget>
+<gleipner.chains.depth.Depth_008_LinkGadget3: gleipner.chains.depth.Depth_008_LinkGadget4 linkGadget>
+<gleipner.chains.depth.Depth_008_LinkGadget2: gleipner.chains.depth.Depth_008_LinkGadget3 linkGadget>
+<gleipner.chains.depth.Depth_008_LinkGadget1: gleipner.chains.depth.Depth_008_LinkGadget2 linkGadget>
+<gleipner.chains.depth.Depth_008_TriggerGadget: gleipner.chains.depth.Depth_008_LinkGadget1 linkGadget>
+<gleipner.core.TriggerGadget: gleipner.core.GleipnerObject o>
+
+<gleipner.chains.polymorphism.Polymorphism_001_SinkGadget: java.lang.String tainted>
+<gleipner.chains.polymorphism.Polymorphism_001_LinkGadget: gleipner.chains.polymorphism.Polymorphism_001_SinkGadget sinkGadget>
+<gleipner.chains.polymorphism.Polymorphism_001_TriggerGadget: gleipner.chains.polymorphism.Polymorphism_001_Parent linkGadget>
+<gleipner.core.TriggerGadget: gleipner.core.GleipnerObject o>
+
+<gleipner.chains.jni.Thread_001_Trampoline: java.lang.String tainted>
+<gleipner.core.TriggerGadget: gleipner.core.GleipnerObject o>
+
+<gleipner.chains.polymorphism.Polymorphism_003_SinkGadget: java.lang.String tainted>
+<gleipner.chains.polymorphism.Polymorphism_003_LinkGadget: gleipner.chains.polymorphism.Polymorphism_003_SinkGadget sinkGadget>
+<gleipner.chains.polymorphism.Polymorphism_003_TriggerGadget: gleipner.chains.polymorphism.Polymorphism_003_Parent linkGadget>
+<gleipner.core.TriggerGadget: gleipner.core.GleipnerObject o>
+
+<gleipner.chains.depth.Depth_004_SinkGadget: java.lang.String tainted>
+<gleipner.chains.depth.Depth_004_LinkGadget5: gleipner.chains.depth.Depth_004_SinkGadget sinkGadget>
+<gleipner.chains.depth.Depth_004_LinkGadget4: gleipner.chains.depth.Depth_004_LinkGadget5 linkGadget>
+<gleipner.chains.depth.Depth_004_LinkGadget3: gleipner.chains.depth.Depth_004_LinkGadget4 linkGadget>
+<gleipner.chains.depth.Depth_004_LinkGadget2: gleipner.chains.depth.Depth_004_LinkGadget3 linkGadget>
+<gleipner.chains.depth.Depth_004_LinkGadget1: gleipner.chains.depth.Depth_004_LinkGadget2 linkGadget>
+<gleipner.chains.depth.Depth_004_TriggerGadget: gleipner.chains.depth.Depth_004_LinkGadget1 linkGadget>
+<gleipner.core.TriggerGadget: gleipner.core.GleipnerObject o>
+
+<gleipner.chains.depth.Depth_007_SinkGadget: java.lang.String tainted>
+<gleipner.chains.depth.Depth_007_LinkGadget8: gleipner.chains.depth.Depth_007_SinkGadget sinkGadget>
+<gleipner.chains.depth.Depth_007_LinkGadget7: gleipner.chains.depth.Depth_007_LinkGadget8 linkGadget>
+<gleipner.chains.depth.Depth_007_LinkGadget6: gleipner.chains.depth.Depth_007_LinkGadget7 linkGadget>
+<gleipner.chains.depth.Depth_007_LinkGadget5: gleipner.chains.depth.Depth_007_LinkGadget6 linkGadget>
+<gleipner.chains.depth.Depth_007_LinkGadget4: gleipner.chains.depth.Depth_007_LinkGadget5 linkGadget>
+<gleipner.chains.depth.Depth_007_LinkGadget3: gleipner.chains.depth.Depth_007_LinkGadget4 linkGadget>
+<gleipner.chains.depth.Depth_007_LinkGadget2: gleipner.chains.depth.Depth_007_LinkGadget3 linkGadget>
+<gleipner.chains.depth.Depth_007_LinkGadget1: gleipner.chains.depth.Depth_007_LinkGadget2 linkGadget>
+<gleipner.chains.depth.Depth_007_TriggerGadget: gleipner.chains.depth.Depth_007_LinkGadget1 linkGadget>
+<gleipner.core.TriggerGadget: gleipner.core.GleipnerObject o>
+
+<gleipner.chains.depth.Depth_003_SinkGadget: java.lang.String tainted>
+<gleipner.chains.depth.Depth_003_LinkGadget4: gleipner.chains.depth.Depth_003_SinkGadget sinkGadget>
+<gleipner.chains.depth.Depth_003_LinkGadget3: gleipner.chains.depth.Depth_003_LinkGadget4 linkGadget>
+<gleipner.chains.depth.Depth_003_LinkGadget2: gleipner.chains.depth.Depth_003_LinkGadget3 linkGadget>
+<gleipner.chains.depth.Depth_003_LinkGadget1: gleipner.chains.depth.Depth_003_LinkGadget2 linkGadget>
+<gleipner.chains.depth.Depth_003_TriggerGadget: gleipner.chains.depth.Depth_003_LinkGadget1 linkGadget>
+<gleipner.core.TriggerGadget: gleipner.core.GleipnerObject o>
+
+<javax.swing.text.html.HTML$Tag: java.lang.String name>
+
+<gleipner.chains.depth.Depth_006_SinkGadget: java.lang.String tainted>
+<gleipner.chains.depth.Depth_006_LinkGadget7: gleipner.chains.depth.Depth_006_SinkGadget sinkGadget>
+<gleipner.chains.depth.Depth_006_LinkGadget6: gleipner.chains.depth.Depth_006_LinkGadget7 linkGadget>
+<gleipner.chains.depth.Depth_006_LinkGadget5: gleipner.chains.depth.Depth_006_LinkGadget6 linkGadget>
+<gleipner.chains.depth.Depth_006_LinkGadget4: gleipner.chains.depth.Depth_006_LinkGadget5 linkGadget>
+<gleipner.chains.depth.Depth_006_LinkGadget3: gleipner.chains.depth.Depth_006_LinkGadget4 linkGadget>
+<gleipner.chains.depth.Depth_006_LinkGadget2: gleipner.chains.depth.Depth_006_LinkGadget3 linkGadget>
+<gleipner.chains.depth.Depth_006_LinkGadget1: gleipner.chains.depth.Depth_006_LinkGadget2 linkGadget>
+<gleipner.chains.depth.Depth_006_TriggerGadget: gleipner.chains.depth.Depth_006_LinkGadget1 linkGadget>
+<gleipner.core.TriggerGadget: gleipner.core.GleipnerObject o>
+
+<gleipner.chains.falsepositive.FalsePositive_002_SinkGadget: java.lang.String tainted>
+<gleipner.chains.falsepositive.FalsePositive_002_TriggerGadget: gleipner.chains.falsepositive.FalsePositive_002_SinkGadget sinkGadget>
+<gleipner.core.TriggerGadget: gleipner.core.GleipnerObject o>
+
+<gleipner.chains.depth.Depth_009_SinkGadget: java.lang.String tainted>
+<gleipner.chains.depth.Depth_009_LinkGadget10: gleipner.chains.depth.Depth_009_SinkGadget sinkGadget>
+<gleipner.chains.depth.Depth_009_LinkGadget9: gleipner.chains.depth.Depth_009_LinkGadget10 linkGadget>
+<gleipner.chains.depth.Depth_009_LinkGadget8: gleipner.chains.depth.Depth_009_LinkGadget9 linkGadget>
+<gleipner.chains.depth.Depth_009_LinkGadget7: gleipner.chains.depth.Depth_009_LinkGadget8 linkGadget>
+<gleipner.chains.depth.Depth_009_LinkGadget6: gleipner.chains.depth.Depth_009_LinkGadget7 linkGadget>
+<gleipner.chains.depth.Depth_009_LinkGadget5: gleipner.chains.depth.Depth_009_LinkGadget6 linkGadget>
+<gleipner.chains.depth.Depth_009_LinkGadget4: gleipner.chains.depth.Depth_009_LinkGadget5 linkGadget>
+<gleipner.chains.depth.Depth_009_LinkGadget3: gleipner.chains.depth.Depth_009_LinkGadget4 linkGadget>
+<gleipner.chains.depth.Depth_009_LinkGadget2: gleipner.chains.depth.Depth_009_LinkGadget3 linkGadget>
+<gleipner.chains.depth.Depth_009_LinkGadget1: gleipner.chains.depth.Depth_009_LinkGadget2 linkGadget>
+<gleipner.chains.depth.Depth_009_TriggerGadget: gleipner.chains.depth.Depth_009_LinkGadget1 linkGadget>
+<gleipner.core.TriggerGadget: gleipner.core.GleipnerObject o>
+
+<gleipner.chains.polymorphism.Polymorphism_002_SinkGadget: java.lang.String tainted>
+<gleipner.chains.polymorphism.Polymorphism_002_LinkGadget: gleipner.chains.polymorphism.Polymorphism_002_SinkGadget sinkGadget>
+<gleipner.chains.polymorphism.Polymorphism_002_TriggerGadget: gleipner.chains.polymorphism.Polymorphism_002_Parent linkGadget>
+<gleipner.core.TriggerGadget: gleipner.core.GleipnerObject o>
+
+<gleipner.chains.basic.BasicSinkGadget: java.lang.Object taintedObj>
+<gleipner.chains.basic.BasicLinkGadget: gleipner.chains.basic.BasicSinkGadget basicSinkGadget>
+<gleipner.core.TriggerGadget: gleipner.core.GleipnerObject o>
+
+<gleipner.chains.ysoserial.myfaces1.MyFaces_ValueExpressionImpl: java.lang.String expr>
+<gleipner.chains.ysoserial.myfaces1.MyFaces_ValueExpressionMethodExpression: gleipner.chains.ysoserial.myfaces1.MyFaces_ValueExpression valueExpression>
+
+<gleipner.chains.falsepositive.FalsePositive_001_SinkGadget: java.lang.String taintedParam>
+<gleipner.chains.falsepositive.FalsePositive_001_TriggerGadget: gleipner.chains.falsepositive.FalsePositive_001_SinkGadget sinkGadget>
+<gleipner.core.TriggerGadget: gleipner.core.GleipnerObject o>
+
+<gleipner.chains.depth.Depth_005_SinkGadget: java.lang.String tainted>
+<gleipner.chains.depth.Depth_005_LinkGadget6: gleipner.chains.depth.Depth_005_SinkGadget sinkGadget>
+<gleipner.chains.depth.Depth_005_LinkGadget5: gleipner.chains.depth.Depth_005_LinkGadget6 linkGadget>
+<gleipner.chains.depth.Depth_005_LinkGadget4: gleipner.chains.depth.Depth_005_LinkGadget5 linkGadget>
+<gleipner.chains.depth.Depth_005_LinkGadget3: gleipner.chains.depth.Depth_005_LinkGadget4 linkGadget>
+<gleipner.chains.depth.Depth_005_LinkGadget2: gleipner.chains.depth.Depth_005_LinkGadget3 linkGadget>
+<gleipner.chains.depth.Depth_005_LinkGadget1: gleipner.chains.depth.Depth_005_LinkGadget2 linkGadget>
+<gleipner.chains.depth.Depth_005_TriggerGadget: gleipner.chains.depth.Depth_005_LinkGadget1 linkGadget>
+<gleipner.core.TriggerGadget: gleipner.core.GleipnerObject o>

@@ -1,0 +1,5 @@
+gleipner/chains/reflection/methodinvoke/MethodInvocation_009_Trampoline.hashCode()I (0)
+  gleipner/core/SinkGadget.sinkMethod(Ljava/lang/String;)V (0)
+gleipner/chains/reflection/methodinvoke/MethodInvocation_010_FP_Trampoline.hashCode()I (0)
+  gleipner/core/SinkGadget.sinkMethod(Ljava/lang/String;)V (0)
+

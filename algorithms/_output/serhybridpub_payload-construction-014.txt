@@ -1,0 +1,4 @@
+<gleipner.chains.taint.nested.NestedString: java.lang.String value>
+<gleipner.chains.taint.nested.Nested: gleipner.chains.taint.nested.Nested[] nArray>
+<gleipner.chains.taint.Taint_014_FP_Trampoline: gleipner.chains.taint.nested.Nested nested>
+

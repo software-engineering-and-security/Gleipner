@@ -1,0 +1,1 @@
+{"lib_paths_name": {"0": "-><gleipner.chains.reflection.constructor.Constructor_005_Trampoline: int hashCode()>-><gleipner.core.SinkGadget: void sinkMethod(java.lang.String)>\n"}}

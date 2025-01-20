@@ -1,0 +1,5 @@
+
+[INVOKE Gadget] <com.vaadin.data.util.MethodProperty: java.lang.Object getValue()>
+ -> <java.lang.reflect.Method: java.lang.Object invoke(java.lang.Object,java.lang.Object[])>
+[INVOKE Gadget] <com.vaadin.data.util.NestedMethodProperty: java.lang.Object getValue()>
+ -> <java.lang.reflect.Method: java.lang.Object invoke(java.lang.Object,java.lang.Object[])>

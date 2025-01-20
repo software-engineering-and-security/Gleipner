@@ -1,0 +1,14 @@
+---
+name: "gleipner"
+source:
+  type: "source"
+  name0: "readObject"
+sink:
+  type: "sink"
+  sink: true
+depth: 8
+limit: 10
+procedure: "tabby.algo.findJavaGadget"
+sourceBlacklists: []
+pathBlacklists:
+  - "java.lang.Iterable#forEach"

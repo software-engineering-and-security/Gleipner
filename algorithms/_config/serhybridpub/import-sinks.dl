@@ -1,0 +1,17 @@
+
+
+.decl _Sinks(?callingClassName:symbol, ?callingMethodName:symbol, ?calledClassName:symbol, ?calledMethodName:symbol, ?num:symbol)
+.input _Sinks(IO="file", filename=$SINK_PATH, delimiter=",")
+
+.decl SerSinks(?callingMethod:Method,  ?calledMethod:Method, ?num:symbol)
+
+SerSinks(?callingMethod, ?calledMethod, ?num) :-
+  _Sinks(?callingClass, ?callingMethodName, ?calledClass, ?calledMethodName, ?num),
+  isClassType(?callingClass),
+  isClassType(?calledClass),
+  Method_DeclaringType(?callingMethod, ?callingClass),
+  Method_SimpleName(?callingMethod, ?callingMethodName),
+  Method_DeclaringType(?calledMethod, ?calledClass),
+  Method_SimpleName(?calledMethod, ?calledMethodName).
+
+.output SerSinks

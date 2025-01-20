@@ -1,0 +1,9 @@
+gleipner/chains/multipath/Multipath_001_TrampolineGadget.hashCode()I (0)
+  gleipner/chains/multipath/Multipath_001_LinkGadget4.linkMethod()V (0)
+  gleipner/chains/multipath/Multipath_001_SinkGadget.linkMethod()V (0)
+  gleipner/core/SinkGadget.sinkMethod(Ljava/lang/String;)V (1)
+gleipner/chains/multipath/Multipath_001_TrampolineGadget.hashCode()I (0)
+  gleipner/chains/multipath/Multipath_001_LinkGadget4.linkMethod()V (0)
+  gleipner/chains/multipath/Multipath_001_SinkGadget.linkMethod()V (0)
+  gleipner/core/SinkGadget.sinkMethod(Ljava/lang/String;)V (0)
+

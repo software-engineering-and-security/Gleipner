@@ -1,0 +1,123 @@
+[
+<gleipner.core.SinkGadget: void sinkMethod(java.lang.String)>
+<gleipner.chains.serializationvariants.ReadExternal_TriggerGadget: void readExternal(java.io.ObjectInput)>
+]
+
+[
+<gleipner.core.SinkGadget: void sinkMethod(java.lang.String)>
+<gleipner.chains.serializationvariants.ReadExternal_TriggerGadget: void readExternal(java.io.ObjectInput)>
+<java.io.Externalizable: void readExternal(java.io.ObjectInput)>
+<java.io.ObjectInputStream: void readExternalData(java.io.Externalizable,java.io.ObjectStreamClass)>
+<java.io.ObjectInputStream: java.lang.Object readOrdinaryObject(boolean)>
+<java.io.ObjectInputStream: java.lang.Object readObject0(java.lang.Class,boolean)>
+<java.io.ObjectInputStream: java.lang.Object readObject(java.lang.Class)>
+<java.io.ObjectInputStream: java.lang.Object readObject()>
+<java.lang.StringBuilder: void readObject(java.io.ObjectInputStream)>
+]
+
+[
+<gleipner.core.SinkGadget: void sinkMethod(java.lang.String)>
+<gleipner.chains.serializationvariants.ReadExternal_TriggerGadget: void readExternal(java.io.ObjectInput)>
+<java.io.Externalizable: void readExternal(java.io.ObjectInput)>
+<java.io.ObjectInputStream: void readExternalData(java.io.Externalizable,java.io.ObjectStreamClass)>
+<java.io.ObjectInputStream: java.lang.Object readOrdinaryObject(boolean)>
+<java.io.ObjectInputStream: java.lang.Object readObject0(java.lang.Class,boolean)>
+<java.io.ObjectInputStream: java.lang.Object readObject(java.lang.Class)>
+<java.io.ObjectInputStream: java.lang.Object readObject()>
+<java.io.ObjectInput: java.lang.Object readObject()>
+]
+
+[
+<gleipner.core.SinkGadget: void sinkMethod(java.lang.String)>
+<gleipner.chains.serializationvariants.ReadExternal_TriggerGadget: void readExternal(java.io.ObjectInput)>
+<java.io.Externalizable: void readExternal(java.io.ObjectInput)>
+<java.io.ObjectInputStream: void readExternalData(java.io.Externalizable,java.io.ObjectStreamClass)>
+<java.io.ObjectInputStream: java.lang.Object readOrdinaryObject(boolean)>
+<java.io.ObjectInputStream: java.lang.Object readObject0(java.lang.Class,boolean)>
+<java.io.ObjectInputStream: java.lang.Object readObject(java.lang.Class)>
+]
+
+[
+<gleipner.core.SinkGadget: void sinkMethod(java.lang.String)>
+<gleipner.chains.serializationvariants.ReadExternal_TriggerGadget: void readExternal(java.io.ObjectInput)>
+<java.io.Externalizable: void readExternal(java.io.ObjectInput)>
+<java.io.ObjectInputStream: void readExternalData(java.io.Externalizable,java.io.ObjectStreamClass)>
+<java.io.ObjectInputStream: java.lang.Object readOrdinaryObject(boolean)>
+<java.io.ObjectInputStream: java.lang.Object readObject0(java.lang.Class,boolean)>
+<java.io.ObjectInputStream: java.lang.Object readObject(java.lang.Class)>
+<java.io.ObjectInputStream: java.lang.Object readObject()>
+<java.util.Properties: void readHashtable(java.io.ObjectInputStream)>
+<java.util.Hashtable: void readHashtable(java.io.ObjectInputStream)>
+<java.util.Hashtable: void readObject(java.io.ObjectInputStream)>
+]
+
+[
+<gleipner.core.SinkGadget: void sinkMethod(java.lang.String)>
+<gleipner.chains.serializationvariants.ReadExternal_TriggerGadget: void readExternal(java.io.ObjectInput)>
+<java.io.Externalizable: void readExternal(java.io.ObjectInput)>
+<java.io.ObjectInputStream: void readExternalData(java.io.Externalizable,java.io.ObjectStreamClass)>
+<java.io.ObjectInputStream: java.lang.Object readOrdinaryObject(boolean)>
+<java.io.ObjectInputStream: java.lang.Object readObject0(java.lang.Class,boolean)>
+<java.io.ObjectInputStream: java.lang.Object readObject(java.lang.Class)>
+<java.io.ObjectInputStream: java.lang.Object readObject()>
+<java.util.Hashtable: void readHashtable(java.io.ObjectInputStream)>
+<java.util.Hashtable: void readObject(java.io.ObjectInputStream)>
+]
+
+[
+<gleipner.core.SinkGadget: void sinkMethod(java.lang.String)>
+<gleipner.chains.serializationvariants.ReadExternal_TriggerGadget: void readExternal(java.io.ObjectInput)>
+<java.io.Externalizable: void readExternal(java.io.ObjectInput)>
+<java.io.ObjectInputStream: void readExternalData(java.io.Externalizable,java.io.ObjectStreamClass)>
+<java.io.ObjectInputStream: java.lang.Object readOrdinaryObject(boolean)>
+<java.io.ObjectInputStream: java.lang.Object readObject0(java.lang.Class,boolean)>
+<java.io.ObjectInputStream: java.lang.Object readObject(java.lang.Class)>
+<java.io.ObjectInputStream: java.lang.Object readObject()>
+<gleipner.chains.serializationvariants.ReadObjectNoData_TriggerGadget: void readObject(java.io.ObjectInputStream)>
+]
+
+[
+<gleipner.core.SinkGadget: void sinkMethod(java.lang.String)>
+<gleipner.chains.serializationvariants.ReadResolve_TriggerGadget: java.lang.Object readResolve()>
+]
+
+[
+<gleipner.core.SinkGadget: void sinkMethod(java.lang.String)>
+<gleipner.chains.serializationvariants.ReadObject_TriggerGadget: void readObject(java.io.ObjectInputStream)>
+]
+
+[
+<gleipner.core.SinkGadget: void sinkMethod(java.lang.String)>
+<gleipner.chains.serializationvariants.ReadExternal_TriggerGadget: void readExternal(java.io.ObjectInput)>
+<java.io.Externalizable: void readExternal(java.io.ObjectInput)>
+<java.io.ObjectInputStream: void readExternalData(java.io.Externalizable,java.io.ObjectStreamClass)>
+<java.io.ObjectInputStream: java.lang.Object readOrdinaryObject(boolean)>
+<java.io.ObjectInputStream: java.lang.Object readObject0(java.lang.Class,boolean)>
+<java.io.ObjectInputStream: java.lang.Object readObject(java.lang.Class)>
+<java.io.ObjectInputStream: java.lang.Object readObject()>
+<java.lang.invoke.MethodType: void readObject(java.io.ObjectInputStream)>
+]
+
+[
+<gleipner.core.SinkGadget: void sinkMethod(java.lang.String)>
+<gleipner.chains.serializationvariants.ReadObjectNoData_TriggerGadget: void invoke()>
+<gleipner.chains.serializationvariants.ReadObjectNoData_Parent: void readObjectNoData()>
+]
+
+[
+<gleipner.core.SinkGadget: void sinkMethod(java.lang.String)>
+<gleipner.chains.serializationvariants.ReadExternal_TriggerGadget: void readExternal(java.io.ObjectInput)>
+<java.io.Externalizable: void readExternal(java.io.ObjectInput)>
+<java.io.ObjectInputStream: void readExternalData(java.io.Externalizable,java.io.ObjectStreamClass)>
+<java.io.ObjectInputStream: java.lang.Object readOrdinaryObject(boolean)>
+<java.io.ObjectInputStream: java.lang.Object readObject0(java.lang.Class,boolean)>
+<java.io.ObjectInputStream: java.lang.Object readObject(java.lang.Class)>
+<java.io.ObjectInputStream: java.lang.Object readObject()>
+]
+
+[
+<gleipner.core.SinkGadget: void sinkMethod(java.lang.String)>
+<gleipner.chains.serializationvariants.ReadExternal_TriggerGadget: void readExternal(java.io.ObjectInput)>
+<java.io.Externalizable: void readExternal(java.io.ObjectInput)>
+]
+

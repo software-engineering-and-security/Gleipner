@@ -1,0 +1,1 @@
+Vulnerable Class:gleipner.core.SinkGadget Vulnerable Method:<gleipner.core.SinkGadget: void sinkMethod(java.lang.String)> Vulnerable Argument:class java.lang.String; Time:2

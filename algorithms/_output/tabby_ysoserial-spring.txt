@@ -1,0 +1,271 @@
+[
+<java.lang.reflect.Method: java.lang.Object invoke(java.lang.Object,java.lang.Object[])>
+<gleipner.chains.ysoserial.spring.ReflectionUtils: java.lang.Object invokeMethod(java.lang.reflect.Method,java.lang.Object,java.lang.Object[])>
+<gleipner.chains.ysoserial.spring.ReflectionUtils: java.lang.Object invokeMethod(java.lang.reflect.Method,java.lang.Object)>
+<gleipner.chains.ysoserial.spring.SerializableTypeWrapper$MethodInvokeTypeProvider: void readObject(java.io.ObjectInputStream)>
+]
+
+[
+<java.lang.reflect.Method: java.lang.Object invoke(java.lang.Object,java.lang.Object[])>
+<java.io.ObjectStreamClass: java.lang.Object invokeReadResolve(java.lang.Object)>
+<java.io.ObjectInputStream: java.lang.Object readOrdinaryObject(boolean)>
+<java.io.ObjectInputStream: java.lang.Object readObject0(java.lang.Class,boolean)>
+<java.io.ObjectInputStream: java.lang.Object readObject(java.lang.Class)>
+<java.io.ObjectInputStream: java.lang.Object readObject()>
+]
+
+[
+<java.lang.reflect.Method: java.lang.Object invoke(java.lang.Object,java.lang.Object[])>
+<java.lang.Class: java.lang.Object[] getEnumConstantsShared()>
+<java.lang.Class: java.util.Map enumConstantDirectory()>
+<java.lang.Enum: java.lang.Enum valueOf(java.lang.Class,java.lang.String)>
+<java.io.ObjectInputStream: java.lang.Enum readEnum(boolean)>
+<java.io.ObjectInputStream: java.lang.Object readObject0(java.lang.Class,boolean)>
+<java.io.ObjectInputStream: java.lang.Object readObject(java.lang.Class)>
+<java.io.ObjectInputStream: java.lang.Object readObject()>
+]
+
+[
+<java.lang.reflect.Method: java.lang.Object invoke(java.lang.Object,java.lang.Object[])>
+<java.io.ObjectStreamClass: void invokeReadObject(java.lang.Object,java.io.ObjectInputStream)>
+<java.io.ObjectInputStream: void readSerialData(java.lang.Object,java.io.ObjectStreamClass)>
+<java.io.ObjectInputStream: java.lang.Object readOrdinaryObject(boolean)>
+<java.io.ObjectInputStream: java.lang.Object readObject0(java.lang.Class,boolean)>
+<java.io.ObjectInputStream: java.lang.Object readObject(java.lang.Class)>
+<java.io.ObjectInputStream: java.lang.Object readObject()>
+]
+
+[
+<java.lang.reflect.Method: java.lang.Object invoke(java.lang.Object,java.lang.Object[])>
+<java.io.ObjectStreamClass: void invokeReadObjectNoData(java.lang.Object)>
+<java.io.ObjectInputStream: void readSerialData(java.lang.Object,java.io.ObjectStreamClass)>
+<java.io.ObjectInputStream: java.lang.Object readOrdinaryObject(boolean)>
+<java.io.ObjectInputStream: java.lang.Object readObject0(java.lang.Class,boolean)>
+<java.io.ObjectInputStream: java.lang.Object readObject(java.lang.Class)>
+<java.io.ObjectInputStream: java.lang.Object readObject()>
+]
+
+[
+<java.lang.reflect.Method: java.lang.Object invoke(java.lang.Object,java.lang.Object[])>
+<java.io.ObjectStreamClass: java.lang.Object invokeReadResolve(java.lang.Object)>
+<java.io.ObjectInputStream: java.lang.Object readOrdinaryObject(boolean)>
+<java.io.ObjectInputStream: java.lang.Object readObject0(java.lang.Class,boolean)>
+<java.io.ObjectInputStream: java.lang.Object readObject(java.lang.Class)>
+<java.io.ObjectInputStream: java.lang.Object readObject()>
+<java.lang.StringBuilder: void readObject(java.io.ObjectInputStream)>
+]
+
+[
+<java.lang.reflect.Method: java.lang.Object invoke(java.lang.Object,java.lang.Object[])>
+<java.lang.Class: java.lang.Object[] getEnumConstantsShared()>
+<java.lang.Class: java.util.Map enumConstantDirectory()>
+<java.lang.Enum: java.lang.Enum valueOf(java.lang.Class,java.lang.String)>
+<java.io.ObjectInputStream: java.lang.Enum readEnum(boolean)>
+<java.io.ObjectInputStream: java.lang.Object readObject0(java.lang.Class,boolean)>
+<java.io.ObjectInputStream: java.lang.Object readObject(java.lang.Class)>
+<java.io.ObjectInputStream: java.lang.Object readObject()>
+<java.lang.StringBuilder: void readObject(java.io.ObjectInputStream)>
+]
+
+[
+<java.lang.reflect.Method: java.lang.Object invoke(java.lang.Object,java.lang.Object[])>
+<java.io.ObjectStreamClass: void invokeReadObject(java.lang.Object,java.io.ObjectInputStream)>
+<java.io.ObjectInputStream: void readSerialData(java.lang.Object,java.io.ObjectStreamClass)>
+<java.io.ObjectInputStream: java.lang.Object readOrdinaryObject(boolean)>
+<java.io.ObjectInputStream: java.lang.Object readObject0(java.lang.Class,boolean)>
+<java.io.ObjectInputStream: java.lang.Object readObject(java.lang.Class)>
+<java.io.ObjectInputStream: java.lang.Object readObject()>
+<java.lang.StringBuilder: void readObject(java.io.ObjectInputStream)>
+]
+
+[
+<java.lang.reflect.Method: java.lang.Object invoke(java.lang.Object,java.lang.Object[])>
+<java.io.ObjectStreamClass: void invokeReadObjectNoData(java.lang.Object)>
+<java.io.ObjectInputStream: void readSerialData(java.lang.Object,java.io.ObjectStreamClass)>
+<java.io.ObjectInputStream: java.lang.Object readOrdinaryObject(boolean)>
+<java.io.ObjectInputStream: java.lang.Object readObject0(java.lang.Class,boolean)>
+<java.io.ObjectInputStream: java.lang.Object readObject(java.lang.Class)>
+<java.io.ObjectInputStream: java.lang.Object readObject()>
+<java.lang.StringBuilder: void readObject(java.io.ObjectInputStream)>
+]
+
+[
+<java.lang.reflect.Method: java.lang.Object invoke(java.lang.Object,java.lang.Object[])>
+<java.io.ObjectStreamClass: java.lang.Object invokeReadResolve(java.lang.Object)>
+<java.io.ObjectInputStream: java.lang.Object readOrdinaryObject(boolean)>
+<java.io.ObjectInputStream: java.lang.Object readObject0(java.lang.Class,boolean)>
+<java.io.ObjectInputStream: java.lang.Object readObject(java.lang.Class)>
+<java.io.ObjectInputStream: java.lang.Object readObject()>
+<java.io.ObjectInput: java.lang.Object readObject()>
+]
+
+[
+<java.lang.reflect.Method: java.lang.Object invoke(java.lang.Object,java.lang.Object[])>
+<java.lang.Class: java.lang.Object[] getEnumConstantsShared()>
+<java.lang.Class: java.util.Map enumConstantDirectory()>
+<java.lang.Enum: java.lang.Enum valueOf(java.lang.Class,java.lang.String)>
+<java.io.ObjectInputStream: java.lang.Enum readEnum(boolean)>
+<java.io.ObjectInputStream: java.lang.Object readObject0(java.lang.Class,boolean)>
+<java.io.ObjectInputStream: java.lang.Object readObject(java.lang.Class)>
+<java.io.ObjectInputStream: java.lang.Object readObject()>
+<java.io.ObjectInput: java.lang.Object readObject()>
+]
+
+[
+<java.lang.reflect.Method: java.lang.Object invoke(java.lang.Object,java.lang.Object[])>
+<java.io.ObjectStreamClass: void invokeReadObject(java.lang.Object,java.io.ObjectInputStream)>
+<java.io.ObjectInputStream: void readSerialData(java.lang.Object,java.io.ObjectStreamClass)>
+<java.io.ObjectInputStream: java.lang.Object readOrdinaryObject(boolean)>
+<java.io.ObjectInputStream: java.lang.Object readObject0(java.lang.Class,boolean)>
+<java.io.ObjectInputStream: java.lang.Object readObject(java.lang.Class)>
+<java.io.ObjectInputStream: java.lang.Object readObject()>
+<java.io.ObjectInput: java.lang.Object readObject()>
+]
+
+[
+<java.lang.reflect.Method: java.lang.Object invoke(java.lang.Object,java.lang.Object[])>
+<java.io.ObjectStreamClass: void invokeReadObjectNoData(java.lang.Object)>
+<java.io.ObjectInputStream: void readSerialData(java.lang.Object,java.io.ObjectStreamClass)>
+<java.io.ObjectInputStream: java.lang.Object readOrdinaryObject(boolean)>
+<java.io.ObjectInputStream: java.lang.Object readObject0(java.lang.Class,boolean)>
+<java.io.ObjectInputStream: java.lang.Object readObject(java.lang.Class)>
+<java.io.ObjectInputStream: java.lang.Object readObject()>
+<java.io.ObjectInput: java.lang.Object readObject()>
+]
+
+[
+<java.lang.reflect.Method: java.lang.Object invoke(java.lang.Object,java.lang.Object[])>
+<java.io.ObjectStreamClass: java.lang.Object invokeReadResolve(java.lang.Object)>
+<java.io.ObjectInputStream: java.lang.Object readOrdinaryObject(boolean)>
+<java.io.ObjectInputStream: java.lang.Object readObject0(java.lang.Class,boolean)>
+<java.io.ObjectInputStream: java.lang.Object readObject(java.lang.Class)>
+]
+
+[
+<java.lang.reflect.Method: java.lang.Object invoke(java.lang.Object,java.lang.Object[])>
+<java.lang.Class: java.lang.Object[] getEnumConstantsShared()>
+<java.lang.Class: java.util.Map enumConstantDirectory()>
+<java.lang.Enum: java.lang.Enum valueOf(java.lang.Class,java.lang.String)>
+<java.io.ObjectInputStream: java.lang.Enum readEnum(boolean)>
+<java.io.ObjectInputStream: java.lang.Object readObject0(java.lang.Class,boolean)>
+<java.io.ObjectInputStream: java.lang.Object readObject(java.lang.Class)>
+]
+
+[
+<java.lang.reflect.Method: java.lang.Object invoke(java.lang.Object,java.lang.Object[])>
+<java.io.ObjectStreamClass: void invokeReadObject(java.lang.Object,java.io.ObjectInputStream)>
+<java.io.ObjectInputStream: void readSerialData(java.lang.Object,java.io.ObjectStreamClass)>
+<java.io.ObjectInputStream: java.lang.Object readOrdinaryObject(boolean)>
+<java.io.ObjectInputStream: java.lang.Object readObject0(java.lang.Class,boolean)>
+<java.io.ObjectInputStream: java.lang.Object readObject(java.lang.Class)>
+]
+
+[
+<java.lang.reflect.Method: java.lang.Object invoke(java.lang.Object,java.lang.Object[])>
+<java.io.ObjectStreamClass: void invokeReadObjectNoData(java.lang.Object)>
+<java.io.ObjectInputStream: void readSerialData(java.lang.Object,java.io.ObjectStreamClass)>
+<java.io.ObjectInputStream: java.lang.Object readOrdinaryObject(boolean)>
+<java.io.ObjectInputStream: java.lang.Object readObject0(java.lang.Class,boolean)>
+<java.io.ObjectInputStream: java.lang.Object readObject(java.lang.Class)>
+]
+
+[
+<java.lang.reflect.Method: java.lang.Object invoke(java.lang.Object,java.lang.Object[])>
+<java.io.ObjectStreamClass: java.lang.Object invokeReadResolve(java.lang.Object)>
+<java.io.ObjectInputStream: java.lang.Object readOrdinaryObject(boolean)>
+<java.io.ObjectInputStream: java.lang.Object readObject0(java.lang.Class,boolean)>
+<java.io.ObjectInputStream: java.lang.Object readObject(java.lang.Class)>
+<java.io.ObjectInputStream: java.lang.Object readObject()>
+<java.util.Properties: void readHashtable(java.io.ObjectInputStream)>
+<java.util.Hashtable: void readHashtable(java.io.ObjectInputStream)>
+<java.util.Hashtable: void readObject(java.io.ObjectInputStream)>
+]
+
+[
+<java.lang.reflect.Method: java.lang.Object invoke(java.lang.Object,java.lang.Object[])>
+<java.io.ObjectStreamClass: java.lang.Object invokeReadResolve(java.lang.Object)>
+<java.io.ObjectInputStream: java.lang.Object readOrdinaryObject(boolean)>
+<java.io.ObjectInputStream: java.lang.Object readObject0(java.lang.Class,boolean)>
+<java.io.ObjectInputStream: java.lang.Object readObject(java.lang.Class)>
+<java.io.ObjectInputStream: java.lang.Object readObject()>
+<java.util.Hashtable: void readHashtable(java.io.ObjectInputStream)>
+<java.util.Hashtable: void readObject(java.io.ObjectInputStream)>
+]
+
+[
+<java.lang.reflect.Method: java.lang.Object invoke(java.lang.Object,java.lang.Object[])>
+<java.lang.Class: java.lang.Object[] getEnumConstantsShared()>
+<java.lang.Class: java.util.Map enumConstantDirectory()>
+<java.lang.Enum: java.lang.Enum valueOf(java.lang.Class,java.lang.String)>
+<java.io.ObjectInputStream: java.lang.Enum readEnum(boolean)>
+<java.io.ObjectInputStream: java.lang.Object readObject0(java.lang.Class,boolean)>
+<java.io.ObjectInputStream: java.lang.Object readObject(java.lang.Class)>
+<java.io.ObjectInputStream: java.lang.Object readObject()>
+<java.util.Properties: void readHashtable(java.io.ObjectInputStream)>
+<java.util.Hashtable: void readHashtable(java.io.ObjectInputStream)>
+<java.util.Hashtable: void readObject(java.io.ObjectInputStream)>
+]
+
+[
+<java.lang.reflect.Method: java.lang.Object invoke(java.lang.Object,java.lang.Object[])>
+<java.lang.Class: java.lang.Object[] getEnumConstantsShared()>
+<java.lang.Class: java.util.Map enumConstantDirectory()>
+<java.lang.Enum: java.lang.Enum valueOf(java.lang.Class,java.lang.String)>
+<java.io.ObjectInputStream: java.lang.Enum readEnum(boolean)>
+<java.io.ObjectInputStream: java.lang.Object readObject0(java.lang.Class,boolean)>
+<java.io.ObjectInputStream: java.lang.Object readObject(java.lang.Class)>
+<java.io.ObjectInputStream: java.lang.Object readObject()>
+<java.util.Hashtable: void readHashtable(java.io.ObjectInputStream)>
+<java.util.Hashtable: void readObject(java.io.ObjectInputStream)>
+]
+
+[
+<java.lang.reflect.Method: java.lang.Object invoke(java.lang.Object,java.lang.Object[])>
+<java.io.ObjectStreamClass: void invokeReadObject(java.lang.Object,java.io.ObjectInputStream)>
+<java.io.ObjectInputStream: void readSerialData(java.lang.Object,java.io.ObjectStreamClass)>
+<java.io.ObjectInputStream: java.lang.Object readOrdinaryObject(boolean)>
+<java.io.ObjectInputStream: java.lang.Object readObject0(java.lang.Class,boolean)>
+<java.io.ObjectInputStream: java.lang.Object readObject(java.lang.Class)>
+<java.io.ObjectInputStream: java.lang.Object readObject()>
+<java.util.Properties: void readHashtable(java.io.ObjectInputStream)>
+<java.util.Hashtable: void readHashtable(java.io.ObjectInputStream)>
+<java.util.Hashtable: void readObject(java.io.ObjectInputStream)>
+]
+
+[
+<java.lang.reflect.Method: java.lang.Object invoke(java.lang.Object,java.lang.Object[])>
+<java.io.ObjectStreamClass: void invokeReadObject(java.lang.Object,java.io.ObjectInputStream)>
+<java.io.ObjectInputStream: void readSerialData(java.lang.Object,java.io.ObjectStreamClass)>
+<java.io.ObjectInputStream: java.lang.Object readOrdinaryObject(boolean)>
+<java.io.ObjectInputStream: java.lang.Object readObject0(java.lang.Class,boolean)>
+<java.io.ObjectInputStream: java.lang.Object readObject(java.lang.Class)>
+<java.io.ObjectInputStream: java.lang.Object readObject()>
+<java.util.Hashtable: void readHashtable(java.io.ObjectInputStream)>
+<java.util.Hashtable: void readObject(java.io.ObjectInputStream)>
+]
+
+[
+<java.lang.reflect.Method: java.lang.Object invoke(java.lang.Object,java.lang.Object[])>
+<java.io.ObjectStreamClass: void invokeReadObjectNoData(java.lang.Object)>
+<java.io.ObjectInputStream: void readSerialData(java.lang.Object,java.io.ObjectStreamClass)>
+<java.io.ObjectInputStream: java.lang.Object readOrdinaryObject(boolean)>
+<java.io.ObjectInputStream: java.lang.Object readObject0(java.lang.Class,boolean)>
+<java.io.ObjectInputStream: java.lang.Object readObject(java.lang.Class)>
+<java.io.ObjectInputStream: java.lang.Object readObject()>
+<java.util.Properties: void readHashtable(java.io.ObjectInputStream)>
+<java.util.Hashtable: void readHashtable(java.io.ObjectInputStream)>
+<java.util.Hashtable: void readObject(java.io.ObjectInputStream)>
+]
+
+[
+<java.lang.reflect.Method: java.lang.Object invoke(java.lang.Object,java.lang.Object[])>
+<java.io.ObjectStreamClass: void invokeReadObjectNoData(java.lang.Object)>
+<java.io.ObjectInputStream: void readSerialData(java.lang.Object,java.io.ObjectStreamClass)>
+<java.io.ObjectInputStream: java.lang.Object readOrdinaryObject(boolean)>
+<java.io.ObjectInputStream: java.lang.Object readObject0(java.lang.Class,boolean)>
+<java.io.ObjectInputStream: java.lang.Object readObject(java.lang.Class)>
+<java.io.ObjectInputStream: java.lang.Object readObject()>
+<java.util.Hashtable: void readHashtable(java.io.ObjectInputStream)>
+<java.util.Hashtable: void readObject(java.io.ObjectInputStream)>
+]
+

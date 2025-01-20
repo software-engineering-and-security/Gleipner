@@ -1,0 +1,7 @@
+gleipner.core.SinkGadget->sinkMethod [(Ljava/lang/String;)V] T[T]  serializable
+gleipner.chains.basic.BasicTriggerGadget->readObject [(Ljava/io/ObjectInputStream;)V] U[U]  serializable
+
+gleipner.core.SinkGadget->sinkMethod [(Ljava/lang/String;)V] T[T]  serializable
+gleipner.chains.basic.BasicSinkGadget->load [()V] T[]  serializable
+gleipner.chains.basic.BasicLinkGadget->hashCode [()I] T[]  serializable
+

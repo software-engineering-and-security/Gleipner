@@ -1,0 +1,6 @@
+gleipner.core.SinkGadget->sinkMethod [(Ljava/lang/String;)V] T[T]  serializable
+gleipner.chains.reflection.proxy.Proxy_002_Trampoline->hashCode [()I] U[]  serializable
+
+gleipner.core.SinkGadget->sinkMethod [(Ljava/lang/String;)V] T[T]  serializable
+gleipner.chains.reflection.proxy.Proxy_003_FP_Trampoline->hashCode [()I] U[]  serializable
+

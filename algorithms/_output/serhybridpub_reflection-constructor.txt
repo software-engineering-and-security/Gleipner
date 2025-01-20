@@ -1,0 +1,4 @@
+<gleipner.chains.reflection.constructor.Constructor_005_Trampoline: java.lang.String taint>
+
+<gleipner.chains.reflection.constructor.Constructor_006_FP_Trampoline: java.lang.String taint>
+

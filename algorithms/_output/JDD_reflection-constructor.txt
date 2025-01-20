@@ -1,0 +1,5 @@
+[EXEC Gadget] <gleipner.chains.reflection.constructor.Constructor_005_Trampoline: int hashCode()>
+ -> <gleipner.core.SinkGadget: void sinkMethod(java.lang.String)>
+[EXEC Gadget] <gleipner.chains.reflection.constructor.Constructor_006_FP_Trampoline: int hashCode()>
+ -> <gleipner.core.SinkGadget: void sinkMethod(java.lang.String)>
+

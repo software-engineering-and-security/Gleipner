@@ -1,0 +1,11 @@
+org/apache/log4j/spi/LoggingEvent.readObject(Ljava/io/ObjectInputStream;)V (1)
+  org/apache/log4j/spi/LoggingEvent.readLevel(Ljava/io/ObjectInputStream;)V (1)
+  java/lang/reflect/Method.invoke(Ljava/lang/Object;[Ljava/lang/Object;)Ljava/lang/Object; (0)
+gleipner/chains/ysoserial/c3p0/PoolBackedDataSourceBase.readObject(Ljava/io/ObjectInputStream;)V (1)
+  gleipner/chains/ysoserial/c3p0/ReferenceIndirector$ReferenceSerialized.getObject()Ljava/lang/Object; (0)
+  gleipner/chains/ysoserial/c3p0/ReferenceableUtils.referenceToObject(Ljavax/naming/Reference;)V (0)
+  gleipner/core/SinkGadget.sinkMethod(Ljava/lang/String;)V (1)
+org/apache/log4j/pattern/LogEvent.readObject(Ljava/io/ObjectInputStream;)V (1)
+  org/apache/log4j/pattern/LogEvent.readLevel(Ljava/io/ObjectInputStream;)V (1)
+  java/lang/reflect/Method.invoke(Ljava/lang/Object;[Ljava/lang/Object;)Ljava/lang/Object; (0)
+

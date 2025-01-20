@@ -1,0 +1,51 @@
+[JNDI Gadget] <com.mchange.v2.c3p0.impl.JndiRefDataSourceBase: void readObject(java.io.ObjectInputStream)>
+ -> <com.mchange.v2.naming.ReferenceIndirector$ReferenceSerialized: java.lang.Object getObject()>
+ -> <javax.naming.Context: java.lang.Object lookup(javax.naming.Name)>
+
+[JNDI Gadget] <com.mchange.v2.c3p0.impl.WrapperConnectionPoolDataSourceBase: void readObject(java.io.ObjectInputStream)>
+ -> <com.mchange.v2.naming.ReferenceIndirector$ReferenceSerialized: java.lang.Object getObject()>
+ -> <javax.naming.Context: java.lang.Object lookup(javax.naming.Name)>
+
+[JNDI Gadget] <com.mchange.v2.c3p0.impl.PoolBackedDataSourceBase: void readObject(java.io.ObjectInputStream)>
+ -> <com.mchange.v2.naming.ReferenceIndirector$ReferenceSerialized: java.lang.Object getObject()>
+ -> <javax.naming.Context: java.lang.Object lookup(javax.naming.Name)>
+
+[JNDI Gadget] <com.mchange.v2.c3p0.impl.JndiRefDataSourceBase: void readObject(java.io.ObjectInputStream)>
+ -> <com.mchange.v2.naming.ReferenceIndirector$ReferenceSerialized: java.lang.Object getObject()>
+ -> <com.mchange.v2.naming.ReferenceableUtils: java.lang.Object referenceToObject(javax.naming.Reference,javax.naming.Name,javax.naming.Context,java.util.Hashtable)>
+ -> <javax.naming.spi.ObjectFactory: java.lang.Object getObjectInstance(java.lang.Object,javax.naming.Name,javax.naming.Context,java.util.Hashtable)>
+
+[JNDI Gadget] <com.mchange.v2.c3p0.impl.WrapperConnectionPoolDataSourceBase: void readObject(java.io.ObjectInputStream)>
+ -> <com.mchange.v2.naming.ReferenceIndirector$ReferenceSerialized: java.lang.Object getObject()>
+ -> <com.mchange.v2.naming.ReferenceableUtils: java.lang.Object referenceToObject(javax.naming.Reference,javax.naming.Name,javax.naming.Context,java.util.Hashtable)>
+ -> <javax.naming.spi.ObjectFactory: java.lang.Object getObjectInstance(java.lang.Object,javax.naming.Name,javax.naming.Context,java.util.Hashtable)>
+
+[JNDI Gadget] <com.mchange.v2.c3p0.impl.PoolBackedDataSourceBase: void readObject(java.io.ObjectInputStream)>
+ -> <com.mchange.v2.naming.ReferenceIndirector$ReferenceSerialized: java.lang.Object getObject()>
+ -> <com.mchange.v2.naming.ReferenceableUtils: java.lang.Object referenceToObject(javax.naming.Reference,javax.naming.Name,javax.naming.Context,java.util.Hashtable)>
+ -> <javax.naming.spi.ObjectFactory: java.lang.Object getObjectInstance(java.lang.Object,javax.naming.Name,javax.naming.Context,java.util.Hashtable)>
+
+[JNDI Gadget] <java.rmi.server.UnicastRemoteObject: void readObject(java.io.ObjectInputStream)>
+ -> <java.rmi.server.UnicastRemoteObject: void reexport()>
+ -> <java.rmi.server.UnicastRemoteObject: java.rmi.Remote exportObject(java.rmi.Remote,int)>
+ -> <java.rmi.server.UnicastRemoteObject: java.rmi.Remote exportObject(java.rmi.Remote,sun.rmi.server.UnicastServerRef)>
+ -> <sun.rmi.server.UnicastServerRef: java.rmi.Remote exportObject(java.rmi.Remote,java.lang.Object,boolean)>
+ -> <sun.rmi.transport.LiveRef: void exportObject(sun.rmi.transport.Target)>
+
+[JNDI Gadget] <sun.rmi.server.UnicastRef: void readExternal(java.io.ObjectInput)>
+ -> <sun.rmi.transport.LiveRef: sun.rmi.transport.LiveRef read(java.io.ObjectInput,boolean)>
+ -> <sun.rmi.transport.DGCClient: void registerRefs(sun.rmi.transport.Endpoint,java.util.List)>
+ -> <sun.rmi.transport.DGCClient$EndpointEntry: boolean registerRefs(java.util.List)>
+ -> <sun.rmi.transport.DGCClient$EndpointEntry: void makeDirtyCall(java.util.Set,long)>
+ -> <sun.rmi.transport.DGCImpl_Stub: java.rmi.dgc.Lease dirty(java.rmi.server.ObjID[],long,java.rmi.dgc.Lease)>
+ -> <sun.rmi.server.UnicastRef: java.rmi.server.RemoteCall newCall(java.rmi.server.RemoteObject,java.rmi.server.Operation[],int,long)>
+ -> <sun.rmi.transport.LiveRef: sun.rmi.transport.Channel getChannel()>
+
+[JNDI Gadget] <sun.rmi.server.UnicastRef2: void readExternal(java.io.ObjectInput)>
+ -> <sun.rmi.transport.LiveRef: sun.rmi.transport.LiveRef read(java.io.ObjectInput,boolean)>
+ -> <sun.rmi.transport.DGCClient: void registerRefs(sun.rmi.transport.Endpoint,java.util.List)>
+ -> <sun.rmi.transport.DGCClient$EndpointEntry: boolean registerRefs(java.util.List)>
+ -> <sun.rmi.transport.DGCClient$EndpointEntry: void makeDirtyCall(java.util.Set,long)>
+ -> <sun.rmi.transport.DGCImpl_Stub: java.rmi.dgc.Lease dirty(java.rmi.server.ObjID[],long,java.rmi.dgc.Lease)>
+ -> <sun.rmi.server.UnicastRef: java.rmi.server.RemoteCall newCall(java.rmi.server.RemoteObject,java.rmi.server.Operation[],int,long)>
+ -> <sun.rmi.transport.LiveRef: sun.rmi.transport.Channel getChannel()>

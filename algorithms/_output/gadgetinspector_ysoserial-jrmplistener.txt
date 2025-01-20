@@ -1,0 +1,7 @@
+org/apache/log4j/pattern/LogEvent.readObject(Ljava/io/ObjectInputStream;)V (1)
+  org/apache/log4j/pattern/LogEvent.readLevel(Ljava/io/ObjectInputStream;)V (1)
+  java/lang/reflect/Method.invoke(Ljava/lang/Object;[Ljava/lang/Object;)Ljava/lang/Object; (0)
+org/apache/log4j/spi/LoggingEvent.readObject(Ljava/io/ObjectInputStream;)V (1)
+  org/apache/log4j/spi/LoggingEvent.readLevel(Ljava/io/ObjectInputStream;)V (1)
+  java/lang/reflect/Method.invoke(Ljava/lang/Object;[Ljava/lang/Object;)Ljava/lang/Object; (0)
+

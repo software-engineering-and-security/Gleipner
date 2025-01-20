@@ -1,0 +1,255 @@
+[
+<gleipner.core.SinkGadget: void sinkMethod(java.lang.String[])>
+<gleipner.chains.polymorphism.Polymorphism_010_SinkGadget: void linkMethod()>
+<gleipner.chains.polymorphism.Polymorphism_010_LinkGadget: void linkMethod()>
+<gleipner.chains.polymorphism.Polymorphism_010_Parent: void linkMethod()>
+<gleipner.chains.polymorphism.Polymorphism_010_TrampolineGadget: int hashCode()>
+<gleipner.core.GleipnerObject: int hashCode()>
+<gleipner.core.TriggerGadget: void readObject(java.io.ObjectInputStream)>
+]
+
+[
+<gleipner.core.SinkGadget: void sinkMethod(java.lang.String[])>
+<gleipner.chains.polymorphism.Polymorphism_007_SinkGadget: void linkMethod()>
+<gleipner.chains.polymorphism.Polymorphism_007_LinkGadget: void linkMethod()>
+<gleipner.chains.polymorphism.Polymorphism_007_Child80: void linkMethod()>
+<gleipner.chains.polymorphism.Polymorphism_007_Child64: void linkMethod()>
+<gleipner.chains.polymorphism.Polymorphism_007_Parent: void linkMethod()>
+<gleipner.chains.polymorphism.Polymorphism_007_TrampolineGadget: int hashCode()>
+<gleipner.core.GleipnerObject: int hashCode()>
+<gleipner.core.TriggerGadget: void readObject(java.io.ObjectInputStream)>
+]
+
+[
+<gleipner.core.SinkGadget: void sinkMethod(java.lang.String[])>
+<gleipner.chains.polymorphism.Polymorphism_017_SinkGadget: void linkMethod()>
+<gleipner.chains.polymorphism.Polymorphism_017_LinkGadget: void linkMethod()>
+<gleipner.chains.polymorphism.Polymorphism_017_Child252: void linkMethod()>
+<gleipner.chains.polymorphism.Polymorphism_017_Child248: void linkMethod()>
+<gleipner.chains.polymorphism.Polymorphism_017_Child240: void linkMethod()>
+<gleipner.chains.polymorphism.Polymorphism_017_Child224: void linkMethod()>
+<gleipner.chains.polymorphism.Polymorphism_017_Child192: void linkMethod()>
+<gleipner.chains.polymorphism.Polymorphism_017_Child128: void linkMethod()>
+<gleipner.chains.polymorphism.Polymorphism_017_Parent: void linkMethod()>
+<gleipner.chains.polymorphism.Polymorphism_017_TrampolineGadget: int hashCode()>
+<gleipner.core.GleipnerObject: int hashCode()>
+<gleipner.core.TriggerGadget: void readObject(java.io.ObjectInputStream)>
+]
+
+[
+<gleipner.core.SinkGadget: void sinkMethod(java.lang.String[])>
+<gleipner.chains.polymorphism.Polymorphism_002_SinkGadget: void linkMethod()>
+<gleipner.chains.polymorphism.Polymorphism_002_LinkGadget: void linkMethod()>
+<gleipner.chains.polymorphism.Polymorphism_002_Child9: void linkMethod()>
+<gleipner.chains.polymorphism.Polymorphism_002_Parent: void linkMethod()>
+<gleipner.chains.polymorphism.Polymorphism_002_TrampolineGadget: int hashCode()>
+<gleipner.core.GleipnerObject: int hashCode()>
+<gleipner.core.TriggerGadget: void readObject(java.io.ObjectInputStream)>
+]
+
+[
+<gleipner.core.SinkGadget: void sinkMethod(java.lang.String[])>
+<gleipner.chains.polymorphism.Polymorphism_018_SinkGadget: void linkMethod()>
+<gleipner.chains.polymorphism.Polymorphism_018_LinkGadget: void linkMethod()>
+<gleipner.chains.polymorphism.Polymorphism_018_Child508: void linkMethod()>
+<gleipner.chains.polymorphism.Polymorphism_018_Child504: void linkMethod()>
+<gleipner.chains.polymorphism.Polymorphism_018_Child496: void linkMethod()>
+<gleipner.chains.polymorphism.Polymorphism_018_Child480: void linkMethod()>
+<gleipner.chains.polymorphism.Polymorphism_018_Child448: void linkMethod()>
+<gleipner.chains.polymorphism.Polymorphism_018_Child384: void linkMethod()>
+<gleipner.chains.polymorphism.Polymorphism_018_Child256: void linkMethod()>
+<gleipner.chains.polymorphism.Polymorphism_018_Parent: void linkMethod()>
+<gleipner.chains.polymorphism.Polymorphism_018_TrampolineGadget: int hashCode()>
+<gleipner.core.GleipnerObject: int hashCode()>
+<gleipner.core.TriggerGadget: void readObject(java.io.ObjectInputStream)>
+]
+
+[
+<gleipner.core.SinkGadget: void sinkMethod(java.lang.String[])>
+<gleipner.chains.polymorphism.Polymorphism_005_SinkGadget: void linkMethod()>
+<gleipner.chains.polymorphism.Polymorphism_005_LinkGadget: void linkMethod()>
+<gleipner.chains.polymorphism.Polymorphism_005_Parent: void linkMethod()>
+<gleipner.chains.polymorphism.Polymorphism_005_TrampolineGadget: int hashCode()>
+<gleipner.core.GleipnerObject: int hashCode()>
+<gleipner.core.TriggerGadget: void readObject(java.io.ObjectInputStream)>
+]
+
+[
+<gleipner.core.SinkGadget: void sinkMethod(java.lang.String[])>
+<gleipner.chains.polymorphism.Polymorphism_014_SinkGadget: void linkMethod()>
+<gleipner.chains.polymorphism.Polymorphism_014_LinkGadget: void linkMethod()>
+<gleipner.chains.polymorphism.Polymorphism_014_Child28: void linkMethod()>
+<gleipner.chains.polymorphism.Polymorphism_014_Child24: void linkMethod()>
+<gleipner.chains.polymorphism.Polymorphism_014_Child16: void linkMethod()>
+<gleipner.chains.polymorphism.Polymorphism_014_Parent: void linkMethod()>
+<gleipner.chains.polymorphism.Polymorphism_014_TrampolineGadget: int hashCode()>
+<gleipner.core.GleipnerObject: int hashCode()>
+<gleipner.core.TriggerGadget: void readObject(java.io.ObjectInputStream)>
+]
+
+[
+<gleipner.core.SinkGadget: void sinkMethod(java.lang.String[])>
+<gleipner.chains.polymorphism.Polymorphism_020_SinkGadget: void linkMethod()>
+<gleipner.chains.polymorphism.Polymorphism_020_LinkGadget: void linkMethod()>
+<gleipner.chains.polymorphism.Polymorphism_020_Child2044: void linkMethod()>
+<gleipner.chains.polymorphism.Polymorphism_020_Child2040: void linkMethod()>
+<gleipner.chains.polymorphism.Polymorphism_020_Child2032: void linkMethod()>
+<gleipner.chains.polymorphism.Polymorphism_020_Child2016: void linkMethod()>
+<gleipner.chains.polymorphism.Polymorphism_020_Child1984: void linkMethod()>
+<gleipner.chains.polymorphism.Polymorphism_020_Child1920: void linkMethod()>
+<gleipner.chains.polymorphism.Polymorphism_020_Child1792: void linkMethod()>
+<gleipner.chains.polymorphism.Polymorphism_020_Child1536: void linkMethod()>
+<gleipner.chains.polymorphism.Polymorphism_020_Child1024: void linkMethod()>
+<gleipner.chains.polymorphism.Polymorphism_020_Parent: void linkMethod()>
+<gleipner.chains.polymorphism.Polymorphism_020_TrampolineGadget: int hashCode()>
+<gleipner.core.GleipnerObject: int hashCode()>
+<gleipner.core.TriggerGadget: void readObject(java.io.ObjectInputStream)>
+]
+
+[
+<gleipner.core.SinkGadget: void sinkMethod(java.lang.String[])>
+<gleipner.chains.polymorphism.Polymorphism_004_SinkGadget: void linkMethod()>
+<gleipner.chains.polymorphism.Polymorphism_004_LinkGadget: void linkMethod()>
+<gleipner.chains.polymorphism.Polymorphism_004_Child117: void linkMethod()>
+<gleipner.chains.polymorphism.Polymorphism_004_Child108: void linkMethod()>
+<gleipner.chains.polymorphism.Polymorphism_004_Child81: void linkMethod()>
+<gleipner.chains.polymorphism.Polymorphism_004_Parent: void linkMethod()>
+<gleipner.chains.polymorphism.Polymorphism_004_TrampolineGadget: int hashCode()>
+<gleipner.core.GleipnerObject: int hashCode()>
+<gleipner.core.TriggerGadget: void readObject(java.io.ObjectInputStream)>
+]
+
+[
+<gleipner.core.SinkGadget: void sinkMethod(java.lang.String[])>
+<gleipner.chains.polymorphism.Polymorphism_009_SinkGadget: void linkMethod()>
+<gleipner.chains.polymorphism.Polymorphism_009_LinkGadget: void linkMethod()>
+<gleipner.chains.polymorphism.Polymorphism_009_Child25: void linkMethod()>
+<gleipner.chains.polymorphism.Polymorphism_009_Parent: void linkMethod()>
+<gleipner.chains.polymorphism.Polymorphism_009_TrampolineGadget: int hashCode()>
+<gleipner.core.GleipnerObject: int hashCode()>
+<gleipner.core.TriggerGadget: void readObject(java.io.ObjectInputStream)>
+]
+
+[
+<gleipner.core.SinkGadget: void sinkMethod(java.lang.String[])>
+<gleipner.chains.polymorphism.Polymorphism_015_SinkGadget: void linkMethod()>
+<gleipner.chains.polymorphism.Polymorphism_015_LinkGadget: void linkMethod()>
+<gleipner.chains.polymorphism.Polymorphism_015_Child60: void linkMethod()>
+<gleipner.chains.polymorphism.Polymorphism_015_Child56: void linkMethod()>
+<gleipner.chains.polymorphism.Polymorphism_015_Child48: void linkMethod()>
+<gleipner.chains.polymorphism.Polymorphism_015_Child32: void linkMethod()>
+<gleipner.chains.polymorphism.Polymorphism_015_Parent: void linkMethod()>
+<gleipner.chains.polymorphism.Polymorphism_015_TrampolineGadget: int hashCode()>
+<gleipner.core.GleipnerObject: int hashCode()>
+<gleipner.core.TriggerGadget: void readObject(java.io.ObjectInputStream)>
+]
+
+[
+<gleipner.core.SinkGadget: void sinkMethod(java.lang.String[])>
+<gleipner.chains.polymorphism.Polymorphism_001_SinkGadget: void linkMethod()>
+<gleipner.chains.polymorphism.Polymorphism_001_LinkGadget: void linkMethod()>
+<gleipner.chains.polymorphism.Polymorphism_001_Parent: void linkMethod()>
+<gleipner.chains.polymorphism.Polymorphism_001_TrampolineGadget: int hashCode()>
+<gleipner.core.GleipnerObject: int hashCode()>
+<gleipner.core.TriggerGadget: void readObject(java.io.ObjectInputStream)>
+]
+
+[
+<gleipner.core.SinkGadget: void sinkMethod(java.lang.String[])>
+<gleipner.chains.polymorphism.Polymorphism_012_SinkGadget: void linkMethod()>
+<gleipner.chains.polymorphism.Polymorphism_012_LinkGadget: void linkMethod()>
+<gleipner.chains.polymorphism.Polymorphism_012_Child4: void linkMethod()>
+<gleipner.chains.polymorphism.Polymorphism_012_Parent: void linkMethod()>
+<gleipner.chains.polymorphism.Polymorphism_012_TrampolineGadget: int hashCode()>
+<gleipner.core.GleipnerObject: int hashCode()>
+<gleipner.core.TriggerGadget: void readObject(java.io.ObjectInputStream)>
+]
+
+[
+<gleipner.core.SinkGadget: void sinkMethod(java.lang.String[])>
+<gleipner.chains.polymorphism.Polymorphism_003_SinkGadget: void linkMethod()>
+<gleipner.chains.polymorphism.Polymorphism_003_LinkGadget: void linkMethod()>
+<gleipner.chains.polymorphism.Polymorphism_003_Child36: void linkMethod()>
+<gleipner.chains.polymorphism.Polymorphism_003_Child27: void linkMethod()>
+<gleipner.chains.polymorphism.Polymorphism_003_Parent: void linkMethod()>
+<gleipner.chains.polymorphism.Polymorphism_003_TrampolineGadget: int hashCode()>
+<gleipner.core.GleipnerObject: int hashCode()>
+<gleipner.core.TriggerGadget: void readObject(java.io.ObjectInputStream)>
+]
+
+[
+<gleipner.core.SinkGadget: void sinkMethod(java.lang.String[])>
+<gleipner.chains.polymorphism.Polymorphism_011_SinkGadget: void linkMethod()>
+<gleipner.chains.polymorphism.Polymorphism_011_LinkGadget: void linkMethod()>
+<gleipner.chains.polymorphism.Polymorphism_011_Parent: void linkMethod()>
+<gleipner.chains.polymorphism.Polymorphism_011_TrampolineGadget: int hashCode()>
+<gleipner.core.GleipnerObject: int hashCode()>
+<gleipner.core.TriggerGadget: void readObject(java.io.ObjectInputStream)>
+]
+
+[
+<gleipner.core.SinkGadget: void sinkMethod(java.lang.String[])>
+<gleipner.chains.polymorphism.Polymorphism_019_SinkGadget: void linkMethod()>
+<gleipner.chains.polymorphism.Polymorphism_019_LinkGadget: void linkMethod()>
+<gleipner.chains.polymorphism.Polymorphism_019_Child1020: void linkMethod()>
+<gleipner.chains.polymorphism.Polymorphism_019_Child1016: void linkMethod()>
+<gleipner.chains.polymorphism.Polymorphism_019_Child1008: void linkMethod()>
+<gleipner.chains.polymorphism.Polymorphism_019_Child992: void linkMethod()>
+<gleipner.chains.polymorphism.Polymorphism_019_Child960: void linkMethod()>
+<gleipner.chains.polymorphism.Polymorphism_019_Child896: void linkMethod()>
+<gleipner.chains.polymorphism.Polymorphism_019_Child768: void linkMethod()>
+<gleipner.chains.polymorphism.Polymorphism_019_Child512: void linkMethod()>
+<gleipner.chains.polymorphism.Polymorphism_019_Parent: void linkMethod()>
+<gleipner.chains.polymorphism.Polymorphism_019_TrampolineGadget: int hashCode()>
+<gleipner.core.GleipnerObject: int hashCode()>
+<gleipner.core.TriggerGadget: void readObject(java.io.ObjectInputStream)>
+]
+
+[
+<gleipner.core.SinkGadget: void sinkMethod(java.lang.String[])>
+<gleipner.chains.polymorphism.Polymorphism_016_SinkGadget: void linkMethod()>
+<gleipner.chains.polymorphism.Polymorphism_016_LinkGadget: void linkMethod()>
+<gleipner.chains.polymorphism.Polymorphism_016_Child124: void linkMethod()>
+<gleipner.chains.polymorphism.Polymorphism_016_Child120: void linkMethod()>
+<gleipner.chains.polymorphism.Polymorphism_016_Child112: void linkMethod()>
+<gleipner.chains.polymorphism.Polymorphism_016_Child96: void linkMethod()>
+<gleipner.chains.polymorphism.Polymorphism_016_Child64: void linkMethod()>
+<gleipner.chains.polymorphism.Polymorphism_016_Parent: void linkMethod()>
+<gleipner.chains.polymorphism.Polymorphism_016_TrampolineGadget: int hashCode()>
+<gleipner.core.GleipnerObject: int hashCode()>
+<gleipner.core.TriggerGadget: void readObject(java.io.ObjectInputStream)>
+]
+
+[
+<gleipner.core.SinkGadget: void sinkMethod(java.lang.String[])>
+<gleipner.chains.polymorphism.Polymorphism_006_SinkGadget: void linkMethod()>
+<gleipner.chains.polymorphism.Polymorphism_006_LinkGadget: void linkMethod()>
+<gleipner.chains.polymorphism.Polymorphism_006_Child16: void linkMethod()>
+<gleipner.chains.polymorphism.Polymorphism_006_Parent: void linkMethod()>
+<gleipner.chains.polymorphism.Polymorphism_006_TrampolineGadget: int hashCode()>
+<gleipner.core.GleipnerObject: int hashCode()>
+<gleipner.core.TriggerGadget: void readObject(java.io.ObjectInputStream)>
+]
+
+[
+<gleipner.core.SinkGadget: void sinkMethod(java.lang.String[])>
+<gleipner.chains.polymorphism.Polymorphism_013_SinkGadget: void linkMethod()>
+<gleipner.chains.polymorphism.Polymorphism_013_LinkGadget: void linkMethod()>
+<gleipner.chains.polymorphism.Polymorphism_013_Child12: void linkMethod()>
+<gleipner.chains.polymorphism.Polymorphism_013_Child8: void linkMethod()>
+<gleipner.chains.polymorphism.Polymorphism_013_Parent: void linkMethod()>
+<gleipner.chains.polymorphism.Polymorphism_013_TrampolineGadget: int hashCode()>
+<gleipner.core.GleipnerObject: int hashCode()>
+<gleipner.core.TriggerGadget: void readObject(java.io.ObjectInputStream)>
+]
+
+[
+<gleipner.core.SinkGadget: void sinkMethod(java.lang.String[])>
+<gleipner.chains.polymorphism.Polymorphism_008_SinkGadget: void linkMethod()>
+<gleipner.chains.polymorphism.Polymorphism_008_LinkGadget: void linkMethod()>
+<gleipner.chains.polymorphism.Polymorphism_008_Parent: void linkMethod()>
+<gleipner.chains.polymorphism.Polymorphism_008_TrampolineGadget: int hashCode()>
+<gleipner.core.GleipnerObject: int hashCode()>
+<gleipner.core.TriggerGadget: void readObject(java.io.ObjectInputStream)>
+]
+

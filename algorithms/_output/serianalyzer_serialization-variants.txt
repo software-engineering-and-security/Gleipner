@@ -1,0 +1,10 @@
+gleipner.core.SinkGadget->sinkMethod [(Ljava/lang/String;)V] T[T]  serializable
+gleipner.chains.serializationvariants.ReadResolve_TriggerGadget->readResolve [()Ljava/lang/Object;] U[]  serializable
+
+gleipner.core.SinkGadget->sinkMethod [(Ljava/lang/String;)V] T[T]  serializable
+gleipner.chains.serializationvariants.ReadObject_TriggerGadget->readObject [(Ljava/io/ObjectInputStream;)V] U[U]  serializable
+
+gleipner.core.SinkGadget->sinkMethod [(Ljava/lang/String;)V] T[T]  serializable
+gleipner.chains.serializationvariants.ReadObjectNoData_TriggerGadget->invoke [()V] T[]  serializable
+gleipner.chains.serializationvariants.ReadObjectNoData_Parent->readObjectNoData [()V] U[]  serializable
+

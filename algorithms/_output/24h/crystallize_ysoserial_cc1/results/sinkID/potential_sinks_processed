@@ -1,0 +1,4 @@
+<gleipner.chains.ysoserial.cc1.InvokerTransformer: java.lang.Object transform(java.lang.Object)>
+<gleipner.chains.ysoserial.cc1.ChainedTransformer: java.lang.Object transform(java.lang.Object)>
+<gleipner.chains.ysoserial.cc1.ConstantTransformer: java.lang.Object transform(java.lang.Object)>
+<gleipner.chains.ysoserial.cc1.LazyMap: java.lang.Object get(java.lang.Object)>

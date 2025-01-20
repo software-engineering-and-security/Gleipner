@@ -1,0 +1,27 @@
+<gleipner.chains.reflection.exceptions.NoSuchMethodException_002_FP_Trampoline: java.lang.String taint>
+
+<gleipner.chains.reflection.exceptions.InvocationTargetException_002_FP_Trampoline: java.lang.String taint>
+
+<gleipner.chains.reflection.exceptions.IllegalAccessException_001_Trampoline: java.lang.String taint>
+
+<gleipner.chains.reflection.exceptions.ClassCastException_002_FP_Trampoline: java.lang.String taint>
+
+<gleipner.chains.reflection.exceptions.ClassCastException_001_Trampoline: java.lang.String taint>
+
+<gleipner.chains.reflection.exceptions.InvocationTargetException_001_Trampoline: java.lang.String taint>
+
+<gleipner.chains.reflection.exceptions.InstantiationException_002_FP_Trampoline: java.lang.String taint>
+
+<gleipner.chains.reflection.exceptions.InstantiationException_001_Trampoline: java.lang.String taint>
+
+<gleipner.chains.reflection.exceptions.NoSuchMethodException_001_Trampoline: java.lang.String taint>
+
+<gleipner.chains.reflection.exceptions.ClassNotFoundException_001_Trampoline: java.lang.String taint>
+
+<gleipner.chains.reflection.exceptions.IllegalAccessException_002_FP_Trampoline: java.lang.String taint>
+
+<gleipner.chains.reflection.exceptions.NoSuchFieldException_001_Trampoline: java.lang.String taint>
+
+<gleipner.chains.reflection.exceptions.NoSuchFieldException_002_FP_Trampoline: java.lang.String taint>
+
+<gleipner.chains.reflection.exceptions.ClassNotFoundException_002_FP_Trampoline: java.lang.String taint>

@@ -1,0 +1,8 @@
+[
+<gleipner.core.SinkGadget: void sinkMethod(java.lang.String)>
+<gleipner.chains.ysoserial.c3p0.ReferenceableUtils: void referenceToObject(javax.naming.Reference)>
+<gleipner.chains.ysoserial.c3p0.ReferenceIndirector$ReferenceSerialized: java.lang.Object getObject()>
+<gleipner.chains.ysoserial.c3p0.IndirectlySerialized: java.lang.Object getObject()>
+<gleipner.chains.ysoserial.c3p0.PoolBackedDataSourceBase: void readObject(java.io.ObjectInputStream)>
+]
+

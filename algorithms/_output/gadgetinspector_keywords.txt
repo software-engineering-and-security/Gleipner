@@ -1,0 +1,5 @@
+gleipner/chains/keywords/Serializable_001_TrampolineMethod.hashCode()I (0)
+  gleipner/core/SinkGadget.sinkMethod(Ljava/lang/String;)V (1)
+gleipner/chains/keywords/Serializable_001_TrampolineMethod.hashCode()I (0)
+  gleipner/core/SinkGadget.sinkMethod(Ljava/lang/String;)V (0)
+

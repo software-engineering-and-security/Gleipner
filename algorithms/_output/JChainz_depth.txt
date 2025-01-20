@@ -1,0 +1,310 @@
+[
+ <gleipner.chains.depth.Depth_012_TrampolineGadget: void readObject(java.io.ObjectInputStream)>
+ <gleipner.chains.depth.Depth_012_LinkGadget1: void linkMethod()>
+ <gleipner.chains.depth.Depth_012_LinkGadget2: void linkMethod()>
+ <gleipner.chains.depth.Depth_012_LinkGadget3: void linkMethod()>
+ <gleipner.chains.depth.Depth_012_LinkGadget4: void linkMethod()>
+ <gleipner.chains.depth.Depth_012_LinkGadget5: void linkMethod()>
+ <gleipner.chains.depth.Depth_012_LinkGadget6: void linkMethod()>
+ <gleipner.chains.depth.Depth_012_LinkGadget7: void linkMethod()>
+ <gleipner.chains.depth.Depth_012_LinkGadget8: void linkMethod()>
+ <gleipner.chains.depth.Depth_012_LinkGadget9: void linkMethod()>
+ <gleipner.chains.depth.Depth_012_LinkGadget10: void linkMethod()>
+ <gleipner.chains.depth.Depth_012_LinkGadget11: void linkMethod()>
+ <gleipner.chains.depth.Depth_012_LinkGadget12: void linkMethod()>
+ <gleipner.chains.depth.Depth_012_SinkGadget: void linkMethod()>
+ <gleipner.core.SinkGadget: void sinkMethod(java.lang.String)>
+]
+[
+ <gleipner.chains.depth.Depth_013_TrampolineGadget: void readObject(java.io.ObjectInputStream)>
+ <gleipner.chains.depth.Depth_013_LinkGadget1: void linkMethod()>
+ <gleipner.chains.depth.Depth_013_LinkGadget2: void linkMethod()>
+ <gleipner.chains.depth.Depth_013_LinkGadget3: void linkMethod()>
+ <gleipner.chains.depth.Depth_013_LinkGadget4: void linkMethod()>
+ <gleipner.chains.depth.Depth_013_LinkGadget5: void linkMethod()>
+ <gleipner.chains.depth.Depth_013_LinkGadget6: void linkMethod()>
+ <gleipner.chains.depth.Depth_013_LinkGadget7: void linkMethod()>
+ <gleipner.chains.depth.Depth_013_LinkGadget8: void linkMethod()>
+ <gleipner.chains.depth.Depth_013_LinkGadget9: void linkMethod()>
+ <gleipner.chains.depth.Depth_013_LinkGadget10: void linkMethod()>
+ <gleipner.chains.depth.Depth_013_LinkGadget11: void linkMethod()>
+ <gleipner.chains.depth.Depth_013_LinkGadget12: void linkMethod()>
+ <gleipner.chains.depth.Depth_013_LinkGadget13: void linkMethod()>
+ <gleipner.chains.depth.Depth_013_SinkGadget: void linkMethod()>
+ <gleipner.core.SinkGadget: void sinkMethod(java.lang.String)>
+]
+[
+ <gleipner.chains.depth.Depth_011_TrampolineGadget: void readObject(java.io.ObjectInputStream)>
+ <gleipner.chains.depth.Depth_011_LinkGadget1: void linkMethod()>
+ <gleipner.chains.depth.Depth_011_LinkGadget2: void linkMethod()>
+ <gleipner.chains.depth.Depth_011_LinkGadget3: void linkMethod()>
+ <gleipner.chains.depth.Depth_011_LinkGadget4: void linkMethod()>
+ <gleipner.chains.depth.Depth_011_LinkGadget5: void linkMethod()>
+ <gleipner.chains.depth.Depth_011_LinkGadget6: void linkMethod()>
+ <gleipner.chains.depth.Depth_011_LinkGadget7: void linkMethod()>
+ <gleipner.chains.depth.Depth_011_LinkGadget8: void linkMethod()>
+ <gleipner.chains.depth.Depth_011_LinkGadget9: void linkMethod()>
+ <gleipner.chains.depth.Depth_011_LinkGadget10: void linkMethod()>
+ <gleipner.chains.depth.Depth_011_LinkGadget11: void linkMethod()>
+ <gleipner.chains.depth.Depth_011_SinkGadget: void linkMethod()>
+ <gleipner.core.SinkGadget: void sinkMethod(java.lang.String)>
+]
+[
+ <gleipner.chains.depth.Depth_008_TrampolineGadget: void readObject(java.io.ObjectInputStream)>
+ <gleipner.chains.depth.Depth_008_LinkGadget1: void linkMethod()>
+ <gleipner.chains.depth.Depth_008_LinkGadget2: void linkMethod()>
+ <gleipner.chains.depth.Depth_008_LinkGadget3: void linkMethod()>
+ <gleipner.chains.depth.Depth_008_LinkGadget4: void linkMethod()>
+ <gleipner.chains.depth.Depth_008_LinkGadget5: void linkMethod()>
+ <gleipner.chains.depth.Depth_008_LinkGadget6: void linkMethod()>
+ <gleipner.chains.depth.Depth_008_LinkGadget7: void linkMethod()>
+ <gleipner.chains.depth.Depth_008_LinkGadget8: void linkMethod()>
+ <gleipner.chains.depth.Depth_008_SinkGadget: void linkMethod()>
+ <gleipner.core.SinkGadget: void sinkMethod(java.lang.String)>
+]
+[
+ <gleipner.chains.depth.Depth_009_TrampolineGadget: void readObject(java.io.ObjectInputStream)>
+ <gleipner.chains.depth.Depth_009_LinkGadget1: void linkMethod()>
+ <gleipner.chains.depth.Depth_009_LinkGadget2: void linkMethod()>
+ <gleipner.chains.depth.Depth_009_LinkGadget3: void linkMethod()>
+ <gleipner.chains.depth.Depth_009_LinkGadget4: void linkMethod()>
+ <gleipner.chains.depth.Depth_009_LinkGadget5: void linkMethod()>
+ <gleipner.chains.depth.Depth_009_LinkGadget6: void linkMethod()>
+ <gleipner.chains.depth.Depth_009_LinkGadget7: void linkMethod()>
+ <gleipner.chains.depth.Depth_009_LinkGadget8: void linkMethod()>
+ <gleipner.chains.depth.Depth_009_LinkGadget9: void linkMethod()>
+ <gleipner.chains.depth.Depth_009_SinkGadget: void linkMethod()>
+ <gleipner.core.SinkGadget: void sinkMethod(java.lang.String)>
+]
+[
+ <gleipner.chains.depth.Depth_017_TrampolineGadget: void readObject(java.io.ObjectInputStream)>
+ <gleipner.chains.depth.Depth_017_LinkGadget1: void linkMethod()>
+ <gleipner.chains.depth.Depth_017_LinkGadget2: void linkMethod()>
+ <gleipner.chains.depth.Depth_017_LinkGadget3: void linkMethod()>
+ <gleipner.chains.depth.Depth_017_LinkGadget4: void linkMethod()>
+ <gleipner.chains.depth.Depth_017_LinkGadget5: void linkMethod()>
+ <gleipner.chains.depth.Depth_017_LinkGadget6: void linkMethod()>
+ <gleipner.chains.depth.Depth_017_LinkGadget7: void linkMethod()>
+ <gleipner.chains.depth.Depth_017_LinkGadget8: void linkMethod()>
+ <gleipner.chains.depth.Depth_017_LinkGadget9: void linkMethod()>
+ <gleipner.chains.depth.Depth_017_LinkGadget10: void linkMethod()>
+ <gleipner.chains.depth.Depth_017_LinkGadget11: void linkMethod()>
+ <gleipner.chains.depth.Depth_017_LinkGadget12: void linkMethod()>
+ <gleipner.chains.depth.Depth_017_LinkGadget13: void linkMethod()>
+ <gleipner.chains.depth.Depth_017_LinkGadget14: void linkMethod()>
+ <gleipner.chains.depth.Depth_017_LinkGadget15: void linkMethod()>
+ <gleipner.chains.depth.Depth_017_LinkGadget16: void linkMethod()>
+ <gleipner.chains.depth.Depth_017_LinkGadget17: void linkMethod()>
+ <gleipner.chains.depth.Depth_017_SinkGadget: void linkMethod()>
+ <gleipner.core.SinkGadget: void sinkMethod(java.lang.String)>
+]
+[
+ <gleipner.chains.depth.Depth_007_TrampolineGadget: void readObject(java.io.ObjectInputStream)>
+ <gleipner.chains.depth.Depth_007_LinkGadget1: void linkMethod()>
+ <gleipner.chains.depth.Depth_007_LinkGadget2: void linkMethod()>
+ <gleipner.chains.depth.Depth_007_LinkGadget3: void linkMethod()>
+ <gleipner.chains.depth.Depth_007_LinkGadget4: void linkMethod()>
+ <gleipner.chains.depth.Depth_007_LinkGadget5: void linkMethod()>
+ <gleipner.chains.depth.Depth_007_LinkGadget6: void linkMethod()>
+ <gleipner.chains.depth.Depth_007_LinkGadget7: void linkMethod()>
+ <gleipner.chains.depth.Depth_007_SinkGadget: void linkMethod()>
+ <gleipner.core.SinkGadget: void sinkMethod(java.lang.String)>
+]
+[
+ <gleipner.chains.depth.Depth_010_TrampolineGadget: void readObject(java.io.ObjectInputStream)>
+ <gleipner.chains.depth.Depth_010_LinkGadget1: void linkMethod()>
+ <gleipner.chains.depth.Depth_010_LinkGadget2: void linkMethod()>
+ <gleipner.chains.depth.Depth_010_LinkGadget3: void linkMethod()>
+ <gleipner.chains.depth.Depth_010_LinkGadget4: void linkMethod()>
+ <gleipner.chains.depth.Depth_010_LinkGadget5: void linkMethod()>
+ <gleipner.chains.depth.Depth_010_LinkGadget6: void linkMethod()>
+ <gleipner.chains.depth.Depth_010_LinkGadget7: void linkMethod()>
+ <gleipner.chains.depth.Depth_010_LinkGadget8: void linkMethod()>
+ <gleipner.chains.depth.Depth_010_LinkGadget9: void linkMethod()>
+ <gleipner.chains.depth.Depth_010_LinkGadget10: void linkMethod()>
+ <gleipner.chains.depth.Depth_010_SinkGadget: void linkMethod()>
+ <gleipner.core.SinkGadget: void sinkMethod(java.lang.String)>
+]
+[
+ <gleipner.chains.depth.Depth_014_TrampolineGadget: void readObject(java.io.ObjectInputStream)>
+ <gleipner.chains.depth.Depth_014_LinkGadget1: void linkMethod()>
+ <gleipner.chains.depth.Depth_014_LinkGadget2: void linkMethod()>
+ <gleipner.chains.depth.Depth_014_LinkGadget3: void linkMethod()>
+ <gleipner.chains.depth.Depth_014_LinkGadget4: void linkMethod()>
+ <gleipner.chains.depth.Depth_014_LinkGadget5: void linkMethod()>
+ <gleipner.chains.depth.Depth_014_LinkGadget6: void linkMethod()>
+ <gleipner.chains.depth.Depth_014_LinkGadget7: void linkMethod()>
+ <gleipner.chains.depth.Depth_014_LinkGadget8: void linkMethod()>
+ <gleipner.chains.depth.Depth_014_LinkGadget9: void linkMethod()>
+ <gleipner.chains.depth.Depth_014_LinkGadget10: void linkMethod()>
+ <gleipner.chains.depth.Depth_014_LinkGadget11: void linkMethod()>
+ <gleipner.chains.depth.Depth_014_LinkGadget12: void linkMethod()>
+ <gleipner.chains.depth.Depth_014_LinkGadget13: void linkMethod()>
+ <gleipner.chains.depth.Depth_014_LinkGadget14: void linkMethod()>
+ <gleipner.chains.depth.Depth_014_SinkGadget: void linkMethod()>
+ <gleipner.core.SinkGadget: void sinkMethod(java.lang.String)>
+]
+[
+ <gleipner.chains.depth.Depth_001_TrampolineGadget: void readObject(java.io.ObjectInputStream)>
+ <gleipner.chains.depth.Depth_001_LinkGadget1: void linkMethod()>
+ <gleipner.chains.depth.Depth_001_SinkGadget: void linkMethod()>
+ <gleipner.core.SinkGadget: void sinkMethod(java.lang.String)>
+]
+[
+ <gleipner.chains.depth.Depth_003_TrampolineGadget: void readObject(java.io.ObjectInputStream)>
+ <gleipner.chains.depth.Depth_003_LinkGadget1: void linkMethod()>
+ <gleipner.chains.depth.Depth_003_LinkGadget2: void linkMethod()>
+ <gleipner.chains.depth.Depth_003_LinkGadget3: void linkMethod()>
+ <gleipner.chains.depth.Depth_003_SinkGadget: void linkMethod()>
+ <gleipner.core.SinkGadget: void sinkMethod(java.lang.String)>
+]
+[
+ <gleipner.chains.depth.Depth_002_TrampolineGadget: void readObject(java.io.ObjectInputStream)>
+ <gleipner.chains.depth.Depth_002_LinkGadget1: void linkMethod()>
+ <gleipner.chains.depth.Depth_002_LinkGadget2: void linkMethod()>
+ <gleipner.chains.depth.Depth_002_SinkGadget: void linkMethod()>
+ <gleipner.core.SinkGadget: void sinkMethod(java.lang.String)>
+]
+[
+ <gleipner.chains.depth.Depth_006_TrampolineGadget: void readObject(java.io.ObjectInputStream)>
+ <gleipner.chains.depth.Depth_006_LinkGadget1: void linkMethod()>
+ <gleipner.chains.depth.Depth_006_LinkGadget2: void linkMethod()>
+ <gleipner.chains.depth.Depth_006_LinkGadget3: void linkMethod()>
+ <gleipner.chains.depth.Depth_006_LinkGadget4: void linkMethod()>
+ <gleipner.chains.depth.Depth_006_LinkGadget5: void linkMethod()>
+ <gleipner.chains.depth.Depth_006_LinkGadget6: void linkMethod()>
+ <gleipner.chains.depth.Depth_006_SinkGadget: void linkMethod()>
+ <gleipner.core.SinkGadget: void sinkMethod(java.lang.String)>
+]
+[
+ <gleipner.chains.depth.Depth_015_TrampolineGadget: void readObject(java.io.ObjectInputStream)>
+ <gleipner.chains.depth.Depth_015_LinkGadget1: void linkMethod()>
+ <gleipner.chains.depth.Depth_015_LinkGadget2: void linkMethod()>
+ <gleipner.chains.depth.Depth_015_LinkGadget3: void linkMethod()>
+ <gleipner.chains.depth.Depth_015_LinkGadget4: void linkMethod()>
+ <gleipner.chains.depth.Depth_015_LinkGadget5: void linkMethod()>
+ <gleipner.chains.depth.Depth_015_LinkGadget6: void linkMethod()>
+ <gleipner.chains.depth.Depth_015_LinkGadget7: void linkMethod()>
+ <gleipner.chains.depth.Depth_015_LinkGadget8: void linkMethod()>
+ <gleipner.chains.depth.Depth_015_LinkGadget9: void linkMethod()>
+ <gleipner.chains.depth.Depth_015_LinkGadget10: void linkMethod()>
+ <gleipner.chains.depth.Depth_015_LinkGadget11: void linkMethod()>
+ <gleipner.chains.depth.Depth_015_LinkGadget12: void linkMethod()>
+ <gleipner.chains.depth.Depth_015_LinkGadget13: void linkMethod()>
+ <gleipner.chains.depth.Depth_015_LinkGadget14: void linkMethod()>
+ <gleipner.chains.depth.Depth_015_LinkGadget15: void linkMethod()>
+ <gleipner.chains.depth.Depth_015_SinkGadget: void linkMethod()>
+ <gleipner.core.SinkGadget: void sinkMethod(java.lang.String)>
+]
+[
+ <gleipner.chains.depth.Depth_018_TrampolineGadget: void readObject(java.io.ObjectInputStream)>
+ <gleipner.chains.depth.Depth_018_LinkGadget1: void linkMethod()>
+ <gleipner.chains.depth.Depth_018_LinkGadget2: void linkMethod()>
+ <gleipner.chains.depth.Depth_018_LinkGadget3: void linkMethod()>
+ <gleipner.chains.depth.Depth_018_LinkGadget4: void linkMethod()>
+ <gleipner.chains.depth.Depth_018_LinkGadget5: void linkMethod()>
+ <gleipner.chains.depth.Depth_018_LinkGadget6: void linkMethod()>
+ <gleipner.chains.depth.Depth_018_LinkGadget7: void linkMethod()>
+ <gleipner.chains.depth.Depth_018_LinkGadget8: void linkMethod()>
+ <gleipner.chains.depth.Depth_018_LinkGadget9: void linkMethod()>
+ <gleipner.chains.depth.Depth_018_LinkGadget10: void linkMethod()>
+ <gleipner.chains.depth.Depth_018_LinkGadget11: void linkMethod()>
+ <gleipner.chains.depth.Depth_018_LinkGadget12: void linkMethod()>
+ <gleipner.chains.depth.Depth_018_LinkGadget13: void linkMethod()>
+ <gleipner.chains.depth.Depth_018_LinkGadget14: void linkMethod()>
+ <gleipner.chains.depth.Depth_018_LinkGadget15: void linkMethod()>
+ <gleipner.chains.depth.Depth_018_LinkGadget16: void linkMethod()>
+ <gleipner.chains.depth.Depth_018_LinkGadget17: void linkMethod()>
+ <gleipner.chains.depth.Depth_018_LinkGadget18: void linkMethod()>
+ <gleipner.chains.depth.Depth_018_SinkGadget: void linkMethod()>
+ <gleipner.core.SinkGadget: void sinkMethod(java.lang.String)>
+]
+[
+ <gleipner.chains.depth.Depth_005_TrampolineGadget: void readObject(java.io.ObjectInputStream)>
+ <gleipner.chains.depth.Depth_005_LinkGadget1: void linkMethod()>
+ <gleipner.chains.depth.Depth_005_LinkGadget2: void linkMethod()>
+ <gleipner.chains.depth.Depth_005_LinkGadget3: void linkMethod()>
+ <gleipner.chains.depth.Depth_005_LinkGadget4: void linkMethod()>
+ <gleipner.chains.depth.Depth_005_LinkGadget5: void linkMethod()>
+ <gleipner.chains.depth.Depth_005_SinkGadget: void linkMethod()>
+ <gleipner.core.SinkGadget: void sinkMethod(java.lang.String)>
+]
+[
+ <gleipner.chains.depth.Depth_019_TrampolineGadget: void readObject(java.io.ObjectInputStream)>
+ <gleipner.chains.depth.Depth_019_LinkGadget1: void linkMethod()>
+ <gleipner.chains.depth.Depth_019_LinkGadget2: void linkMethod()>
+ <gleipner.chains.depth.Depth_019_LinkGadget3: void linkMethod()>
+ <gleipner.chains.depth.Depth_019_LinkGadget4: void linkMethod()>
+ <gleipner.chains.depth.Depth_019_LinkGadget5: void linkMethod()>
+ <gleipner.chains.depth.Depth_019_LinkGadget6: void linkMethod()>
+ <gleipner.chains.depth.Depth_019_LinkGadget7: void linkMethod()>
+ <gleipner.chains.depth.Depth_019_LinkGadget8: void linkMethod()>
+ <gleipner.chains.depth.Depth_019_LinkGadget9: void linkMethod()>
+ <gleipner.chains.depth.Depth_019_LinkGadget10: void linkMethod()>
+ <gleipner.chains.depth.Depth_019_LinkGadget11: void linkMethod()>
+ <gleipner.chains.depth.Depth_019_LinkGadget12: void linkMethod()>
+ <gleipner.chains.depth.Depth_019_LinkGadget13: void linkMethod()>
+ <gleipner.chains.depth.Depth_019_LinkGadget14: void linkMethod()>
+ <gleipner.chains.depth.Depth_019_LinkGadget15: void linkMethod()>
+ <gleipner.chains.depth.Depth_019_LinkGadget16: void linkMethod()>
+ <gleipner.chains.depth.Depth_019_LinkGadget17: void linkMethod()>
+ <gleipner.chains.depth.Depth_019_LinkGadget18: void linkMethod()>
+ <gleipner.chains.depth.Depth_019_LinkGadget19: void linkMethod()>
+ <gleipner.chains.depth.Depth_019_SinkGadget: void linkMethod()>
+ <gleipner.core.SinkGadget: void sinkMethod(java.lang.String)>
+]
+[
+ <gleipner.chains.depth.Depth_016_TrampolineGadget: void readObject(java.io.ObjectInputStream)>
+ <gleipner.chains.depth.Depth_016_LinkGadget1: void linkMethod()>
+ <gleipner.chains.depth.Depth_016_LinkGadget2: void linkMethod()>
+ <gleipner.chains.depth.Depth_016_LinkGadget3: void linkMethod()>
+ <gleipner.chains.depth.Depth_016_LinkGadget4: void linkMethod()>
+ <gleipner.chains.depth.Depth_016_LinkGadget5: void linkMethod()>
+ <gleipner.chains.depth.Depth_016_LinkGadget6: void linkMethod()>
+ <gleipner.chains.depth.Depth_016_LinkGadget7: void linkMethod()>
+ <gleipner.chains.depth.Depth_016_LinkGadget8: void linkMethod()>
+ <gleipner.chains.depth.Depth_016_LinkGadget9: void linkMethod()>
+ <gleipner.chains.depth.Depth_016_LinkGadget10: void linkMethod()>
+ <gleipner.chains.depth.Depth_016_LinkGadget11: void linkMethod()>
+ <gleipner.chains.depth.Depth_016_LinkGadget12: void linkMethod()>
+ <gleipner.chains.depth.Depth_016_LinkGadget13: void linkMethod()>
+ <gleipner.chains.depth.Depth_016_LinkGadget14: void linkMethod()>
+ <gleipner.chains.depth.Depth_016_LinkGadget15: void linkMethod()>
+ <gleipner.chains.depth.Depth_016_LinkGadget16: void linkMethod()>
+ <gleipner.chains.depth.Depth_016_SinkGadget: void linkMethod()>
+ <gleipner.core.SinkGadget: void sinkMethod(java.lang.String)>
+]
+[
+ <gleipner.chains.depth.Depth_004_TrampolineGadget: void readObject(java.io.ObjectInputStream)>
+ <gleipner.chains.depth.Depth_004_LinkGadget1: void linkMethod()>
+ <gleipner.chains.depth.Depth_004_LinkGadget2: void linkMethod()>
+ <gleipner.chains.depth.Depth_004_LinkGadget3: void linkMethod()>
+ <gleipner.chains.depth.Depth_004_LinkGadget4: void linkMethod()>
+ <gleipner.chains.depth.Depth_004_SinkGadget: void linkMethod()>
+ <gleipner.core.SinkGadget: void sinkMethod(java.lang.String)>
+]
+[
+ <gleipner.chains.depth.Depth_020_TrampolineGadget: void readObject(java.io.ObjectInputStream)>
+ <gleipner.chains.depth.Depth_020_LinkGadget1: void linkMethod()>
+ <gleipner.chains.depth.Depth_020_LinkGadget2: void linkMethod()>
+ <gleipner.chains.depth.Depth_020_LinkGadget3: void linkMethod()>
+ <gleipner.chains.depth.Depth_020_LinkGadget4: void linkMethod()>
+ <gleipner.chains.depth.Depth_020_LinkGadget5: void linkMethod()>
+ <gleipner.chains.depth.Depth_020_LinkGadget6: void linkMethod()>
+ <gleipner.chains.depth.Depth_020_LinkGadget7: void linkMethod()>
+ <gleipner.chains.depth.Depth_020_LinkGadget8: void linkMethod()>
+ <gleipner.chains.depth.Depth_020_LinkGadget9: void linkMethod()>
+ <gleipner.chains.depth.Depth_020_LinkGadget10: void linkMethod()>
+ <gleipner.chains.depth.Depth_020_LinkGadget11: void linkMethod()>
+ <gleipner.chains.depth.Depth_020_LinkGadget12: void linkMethod()>
+ <gleipner.chains.depth.Depth_020_LinkGadget13: void linkMethod()>
+ <gleipner.chains.depth.Depth_020_LinkGadget14: void linkMethod()>
+ <gleipner.chains.depth.Depth_020_LinkGadget15: void linkMethod()>
+ <gleipner.chains.depth.Depth_020_LinkGadget16: void linkMethod()>
+ <gleipner.chains.depth.Depth_020_LinkGadget17: void linkMethod()>
+ <gleipner.chains.depth.Depth_020_LinkGadget18: void linkMethod()>
+ <gleipner.chains.depth.Depth_020_LinkGadget19: void linkMethod()>
+ <gleipner.chains.depth.Depth_020_LinkGadget20: void linkMethod()>
+ <gleipner.chains.depth.Depth_020_SinkGadget: void linkMethod()>
+ <gleipner.core.SinkGadget: void sinkMethod(java.lang.String)>
+]

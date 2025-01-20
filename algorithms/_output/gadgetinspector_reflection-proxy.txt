@@ -1,0 +1,11 @@
+gleipner/chains/reflection/proxy/Proxy_003_FP_Trampoline.hashCode()I (0)
+  gleipner/core/SinkGadget.sinkMethod(Ljava/lang/String;)V (0)
+gleipner/chains/reflection/proxy/Proxy_005_FP_InvocationHandler.invoke(Ljava/lang/Object;Ljava/lang/reflect/Method;[Ljava/lang/Object;)Ljava/lang/Object; (0)
+  gleipner/core/SinkGadget.sinkMethod(Ljava/lang/String;)V (0)
+gleipner/chains/reflection/proxy/Proxy_001_InvocationHandler.invoke(Ljava/lang/Object;Ljava/lang/reflect/Method;[Ljava/lang/Object;)Ljava/lang/Object; (0)
+  gleipner/core/SinkGadget.sinkMethod(Ljava/lang/String;)V (0)
+gleipner/chains/reflection/proxy/Proxy_004_InvocationHandler.invoke(Ljava/lang/Object;Ljava/lang/reflect/Method;[Ljava/lang/Object;)Ljava/lang/Object; (0)
+  gleipner/core/SinkGadget.sinkMethod(Ljava/lang/String;)V (0)
+gleipner/chains/reflection/proxy/Proxy_002_Trampoline.hashCode()I (0)
+  gleipner/core/SinkGadget.sinkMethod(Ljava/lang/String;)V (0)
+

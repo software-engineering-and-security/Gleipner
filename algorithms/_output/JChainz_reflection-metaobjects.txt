@@ -1,0 +1,80 @@
+[
+ <gleipner.chains.reflection.metaobjects.MetaObjects_002_FP_Trampoline: void readObject(java.io.ObjectInputStream)>
+ <gleipner.core.SinkGadget: void sinkMethod(java.lang.String)>
+]
+[
+ <gleipner.chains.reflection.metaobjects.MetaObjects_016_FP_Trampoline: void readObject(java.io.ObjectInputStream)>
+ <gleipner.core.SinkGadget: void sinkMethod(java.lang.String)>
+]
+[
+ <gleipner.chains.reflection.metaobjects.MetaObjects_015_Trampoline: void readObject(java.io.ObjectInputStream)>
+ <gleipner.core.SinkGadget: void sinkMethod(java.lang.String)>
+]
+[
+ <gleipner.chains.reflection.metaobjects.MetaObjects_006_FP_Trampoline: void readObject(java.io.ObjectInputStream)>
+ <gleipner.core.SinkGadget: void sinkMethod(java.lang.String)>
+]
+[
+ <gleipner.chains.reflection.metaobjects.MetaObjects_005_Trampoline: void readObject(java.io.ObjectInputStream)>
+ <gleipner.core.SinkGadget: void sinkMethod(java.lang.String)>
+]
+[
+ <gleipner.chains.reflection.metaobjects.MetaObjects_014_FP_Trampoline: void readObject(java.io.ObjectInputStream)>
+ <gleipner.core.SinkGadget: void sinkMethod(java.lang.String)>
+]
+[
+ <gleipner.chains.reflection.metaobjects.MetaObjects_001_Trampoline: void readObject(java.io.ObjectInputStream)>
+ <gleipner.core.SinkGadget: void sinkMethod(java.lang.String)>
+]
+[
+ <gleipner.chains.reflection.metaobjects.MetaObjects_011_Trampoline: void readObject(java.io.ObjectInputStream)>
+ <gleipner.core.SinkGadget: void sinkMethod(java.lang.String)>
+]
+[
+ <gleipner.chains.reflection.metaobjects.MetaObjects_012_FP_Trampoline: void readObject(java.io.ObjectInputStream)>
+ <gleipner.core.SinkGadget: void sinkMethod(java.lang.String)>
+]
+[
+ <gleipner.chains.reflection.metaobjects.MetaObjects_013_Trampoline: void readObject(java.io.ObjectInputStream)>
+ <gleipner.core.SinkGadget: void sinkMethod(java.lang.String)>
+]
+[
+ <gleipner.chains.reflection.metaobjects.MetaObjects_018_FP_Trampoline: void readObject(java.io.ObjectInputStream)>
+ <gleipner.core.SinkGadget: void sinkMethod(java.lang.String)>
+]
+[
+ <gleipner.chains.reflection.metaobjects.MetaObjects_003_Trampoline: void readObject(java.io.ObjectInputStream)>
+ <gleipner.core.SinkGadget: void sinkMethod(java.lang.String)>
+]
+[
+ <gleipner.chains.reflection.metaobjects.MetaObjects_009_Trampoline: void readObject(java.io.ObjectInputStream)>
+ <gleipner.core.SinkGadget: void sinkMethod(java.lang.String)>
+]
+[
+ <gleipner.chains.reflection.metaobjects.MetaObjects_017_Trampoline: void readObject(java.io.ObjectInputStream)>
+ <gleipner.core.SinkGadget: void sinkMethod(java.lang.String)>
+]
+[
+ <gleipner.chains.reflection.metaobjects.MetaObjects_010_FP_Trampoline: void readObject(java.io.ObjectInputStream)>
+ <gleipner.core.SinkGadget: void sinkMethod(java.lang.String)>
+]
+[
+ <gleipner.chains.reflection.metaobjects.MetaObjects_008_FP_Trampoline: void readObject(java.io.ObjectInputStream)>
+ <gleipner.core.SinkGadget: void sinkMethod(java.lang.String)>
+]
+[
+ <gleipner.chains.reflection.metaobjects.MetaObjects_004_FP_Trampoline: void readObject(java.io.ObjectInputStream)>
+ <gleipner.core.SinkGadget: void sinkMethod(java.lang.String)>
+]
+[
+ <gleipner.chains.reflection.metaobjects.MetaObjects_020_FP_Trampoline: void readObject(java.io.ObjectInputStream)>
+ <gleipner.core.SinkGadget: void sinkMethod(java.lang.String)>
+]
+[
+ <gleipner.chains.reflection.metaobjects.MetaObjects_007_Trampoline: void readObject(java.io.ObjectInputStream)>
+ <gleipner.core.SinkGadget: void sinkMethod(java.lang.String)>
+]
+[
+ <gleipner.chains.reflection.metaobjects.MetaObjects_019_Trampoline: void readObject(java.io.ObjectInputStream)>
+ <gleipner.core.SinkGadget: void sinkMethod(java.lang.String)>
+]

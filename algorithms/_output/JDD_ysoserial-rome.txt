@@ -1,0 +1,4 @@
+[INVOKE Gadget] <gleipner.chains.ysoserial.rome.Rome_ToStringBean: java.lang.String toString()>
+ -> <gleipner.chains.ysoserial.rome.Rome_ToStringBean: java.lang.String toString(java.lang.String)>
+ -> <java.lang.reflect.Method: java.lang.Object invoke(java.lang.Object,java.lang.Object[])>
+

@@ -1,0 +1,5 @@
+[
+  {"name":"gleipner.core.SinkGadget", "rules":[
+    {"function": "sinkMethod", "type": "sink", "vul": "SERIALIZE", "actions": {}, "polluted": [0], "signatures": ["<gleipner.core.SinkGadget: void sinkMethod(java.lang.String)>"]}
+  ]}
+]

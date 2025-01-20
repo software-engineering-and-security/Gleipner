@@ -1,0 +1,32 @@
+<gleipner.chains.reflection.metaobjects.MetaObjects_010_FP_Trampoline: java.lang.String taint>
+
+<gleipner.chains.reflection.metaobjects.MetaObjects_009_Trampoline: java.lang.String taint>
+
+<gleipner.chains.reflection.metaobjects.MetaObjects_002_FP_Trampoline: java.lang.String taint>
+
+<gleipner.chains.reflection.metaobjects.MetaObjects_012_FP_Trampoline: java.lang.String taint>
+
+<gleipner.chains.reflection.metaobjects.MetaObjects_004_FP_Trampoline: java.lang.String taint>
+
+<gleipner.chains.reflection.metaobjects.MetaObjects_006_FP_Trampoline: java.lang.String taint>
+
+<gleipner.chains.reflection.metaobjects.MetaObjects_016_FP_Trampoline: java.lang.String taint>
+
+<gleipner.chains.reflection.metaobjects.MetaObjects_015_Trampoline: java.lang.String taint>
+
+<gleipner.chains.reflection.metaobjects.MetaObjects_003_Trampoline: java.lang.String taint>
+
+<gleipner.chains.reflection.metaobjects.MetaObjects_014_FP_Trampoline: java.lang.String taint>
+
+<gleipner.chains.reflection.metaobjects.MetaObjects_011_Trampoline: java.lang.String taint>
+
+<gleipner.chains.reflection.metaobjects.MetaObjects_007_Trampoline: java.lang.String taint>
+
+<gleipner.chains.reflection.metaobjects.MetaObjects_008_FP_Trampoline: java.lang.String taint>
+
+<gleipner.chains.reflection.metaobjects.MetaObjects_001_Trampoline: java.lang.String taint>
+
+<gleipner.chains.reflection.metaobjects.MetaObjects_013_Trampoline: java.lang.String taint>
+
+<gleipner.chains.reflection.metaobjects.MetaObjects_005_Trampoline: java.lang.String taint>
+

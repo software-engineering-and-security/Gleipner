@@ -1,0 +1,8 @@
+[
+ <gleipner.chains.reflection.methodinvoke.MethodInvocation_010_FP_Trampoline: void readObject(java.io.ObjectInputStream)>
+ <gleipner.core.SinkGadget: void sinkMethod(java.lang.String)>
+]
+[
+ <gleipner.chains.reflection.methodinvoke.MethodInvocation_009_Trampoline: void readObject(java.io.ObjectInputStream)>
+ <gleipner.core.SinkGadget: void sinkMethod(java.lang.String)>
+]

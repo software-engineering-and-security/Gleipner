@@ -1,0 +1,10 @@
+gleipner.core.SinkGadget->sinkMethod [(Ljava/lang/String;)V] U[T]  serializable
+gleipner.chains.ysoserial.jrmplistener.TCPTransport->exportObject [(Lgleipner/chains/ysoserial/jrmplistener/Target;)V] T[U]  instantiable
+gleipner.chains.ysoserial.jrmplistener.TCPEndpoint->exportObject [(Lgleipner/chains/ysoserial/jrmplistener/Target;)V] T[U]  instantiable
+gleipner.chains.ysoserial.jrmplistener.LiveRef->exportObject [(Lgleipner/chains/ysoserial/jrmplistener/Target;)V] T[U]  instantiable
+gleipner.chains.ysoserial.jrmplistener.UnicastServerRef->exportObject [(Lgleipner/chains/ysoserial/jrmplistener/Remote;Ljava/lang/Object;Z)Lgleipner/chains/ysoserial/jrmplistener/Remote;] T[TUU]  instantiable
+gleipner.chains.ysoserial.jrmplistener.UnicastRemoteObject::exportObject [(Lgleipner/chains/ysoserial/jrmplistener/Remote;Lgleipner/chains/ysoserial/jrmplistener/UnicastServerRef;)Lgleipner/chains/ysoserial/jrmplistener/Remote;] U[TT]  serializable
+gleipner.chains.ysoserial.jrmplistener.UnicastRemoteObject::exportObject [(Lgleipner/chains/ysoserial/jrmplistener/Remote;Ljava/lang/String;)Lgleipner/chains/ysoserial/jrmplistener/Remote;] U[TT]  serializable
+gleipner.chains.ysoserial.jrmplistener.UnicastRemoteObject->reexport [()V] T[]  serializable
+gleipner.chains.ysoserial.jrmplistener.UnicastRemoteObject->readObject [(Ljava/io/ObjectInputStream;)V] U[U]  serializable
+

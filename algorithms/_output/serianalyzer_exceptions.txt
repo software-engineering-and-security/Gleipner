@@ -1,0 +1,42 @@
+gleipner.core.SinkGadget->sinkMethod [(Ljava/lang/String;)V] T[T]  serializable
+gleipner.chains.runtime_exceptions.NullPointerException_001_Trampoline->hashCode [()I] U[]  serializable
+
+gleipner.core.SinkGadget->sinkMethod [(Ljava/lang/String;)V] T[T]  serializable
+gleipner.chains.runtime_exceptions.NoSuchElementException_001_Trampoline->hashCode [()I] U[]  serializable
+
+gleipner.core.SinkGadget->sinkMethod [(Ljava/lang/String;)V] T[T]  serializable
+gleipner.chains.runtime_exceptions.EmptyStackException_002_FP_Trampoline->hashCode [()I] U[]  serializable
+
+gleipner.core.SinkGadget->sinkMethod [(Ljava/lang/String;)V] T[T]  serializable
+gleipner.chains.runtime_exceptions.ArrayStoreException_002_FP_Trampoline->hashCode [()I] U[]  serializable
+
+gleipner.core.SinkGadget->sinkMethod [(Ljava/lang/String;)V] T[T]  serializable
+gleipner.chains.runtime_exceptions.NoSuchElementException_002_FP_Trampoline->hashCode [()I] U[]  serializable
+
+gleipner.core.SinkGadget->sinkMethod [(Ljava/lang/String;)V] T[T]  serializable
+gleipner.chains.runtime_exceptions.NullPointerException_002_FP_Trampoline->hashCode [()I] U[]  serializable
+
+gleipner.core.SinkGadget->sinkMethod [(Ljava/lang/String;)V] T[T]  serializable
+gleipner.chains.runtime_exceptions.ArithmeticException_001_Trampoline->hashCode [()I] U[]  serializable
+
+gleipner.core.SinkGadget->sinkMethod [(Ljava/lang/String;)V] T[T]  serializable
+gleipner.chains.runtime_exceptions.EmptyStackException_001_Trampoline->hashCode [()I] U[]  serializable
+
+gleipner.core.SinkGadget->sinkMethod [(Ljava/lang/String;)V] T[T]  serializable
+gleipner.chains.runtime_exceptions.IndexOutOfBoundsException_001_Trampoline->hashCode [()I] U[]  serializable
+
+gleipner.core.SinkGadget->sinkMethod [(Ljava/lang/String;)V] T[T]  serializable
+gleipner.chains.runtime_exceptions.IndexOutOfBoundsException_002_FP_Trampoline->hashCode [()I] U[]  serializable
+
+gleipner.core.SinkGadget->sinkMethod [(Ljava/lang/String;)V] T[T]  serializable
+gleipner.chains.runtime_exceptions.NegativeArraySizeException_002_FP_Trampoline->hashCode [()I] U[]  serializable
+
+gleipner.core.SinkGadget->sinkMethod [(Ljava/lang/String;)V] T[T]  serializable
+gleipner.chains.runtime_exceptions.ArrayStoreException_001_Trampoline->hashCode [()I] U[]  serializable
+
+gleipner.core.SinkGadget->sinkMethod [(Ljava/lang/String;)V] T[T]  serializable
+gleipner.chains.runtime_exceptions.ArithmeticException_002_FP_Trampoline->hashCode [()I] U[]  serializable
+
+gleipner.core.SinkGadget->sinkMethod [(Ljava/lang/String;)V] T[T]  serializable
+gleipner.chains.runtime_exceptions.NegativeArraySizeException_001_Trampoline->hashCode [()I] U[]  serializable
+

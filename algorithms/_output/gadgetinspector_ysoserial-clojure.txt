@@ -1,0 +1,11 @@
+gleipner/chains/ysoserial/clojure/AbstractTableModel$ff19274a.hashCode()I (0)
+  gleipner/chains/ysoserial/clojure/main$eval_opt.invoke(Ljava/lang/Object;)Ljava/lang/Object; (1)
+  gleipner/chains/ysoserial/clojure/main$eval_opt.invokeStatic(Ljava/lang/Object;)Ljava/lang/Object; (0)
+  gleipner/core/SinkGadget.sinkMethod(Ljava/lang/String;)V (1)
+org/apache/log4j/spi/LoggingEvent.readObject(Ljava/io/ObjectInputStream;)V (1)
+  org/apache/log4j/spi/LoggingEvent.readLevel(Ljava/io/ObjectInputStream;)V (1)
+  java/lang/reflect/Method.invoke(Ljava/lang/Object;[Ljava/lang/Object;)Ljava/lang/Object; (0)
+org/apache/log4j/pattern/LogEvent.readObject(Ljava/io/ObjectInputStream;)V (1)
+  org/apache/log4j/pattern/LogEvent.readLevel(Ljava/io/ObjectInputStream;)V (1)
+  java/lang/reflect/Method.invoke(Ljava/lang/Object;[Ljava/lang/Object;)Ljava/lang/Object; (0)
+

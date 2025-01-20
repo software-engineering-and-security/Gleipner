@@ -1,0 +1,5 @@
+gleipner/chains/serializationvariants/ReadObject_TriggerGadget.readObject(Ljava/io/ObjectInputStream;)V (1)
+  gleipner/core/SinkGadget.sinkMethod(Ljava/lang/String;)V (0)
+gleipner/chains/serializationvariants/ReadObject_TriggerGadget.readObject(Ljava/io/ObjectInputStream;)V (1)
+  gleipner/core/SinkGadget.sinkMethod(Ljava/lang/String;)V (1)
+

@@ -1,0 +1,4 @@
+[
+ <gleipner.chains.serializationvariants.ReadObject_TriggerGadget: void readObject(java.io.ObjectInputStream)>
+ <gleipner.core.SinkGadget: void sinkMethod(java.lang.String)>
+]

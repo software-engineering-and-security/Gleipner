@@ -1,0 +1,19 @@
+[
+<gleipner.core.SinkGadget: void sinkMethod(java.lang.String)>
+<gleipner.chains.ysoserial.hibernate1.Hibernate_GetterMethodImpl: java.lang.Object get(java.lang.Object)>
+<gleipner.chains.ysoserial.hibernate1.Hibernate_Getter: java.lang.Object get(java.lang.Object)>
+<gleipner.chains.ysoserial.hibernate1.Hibernate_AbstractComponentTuplizer: java.lang.Object getPropertyValue(java.lang.Object,int)>
+<gleipner.chains.ysoserial.hibernate1.Hibernate_Tuplizer: java.lang.Object getPropertyValue(java.lang.Object,int)>
+<gleipner.chains.ysoserial.hibernate1.Hibernate_ComponentType: java.lang.Object getPropertyValue(java.lang.Object,int)>
+<gleipner.chains.ysoserial.hibernate1.Hibernate_ComponentType: int getHashCode(java.lang.Object)>
+<gleipner.chains.ysoserial.hibernate1.Hibernate_AbstractType: int getHashCode(java.lang.Object)>
+<gleipner.chains.ysoserial.hibernate1.Hibernate_Type: int getHashCode(java.lang.Object)>
+<gleipner.chains.ysoserial.hibernate1.Hibernate_TypedValue$1: java.lang.Integer initialize()>
+<gleipner.chains.ysoserial.hibernate1.Hibernate_TypedValue$1: java.lang.Object initialize()>
+<gleipner.chains.ysoserial.hibernate1.Hibernate_ValueHolder$DeferredInitializer: java.lang.Object initialize()>
+<gleipner.chains.ysoserial.hibernate1.Hibernate_ValueHolder: java.lang.Object getValue()>
+<gleipner.chains.ysoserial.hibernate1.Hibernate_TypedValue: int hashCode()>
+<gleipner.core.GleipnerObject: int hashCode()>
+<gleipner.core.TriggerGadget: void readObject(java.io.ObjectInputStream)>
+]
+

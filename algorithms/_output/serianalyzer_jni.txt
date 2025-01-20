@@ -1,0 +1,3 @@
+gleipner.chains.jni.Custom001Trampoline->native0 [()V] T[]  serializable
+gleipner.chains.jni.Custom001Trampoline->hashCode [()I] T[]  serializable
+

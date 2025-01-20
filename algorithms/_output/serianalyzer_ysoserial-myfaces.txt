@@ -1,0 +1,6 @@
+gleipner.core.SinkGadget->sinkMethod [(Ljava/lang/String;)V] T[T]  serializable
+gleipner.chains.ysoserial.myfaces1.MyFaces_ValueExpressionImpl->getValue [(Lgleipner/chains/ysoserial/myfaces1/MyFaces_ELContext;)Ljava/lang/Object;] T[T]  serializable
+gleipner.chains.ysoserial.myfaces1.MyFaces_ValueExpressionMethodExpression->getMethodExpression [(Lgleipner/chains/ysoserial/myfaces1/MyFaces_ELContext;)Lgleipner/chains/ysoserial/myfaces1/MyFaces_MethodExpression;] T[T]  serializable
+gleipner.chains.ysoserial.myfaces1.MyFaces_ValueExpressionMethodExpression->getMethodExpression [()Lgleipner/chains/ysoserial/myfaces1/MyFaces_MethodExpression;] T[]  serializable
+gleipner.chains.ysoserial.myfaces1.MyFaces_ValueExpressionMethodExpression->hashCode [()I] U[]  serializable
+

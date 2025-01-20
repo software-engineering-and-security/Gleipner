@@ -1,0 +1,11 @@
+_target/gleipner.chains-1.0-ysoserial-aspectjweaver.jar
+_target/gleipner.chains-1.0-ysoserial-c3p0.jar
+_target/gleipner.chains-1.0-ysoserial-cc1.jar
+_target/gleipner.chains-1.0-ysoserial-clojure.jar
+_target/gleipner.chains-1.0-ysoserial-groovy.jar
+_target/gleipner.chains-1.0-ysoserial-hibernate.jar
+_target/gleipner.chains-1.0-ysoserial-jrmplistener.jar
+_target/gleipner.chains-1.0-ysoserial-myfaces.jar
+_target/gleipner.chains-1.0-ysoserial-rome.jar
+_target/gleipner.chains-1.0-ysoserial-urldns.jar
+_target/gleipner.chains-1.0-ysoserial-vaadin.jar

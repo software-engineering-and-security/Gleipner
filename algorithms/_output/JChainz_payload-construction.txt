@@ -1,0 +1,75 @@
+[
+ <gleipner.chains.taint.Taint_004_Trampoline: void readObject(java.io.ObjectInputStream)>
+ <gleipner.chains.taint.nested.NestedSink: java.lang.String invoke(java.lang.String)>
+ <gleipner.core.SinkGadget: void sinkMethod(java.lang.String)>
+]
+[
+ <gleipner.chains.taint.Taint_010_Trampoline: void readObject(java.io.ObjectInputStream)>
+ <gleipner.chains.taint.nested.NestedSink: java.lang.String invoke(java.lang.String)>
+ <gleipner.core.SinkGadget: void sinkMethod(java.lang.String)>
+]
+[
+ <gleipner.chains.taint.Taint_005_FP_Trampoline: void readObject(java.io.ObjectInputStream)>
+ <gleipner.chains.taint.nested.NestedSink: java.lang.String invoke(java.lang.String)>
+ <gleipner.core.SinkGadget: void sinkMethod(java.lang.String)>
+]
+[
+ <gleipner.chains.taint.Taint_009_FP_Trampoline: void readObject(java.io.ObjectInputStream)>
+ <gleipner.chains.taint.nested.NestedSink: java.lang.String invoke(java.lang.String)>
+ <gleipner.core.SinkGadget: void sinkMethod(java.lang.String)>
+]
+[
+ <gleipner.chains.taint.Taint_001_Trampoline: void readObject(java.io.ObjectInputStream)>
+ <gleipner.chains.taint.nested.NestedSink: java.lang.String invoke(java.lang.String)>
+ <gleipner.core.SinkGadget: void sinkMethod(java.lang.String)>
+]
+[
+ <gleipner.chains.taint.Taint_006_Trampoline: void readObject(java.io.ObjectInputStream)>
+ <gleipner.chains.taint.nested.NestedSink: java.lang.String invoke(java.lang.String)>
+ <gleipner.core.SinkGadget: void sinkMethod(java.lang.String)>
+]
+[
+ <gleipner.chains.taint.Taint_003_Trampoline: void readObject(java.io.ObjectInputStream)>
+ <gleipner.chains.taint.nested.NestedSink: java.lang.String invoke(java.lang.String)>
+ <gleipner.core.SinkGadget: void sinkMethod(java.lang.String)>
+]
+[
+ <gleipner.chains.taint.Taint_012_FP_Trampoline: void readObject(java.io.ObjectInputStream)>
+ <gleipner.chains.taint.nested.NestedSink: java.lang.String invoke(java.lang.String)>
+ <gleipner.core.SinkGadget: void sinkMethod(java.lang.String)>
+]
+[
+ <gleipner.chains.taint.Taint_011_Trampoline: void readObject(java.io.ObjectInputStream)>
+ <gleipner.chains.taint.nested.NestedSink: java.lang.String invoke(java.lang.String)>
+ <gleipner.core.SinkGadget: void sinkMethod(java.lang.String)>
+]
+[
+ <gleipner.chains.taint.Taint_015_Trampoline: void readObject(java.io.ObjectInputStream)>
+ <gleipner.chains.taint.nested.NestedSink: java.lang.String invoke(java.lang.String)>
+ <gleipner.core.SinkGadget: void sinkMethod(java.lang.String)>
+]
+[
+ <gleipner.chains.taint.Taint_013_Trampoline: void readObject(java.io.ObjectInputStream)>
+ <gleipner.chains.taint.nested.NestedSink: java.lang.String invoke(java.lang.String)>
+ <gleipner.core.SinkGadget: void sinkMethod(java.lang.String)>
+]
+[
+ <gleipner.chains.taint.Taint_014_FP_Trampoline: void readObject(java.io.ObjectInputStream)>
+ <gleipner.chains.taint.nested.NestedSink: java.lang.String invoke(java.lang.String)>
+ <gleipner.core.SinkGadget: void sinkMethod(java.lang.String)>
+]
+[
+ <gleipner.chains.taint.Taint_007_FP_Trampoline: void readObject(java.io.ObjectInputStream)>
+ <gleipner.chains.taint.nested.NestedSink: java.lang.String invoke(java.lang.String)>
+ <gleipner.core.SinkGadget: void sinkMethod(java.lang.String)>
+]
+[
+ <gleipner.chains.taint.Taint_008_Trampoline: void readObject(java.io.ObjectInputStream)>
+ <gleipner.chains.taint.nested.NestedSink: java.lang.String invoke(java.lang.String)>
+ <gleipner.core.SinkGadget: void sinkMethod(java.lang.String)>
+]
+[
+ <gleipner.chains.taint.Taint_002_FP_Trampoline: void readObject(java.io.ObjectInputStream)>
+ <gleipner.chains.taint.nested.NestedSink: java.lang.String invoke(java.lang.String)>
+ <gleipner.core.SinkGadget: void sinkMethod(java.lang.String)>
+]

@@ -1,0 +1,4 @@
+[INVOKE Gadget] <gleipner.chains.ysoserial.cc1.LazyMap: java.lang.Object get(java.lang.Object)>
+ -> <gleipner.chains.ysoserial.cc1.InvokerTransformer: java.lang.Object transform(java.lang.Object)>
+ -> <java.lang.reflect.Method: java.lang.Object invoke(java.lang.Object,java.lang.Object[])>
+

@@ -1,0 +1,21 @@
+[
+<gleipner.core.SinkGadget: void sinkMethod(java.lang.String[])>
+<gleipner.chains.keywords.Transient_001_TrampolineMethod: int hashCode()>
+<gleipner.core.GleipnerObject: int hashCode()>
+<gleipner.core.TriggerGadget: void readObject(java.io.ObjectInputStream)>
+]
+
+[
+<gleipner.core.SinkGadget: void sinkMethod(java.lang.String[])>
+<gleipner.chains.keywords.Serializable_001_TrampolineMethod: int hashCode()>
+<gleipner.core.GleipnerObject: int hashCode()>
+<gleipner.core.TriggerGadget: void readObject(java.io.ObjectInputStream)>
+]
+
+[
+<gleipner.core.SinkGadget: void sinkMethod(java.lang.String[])>
+<gleipner.chains.keywords.Transient_002_FP_TrampolineMethod: int hashCode()>
+<gleipner.core.GleipnerObject: int hashCode()>
+<gleipner.core.TriggerGadget: void readObject(java.io.ObjectInputStream)>
+]
+

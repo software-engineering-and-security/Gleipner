@@ -1,0 +1,214 @@
+WARN: Failed to load hooks from com.example.RuntimeFuzzerHooks
+INFO: Loaded 1 hooks from com.code_intelligence.jazzer.sanitizers.ReflectiveCall
+INFO: Loaded 3 hooks from com.code_intelligence.jazzer.sanitizers.ExpressionLanguageInjection
+INFO: Loaded 8 hooks from com.code_intelligence.jazzer.sanitizers.NamingContextLookup
+INFO: Loaded 1 hooks from com.code_intelligence.jazzer.sanitizers.OsCommandInjection
+INFO: Instrumented com.example.SeriFuzz (took 54 ms, size +23%)
+INFO: Instrumented org.apache.log4j.Logger with custom hooks only (took 1 ms, size +10%)
+INFO: Instrumented org.apache.log4j.Category with custom hooks only (took 4 ms, size +2%)
+INFO: Instrumented org.apache.log4j.spi.AppenderAttachable with custom hooks only (took 0 ms, size +0%)
+INFO: Instrumented org.apache.log4j.Priority with custom hooks only (took 0 ms, size +0%)
+INFO: Instrumented org.apache.log4j.Level with custom hooks only (took 1 ms, size +6%)
+INFO: Instrumented org.apache.log4j.LogManager with custom hooks only (took 1 ms, size +0%)
+INFO: Instrumented org.apache.log4j.spi.RootLogger with custom hooks only (took 0 ms, size +0%)
+INFO: Instrumented org.apache.log4j.spi.LoggerRepository with custom hooks only (took 0 ms, size +0%)
+INFO: Instrumented org.apache.log4j.spi.RepositorySelector with custom hooks only (took 0 ms, size +0%)
+INFO: Instrumented org.apache.log4j.Hierarchy with custom hooks only (took 1 ms, size +0%)
+INFO: Instrumented org.apache.log4j.spi.RendererSupport with custom hooks only (took 0 ms, size +0%)
+INFO: Instrumented org.apache.log4j.spi.ThrowableRendererSupport with custom hooks only (took 0 ms, size +0%)
+INFO: Instrumented org.apache.log4j.spi.LoggerFactory with custom hooks only (took 0 ms, size +0%)
+INFO: Instrumented org.apache.log4j.or.RendererMap with custom hooks only (took 1 ms, size +6%)
+INFO: Instrumented org.apache.log4j.or.ObjectRenderer with custom hooks only (took 0 ms, size +0%)
+INFO: Instrumented org.apache.log4j.or.DefaultRenderer with custom hooks only (took 0 ms, size +0%)
+INFO: Instrumented org.apache.log4j.DefaultCategoryFactory with custom hooks only (took 0 ms, size +0%)
+INFO: Instrumented org.apache.log4j.spi.DefaultRepositorySelector with custom hooks only (took 0 ms, size +0%)
+INFO: Instrumented org.apache.log4j.helpers.OptionConverter with custom hooks only (took 1 ms, size +2%)
+INFO: Instrumented org.apache.log4j.spi.Configurator with custom hooks only (took 0 ms, size +0%)
+INFO: Instrumented org.apache.log4j.helpers.Loader with custom hooks only (took 1 ms, size +7%)
+INFO: Instrumented org.apache.log4j.helpers.LogLog with custom hooks only (took 0 ms, size +0%)
+INFO: Instrumented org.apache.log4j.CategoryKey with custom hooks only (took 0 ms, size +15%)
+INFO: Instrumented org.apache.log4j.ProvisionNode with custom hooks only (took 0 ms, size +0%)
+INFO: Instrumented org.apache.log4j.PropertyConfigurator with custom hooks only (took 2 ms, size +1%)
+INFO: Instrumented org.apache.log4j.Appender with custom hooks only (took 0 ms, size +0%)
+INFO: Instrumented org.apache.log4j.ConsoleAppender with custom hooks only (took 0 ms, size +0%)
+INFO: Instrumented org.apache.log4j.WriterAppender with custom hooks only (took 0 ms, size +0%)
+INFO: Instrumented org.apache.log4j.AppenderSkeleton with custom hooks only (took 0 ms, size +0%)
+INFO: Instrumented org.apache.log4j.spi.OptionHandler with custom hooks only (took 0 ms, size +0%)
+INFO: Instrumented org.apache.log4j.spi.ErrorHandler with custom hooks only (took 0 ms, size +0%)
+INFO: Instrumented org.apache.log4j.ConsoleAppender$SystemErrStream with custom hooks only (took 0 ms, size +0%)
+INFO: Instrumented org.apache.log4j.ConsoleAppender$SystemOutStream with custom hooks only (took 0 ms, size +0%)
+INFO: Instrumented org.apache.log4j.Layout with custom hooks only (took 0 ms, size +0%)
+INFO: Instrumented org.apache.log4j.helpers.OnlyOnceErrorHandler with custom hooks only (took 0 ms, size +0%)
+INFO: Instrumented org.apache.log4j.PatternLayout with custom hooks only (took 0 ms, size +0%)
+INFO: Instrumented org.apache.log4j.helpers.PatternParser with custom hooks only (took 0 ms, size +3%)
+INFO: Instrumented org.apache.log4j.helpers.PatternConverter with custom hooks only (took 0 ms, size +0%)
+INFO: Instrumented org.apache.log4j.helpers.PatternParser$LiteralPatternConverter with custom hooks only (took 0 ms, size +0%)
+INFO: Instrumented org.apache.log4j.helpers.PatternParser$CategoryPatternConverter with custom hooks only (took 0 ms, size +0%)
+INFO: Instrumented org.apache.log4j.helpers.PatternParser$NamedPatternConverter with custom hooks only (took 0 ms, size +0%)
+INFO: Instrumented org.apache.log4j.helpers.PatternParser$ClassNamePatternConverter with custom hooks only (took 0 ms, size +0%)
+INFO: Instrumented org.apache.log4j.helpers.ISO8601DateFormat with custom hooks only (took 0 ms, size +0%)
+INFO: Instrumented org.apache.log4j.helpers.AbsoluteTimeDateFormat with custom hooks only (took 0 ms, size +0%)
+INFO: Instrumented org.apache.log4j.helpers.DateTimeDateFormat with custom hooks only (took 0 ms, size +0%)
+INFO: Instrumented org.apache.log4j.helpers.PatternParser$DatePatternConverter with custom hooks only (took 0 ms, size +0%)
+INFO: Instrumented org.apache.log4j.helpers.PatternParser$LocationPatternConverter with custom hooks only (took 0 ms, size +0%)
+INFO: Instrumented org.apache.log4j.helpers.PatternParser$BasicPatternConverter with custom hooks only (took 0 ms, size +0%)
+INFO: Instrumented org.apache.log4j.helpers.PatternParser$MDCPatternConverter with custom hooks only (took 0 ms, size +0%)
+INFO: Instrumented org.apache.log4j.helpers.FormattingInfo with custom hooks only (took 0 ms, size +0%)
+INFO: Instrumented org.apache.log4j.config.PropertySetter with custom hooks only (took 1 ms, size +3%)
+INFO: Instrumented org.apache.log4j.config.PropertySetterException with custom hooks only (took 0 ms, size +0%)
+INFO: Instrumented org.apache.log4j.spi.LoggingEvent with custom hooks only (took 1 ms, size +2%)
+INFO: Instrumented org.apache.log4j.spi.Filter with custom hooks only (took 0 ms, size +0%)
+INFO: Instrumented org.apache.log4j.helpers.QuietWriter with custom hooks only (took 0 ms, size +0%)
+INFO: Instrumented org.apache.log4j.SortedKeyEnumeration with custom hooks only (took 0 ms, size +0%)
+INFO: Instrumented org.apache.log4j.helpers.AppenderAttachableImpl with custom hooks only (took 0 ms, size +0%)
+INFO: Instrumented org.apache.log4j.RollingFileAppender with custom hooks only (took 0 ms, size +0%)
+INFO: Instrumented org.apache.log4j.FileAppender with custom hooks only (took 0 ms, size +0%)
+INFO: Instrumented org.apache.log4j.helpers.CountingQuietWriter with custom hooks only (took 0 ms, size +0%)
+INFO: Instrumented com.example.TrackStatistics (took 10 ms, size +20%)
+INFO: Instrumented org.apache.log4j.NDC with custom hooks only (took 0 ms, size +0%)
+0 [main] INFO  com.example.TrackStatistics  - Reading the fnidmap from disk
+INFO: Instrumented com.example.GadgetDB (took 7 ms, size +20%)
+INFO: Instrumented org.jgrapht.graph.DefaultDirectedGraph with custom hooks only (took 0 ms, size +0%)
+INFO: Instrumented org.jgrapht.graph.AbstractBaseGraph with custom hooks only (took 1 ms, size +0%)
+INFO: Instrumented org.jgrapht.Graph with custom hooks only (took 0 ms, size +0%)
+INFO: Instrumented org.jgrapht.graph.AbstractGraph with custom hooks only (took 0 ms, size +0%)
+INFO: Instrumented org.jgrapht.graph.GraphSpecificsStrategy with custom hooks only (took 0 ms, size +0%)
+INFO: Instrumented org.jgrapht.GraphType with custom hooks only (took 0 ms, size +0%)
+INFO: Instrumented org.jgrapht.graph.specifics.Specifics with custom hooks only (took 0 ms, size +0%)
+INFO: Instrumented org.jgrapht.graph.IntrusiveEdgesSpecifics with custom hooks only (took 0 ms, size +0%)
+INFO: Instrumented org.jgrapht.graph.builder.GraphBuilder with custom hooks only (took 0 ms, size +0%)
+INFO: Instrumented org.jgrapht.graph.builder.AbstractGraphBuilder with custom hooks only (took 0 ms, size +0%)
+INFO: Instrumented org.jgrapht.util.SupplierUtil$ConstructorSupplier$SerializedForm with custom hooks only (took 0 ms, size +0%)
+INFO: Instrumented org.jgrapht.graph.DefaultEdge with custom hooks only (took 0 ms, size +0%)
+INFO: Instrumented org.jgrapht.graph.IntrusiveEdge with custom hooks only (took 0 ms, size +0%)
+INFO: Instrumented org.jgrapht.util.SupplierUtil$ConstructorSupplier with custom hooks only (took 0 ms, size +0%)
+INFO: Instrumented org.jgrapht.graph.FastLookupGraphSpecificsStrategy with custom hooks only (took 0 ms, size +0%)
+INFO: Instrumented org.jgrapht.graph.EdgeSetFactory with custom hooks only (took 0 ms, size +0%)
+INFO: Instrumented org.jgrapht.graph.UniformIntrusiveEdgesSpecifics with custom hooks only (took 0 ms, size +0%)
+INFO: Instrumented org.jgrapht.graph.BaseIntrusiveEdgesSpecifics with custom hooks only (took 0 ms, size +0%)
+INFO: Instrumented analysis.GadgetVertexSerializable (took 1 ms, size +52%)
+INFO: Instrumented analysis.GadgetMethodSerializable (took 0 ms, size +11%)
+INFO: Instrumented org.jgrapht.graph.specifics.FastLookupDirectedSpecifics with custom hooks only (took 0 ms, size +0%)
+INFO: Instrumented org.jgrapht.graph.specifics.DirectedSpecifics with custom hooks only (took 0 ms, size +0%)
+INFO: Instrumented org.jgrapht.graph.specifics.DirectedEdgeContainer with custom hooks only (took 0 ms, size +0%)
+INFO: Instrumented org.jgrapht.graph.specifics.ArrayUnenforcedSetEdgeSetFactory with custom hooks only (took 0 ms, size +0%)
+INFO: Instrumented org.jgrapht.util.ArrayUnenforcedSet with custom hooks only (took 0 ms, size +0%)
+INFO: Instrumented org.jgrapht.alg.util.Pair with custom hooks only (took 0 ms, size +0%)
+INFO: Instrumented org.jgrapht.graph.DefaultGraphType with custom hooks only (took 0 ms, size +0%)
+394 [main] INFO  com.example.SeriFuzz  - Turning on path enumeration mode
+INFO: New number of coverage counters: 1024
+INFO: Instrumented com.example.LogCrash (took 4 ms, size +20%)
+411 [main] INFO  com.example.GadgetDB  - Total number of triggers:21
+411 [main] INFO  com.example.GadgetDB  - Total number of sinks:1
+INFO: Instrumented org.jgrapht.alg.shortestpath.AllDirectedPaths with custom hooks only (took 0 ms, size +0%)
+INFO: Instrumented org.jgrapht.GraphPath with custom hooks only (took 0 ms, size +0%)
+INFO: Instrumented org.jgrapht.GraphTests with custom hooks only (took 1 ms, size +0%)
+INFO: Instrumented org.jgrapht.alg.interfaces.PartitioningAlgorithm$Partitioning with custom hooks only (took 0 ms, size +0%)
+INFO: Instrumented org.jgrapht.util.TypeUtil with custom hooks only (took 0 ms, size +0%)
+INFO: Instrumented org.jgrapht.graph.GraphWalk with custom hooks only (took 1 ms, size +0%)
+INFO: Instrumented org.jgrapht.graph.InvalidGraphWalkException with custom hooks only (took 0 ms, size +0%)
+426 [main] INFO  com.example.GadgetDB  - Total number of paths:20
+426 [main] INFO  com.example.TrackStatistics  - The progress map does not exist, initializing it from scratch
+INFO: Instrumented org.jgrapht.Graphs with custom hooks only (took 0 ms, size +0%)
+
+====
+Idx:0 :: -><gleipner.chains.polymorphism.Polymorphism_013_TrampolineGadget: int hashCode()>-><gleipner.chains.polymorphism.Polymorphism_013_LinkGadget: void linkMethod()>-><gleipner.chains.polymorphism.Polymorphism_013_SinkGadget: void linkMethod()>-><gleipner.core.SinkGadget: void sinkMethod(java.lang.String)>
+====
+
+====
+Idx:1 :: -><gleipner.chains.polymorphism.Polymorphism_003_TrampolineGadget: int hashCode()>-><gleipner.chains.polymorphism.Polymorphism_003_LinkGadget: void linkMethod()>-><gleipner.chains.polymorphism.Polymorphism_003_SinkGadget: void linkMethod()>-><gleipner.core.SinkGadget: void sinkMethod(java.lang.String)>
+====
+
+====
+Idx:2 :: -><gleipner.chains.polymorphism.Polymorphism_007_TrampolineGadget: int hashCode()>-><gleipner.chains.polymorphism.Polymorphism_007_LinkGadget: void linkMethod()>-><gleipner.chains.polymorphism.Polymorphism_007_SinkGadget: void linkMethod()>-><gleipner.core.SinkGadget: void sinkMethod(java.lang.String)>
+====
+
+====
+Idx:3 :: -><gleipner.chains.polymorphism.Polymorphism_006_TrampolineGadget: int hashCode()>-><gleipner.chains.polymorphism.Polymorphism_006_LinkGadget: void linkMethod()>-><gleipner.chains.polymorphism.Polymorphism_006_SinkGadget: void linkMethod()>-><gleipner.core.SinkGadget: void sinkMethod(java.lang.String)>
+====
+
+====
+Idx:4 :: -><gleipner.chains.polymorphism.Polymorphism_016_TrampolineGadget: int hashCode()>-><gleipner.chains.polymorphism.Polymorphism_016_LinkGadget: void linkMethod()>-><gleipner.chains.polymorphism.Polymorphism_016_SinkGadget: void linkMethod()>-><gleipner.core.SinkGadget: void sinkMethod(java.lang.String)>
+====
+
+====
+Idx:5 :: -><gleipner.chains.polymorphism.Polymorphism_002_TrampolineGadget: int hashCode()>-><gleipner.chains.polymorphism.Polymorphism_002_LinkGadget: void linkMethod()>-><gleipner.chains.polymorphism.Polymorphism_002_SinkGadget: void linkMethod()>-><gleipner.core.SinkGadget: void sinkMethod(java.lang.String)>
+====
+
+====
+Idx:6 :: -><gleipner.chains.polymorphism.Polymorphism_018_TrampolineGadget: int hashCode()>-><gleipner.chains.polymorphism.Polymorphism_018_LinkGadget: void linkMethod()>-><gleipner.chains.polymorphism.Polymorphism_018_SinkGadget: void linkMethod()>-><gleipner.core.SinkGadget: void sinkMethod(java.lang.String)>
+====
+
+====
+Idx:7 :: -><gleipner.chains.polymorphism.Polymorphism_008_TrampolineGadget: int hashCode()>-><gleipner.chains.polymorphism.Polymorphism_008_LinkGadget: void linkMethod()>-><gleipner.chains.polymorphism.Polymorphism_008_SinkGadget: void linkMethod()>-><gleipner.core.SinkGadget: void sinkMethod(java.lang.String)>
+====
+
+====
+Idx:8 :: -><gleipner.chains.polymorphism.Polymorphism_017_TrampolineGadget: int hashCode()>-><gleipner.chains.polymorphism.Polymorphism_017_LinkGadget: void linkMethod()>-><gleipner.chains.polymorphism.Polymorphism_017_SinkGadget: void linkMethod()>-><gleipner.core.SinkGadget: void sinkMethod(java.lang.String)>
+====
+
+====
+Idx:9 :: -><gleipner.chains.polymorphism.Polymorphism_012_TrampolineGadget: int hashCode()>-><gleipner.chains.polymorphism.Polymorphism_012_LinkGadget: void linkMethod()>-><gleipner.chains.polymorphism.Polymorphism_012_SinkGadget: void linkMethod()>-><gleipner.core.SinkGadget: void sinkMethod(java.lang.String)>
+====
+
+====
+Idx:10 :: -><gleipner.chains.polymorphism.Polymorphism_001_TrampolineGadget: int hashCode()>-><gleipner.chains.polymorphism.Polymorphism_001_LinkGadget: void linkMethod()>-><gleipner.chains.polymorphism.Polymorphism_001_SinkGadget: void linkMethod()>-><gleipner.core.SinkGadget: void sinkMethod(java.lang.String)>
+====
+
+====
+Idx:11 :: -><gleipner.chains.polymorphism.Polymorphism_019_TrampolineGadget: int hashCode()>-><gleipner.chains.polymorphism.Polymorphism_019_LinkGadget: void linkMethod()>-><gleipner.chains.polymorphism.Polymorphism_019_SinkGadget: void linkMethod()>-><gleipner.core.SinkGadget: void sinkMethod(java.lang.String)>
+====
+
+====
+Idx:12 :: -><gleipner.chains.polymorphism.Polymorphism_004_TrampolineGadget: int hashCode()>-><gleipner.chains.polymorphism.Polymorphism_004_LinkGadget: void linkMethod()>-><gleipner.chains.polymorphism.Polymorphism_004_SinkGadget: void linkMethod()>-><gleipner.core.SinkGadget: void sinkMethod(java.lang.String)>
+====
+
+====
+Idx:13 :: -><gleipner.chains.polymorphism.Polymorphism_011_TrampolineGadget: int hashCode()>-><gleipner.chains.polymorphism.Polymorphism_011_LinkGadget: void linkMethod()>-><gleipner.chains.polymorphism.Polymorphism_011_SinkGadget: void linkMethod()>-><gleipner.core.SinkGadget: void sinkMethod(java.lang.String)>
+====
+
+====
+Idx:14 :: -><gleipner.chains.polymorphism.Polymorphism_009_TrampolineGadget: int hashCode()>-><gleipner.chains.polymorphism.Polymorphism_009_LinkGadget: void linkMethod()>-><gleipner.chains.polymorphism.Polymorphism_009_SinkGadget: void linkMethod()>-><gleipner.core.SinkGadget: void sinkMethod(java.lang.String)>
+====
+
+====
+Idx:15 :: -><gleipner.chains.polymorphism.Polymorphism_010_TrampolineGadget: int hashCode()>-><gleipner.chains.polymorphism.Polymorphism_010_LinkGadget: void linkMethod()>-><gleipner.chains.polymorphism.Polymorphism_010_SinkGadget: void linkMethod()>-><gleipner.core.SinkGadget: void sinkMethod(java.lang.String)>
+====
+
+====
+Idx:16 :: -><gleipner.chains.polymorphism.Polymorphism_014_TrampolineGadget: int hashCode()>-><gleipner.chains.polymorphism.Polymorphism_014_LinkGadget: void linkMethod()>-><gleipner.chains.polymorphism.Polymorphism_014_SinkGadget: void linkMethod()>-><gleipner.core.SinkGadget: void sinkMethod(java.lang.String)>
+====
+
+====
+Idx:17 :: -><gleipner.chains.polymorphism.Polymorphism_020_TrampolineGadget: int hashCode()>-><gleipner.chains.polymorphism.Polymorphism_020_LinkGadget: void linkMethod()>-><gleipner.chains.polymorphism.Polymorphism_020_SinkGadget: void linkMethod()>-><gleipner.core.SinkGadget: void sinkMethod(java.lang.String)>
+====
+
+====
+Idx:18 :: -><gleipner.chains.polymorphism.Polymorphism_015_TrampolineGadget: int hashCode()>-><gleipner.chains.polymorphism.Polymorphism_015_LinkGadget: void linkMethod()>-><gleipner.chains.polymorphism.Polymorphism_015_SinkGadget: void linkMethod()>-><gleipner.core.SinkGadget: void sinkMethod(java.lang.String)>
+====
+
+====
+Idx:19 :: -><gleipner.chains.polymorphism.Polymorphism_005_TrampolineGadget: int hashCode()>-><gleipner.chains.polymorphism.Polymorphism_005_LinkGadget: void linkMethod()>-><gleipner.chains.polymorphism.Polymorphism_005_SinkGadget: void linkMethod()>-><gleipner.core.SinkGadget: void sinkMethod(java.lang.String)>
+====
+Average number of nodes:3
+===Path lengths===
+Idx:0 Length:4 Unique:4
+Idx:1 Length:4 Unique:4
+Idx:2 Length:4 Unique:4
+Idx:3 Length:4 Unique:4
+Idx:4 Length:4 Unique:4
+Idx:5 Length:4 Unique:4
+Idx:6 Length:4 Unique:4
+Idx:7 Length:4 Unique:4
+Idx:8 Length:4 Unique:4
+Idx:9 Length:4 Unique:4
+Idx:10 Length:4 Unique:4
+Idx:11 Length:4 Unique:4
+Idx:12 Length:4 Unique:4
+Idx:13 Length:4 Unique:4
+Idx:14 Length:4 Unique:4
+Idx:15 Length:4 Unique:4
+Idx:16 Length:4 Unique:4
+Idx:17 Length:4 Unique:4
+Idx:18 Length:4 Unique:4
+Idx:19 Length:4 Unique:4

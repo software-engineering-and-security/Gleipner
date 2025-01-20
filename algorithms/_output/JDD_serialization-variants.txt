@@ -1,0 +1,7 @@
+[EXEC Gadget] <gleipner.chains.serializationvariants.ReadObject_TriggerGadget: void readObject(java.io.ObjectInputStream)>
+ -> <gleipner.core.SinkGadget: void sinkMethod(java.lang.String)>
+[EXEC Gadget] <gleipner.chains.serializationvariants.ReadExternal_TriggerGadget: void readExternal(java.io.ObjectInput)>
+ -> <gleipner.core.SinkGadget: void sinkMethod(java.lang.String)>
+[EXEC Gadget] <gleipner.chains.serializationvariants.ReadResolve_TriggerGadget: java.lang.Object readResolve()>
+ -> <gleipner.core.SinkGadget: void sinkMethod(java.lang.String)>
+

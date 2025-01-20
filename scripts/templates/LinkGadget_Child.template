@@ -1,0 +1,18 @@
+package ${package};
+
+public class ${class} extends ${parentClass} {
+    public ${linkGadgetClass} ${linkGadgetVar};
+
+    public ${class} () {
+    }
+
+    public ${class} (${linkGadgetClass} ${linkGadgetVar}) {
+        this.${linkGadgetVar} = ${linkGadgetVar};
+    }
+
+    @Override
+    public void linkMethod() {
+        super.linkMethod();
+        ${linkGadgetVar}.linkMethod();
+    }
+}

@@ -1,0 +1,9 @@
+gleipner.core.SinkGadget->sinkMethod [(Ljava/lang/String;)V] T[T]  serializable
+gleipner.chains.keywords.Transient_002_FP_TrampolineMethod->hashCode [()I] T[]  serializable
+
+gleipner.core.SinkGadget->sinkMethod [(Ljava/lang/String;)V] T[T]  serializable
+gleipner.chains.keywords.Transient_001_TrampolineMethod->hashCode [()I] T[]  serializable
+
+gleipner.core.SinkGadget->sinkMethod [(Ljava/lang/String;)V] T[T]  serializable
+gleipner.chains.keywords.Serializable_001_TrampolineMethod->hashCode [()I] T[]  serializable
+

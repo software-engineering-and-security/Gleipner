@@ -1,0 +1,5 @@
+gleipner.core.SinkGadget->sinkMethod [(Ljava/lang/String;)V] T[T]  serializable
+gleipner.chains.ysoserial.clojure.main$eval_opt::invokeStatic [(Ljava/lang/Object;)Ljava/lang/Object;] T[T]  serializable
+gleipner.chains.ysoserial.clojure.main$eval_opt->invoke [(Ljava/lang/Object;)Ljava/lang/Object;] T[T]  serializable
+gleipner.chains.ysoserial.clojure.AbstractTableModel$ff19274a->hashCode [()I] T[]  serializable
+

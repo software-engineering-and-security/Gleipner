@@ -1,0 +1,9 @@
+gleipner/chains/reflection/classloading/Classloading_001_Trampoline.hashCode()I (0)
+  gleipner/core/SinkGadget.sinkMethod(Ljava/lang/String;)V (0)
+gleipner/chains/reflection/classloading/Classloading_002_FP_Trampoline.hashCode()I (0)
+  gleipner/core/SinkGadget.sinkMethod(Ljava/lang/String;)V (0)
+gleipner/chains/reflection/classloading/Classloading_002_FP_Trampoline.hashCode()I (0)
+  gleipner/core/SinkGadget.sinkMethod(Ljava/lang/String;)V (1)
+gleipner/chains/reflection/classloading/Classloading_001_Trampoline.hashCode()I (0)
+  gleipner/core/SinkGadget.sinkMethod(Ljava/lang/String;)V (1)
+

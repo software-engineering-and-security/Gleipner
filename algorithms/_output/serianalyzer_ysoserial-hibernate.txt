@@ -1,0 +1,10 @@
+gleipner.core.SinkGadget->sinkMethod [(Ljava/lang/String;)V] T[T]  serializable
+gleipner.chains.ysoserial.hibernate1.Hibernate_GetterMethodImpl->get [(Ljava/lang/Object;)Ljava/lang/Object;] T[T]  serializable
+gleipner.chains.ysoserial.hibernate1.Hibernate_AbstractComponentTuplizer->getPropertyValue [(Ljava/lang/Object;I)Ljava/lang/Object;] T[TT]  serializable
+gleipner.chains.ysoserial.hibernate1.Hibernate_ComponentType->getPropertyValue [(Ljava/lang/Object;I)Ljava/lang/Object;] T[TT]  serializable
+gleipner.chains.ysoserial.hibernate1.Hibernate_ComponentType->getHashCode [(Ljava/lang/Object;)I] T[T]  serializable
+gleipner.chains.ysoserial.hibernate1.Hibernate_TypedValue$1->initialize [()Ljava/lang/Integer;] T[]  instantiable
+gleipner.chains.ysoserial.hibernate1.Hibernate_TypedValue$1->initialize [()Ljava/lang/Object;] T[]  instantiable
+gleipner.chains.ysoserial.hibernate1.Hibernate_ValueHolder->getValue [()Ljava/lang/Object;] T[]  instantiable
+gleipner.chains.ysoserial.hibernate1.Hibernate_TypedValue->hashCode [()I] U[]  serializable
+

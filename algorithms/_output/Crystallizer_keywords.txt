@@ -1,0 +1,1 @@
+{"lib_paths_name": {"2": "-><gleipner.chains.keywords.Transient_001_TrampolineMethod: int hashCode()>-><gleipner.core.SinkGadget: void sinkMethod(java.lang.String)>\n", "1": "-><gleipner.chains.keywords.Serializable_001_TrampolineMethod: int hashCode()>-><gleipner.core.SinkGadget: void sinkMethod(java.lang.String)>\n"}}

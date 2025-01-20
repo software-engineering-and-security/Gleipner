@@ -1,0 +1,22 @@
+[
+<gleipner.core.SinkGadget: void sinkMethod(java.lang.String)>
+<gleipner.chains.ysoserial.myfaces1.MyFaces_ValueExpressionImpl: java.lang.Object getValue(gleipner.chains.ysoserial.myfaces1.MyFaces_ELContext)>
+<gleipner.chains.ysoserial.myfaces1.MyFaces_ValueExpression: java.lang.Object getValue(gleipner.chains.ysoserial.myfaces1.MyFaces_ELContext)>
+<gleipner.chains.ysoserial.myfaces1.MyFaces_ValueExpressionMethodExpression: gleipner.chains.ysoserial.myfaces1.MyFaces_MethodExpression getMethodExpression(gleipner.chains.ysoserial.myfaces1.MyFaces_ELContext)>
+<gleipner.chains.ysoserial.myfaces1.MyFaces_ValueExpressionMethodExpression: gleipner.chains.ysoserial.myfaces1.MyFaces_MethodExpression getMethodExpression()>
+<gleipner.chains.ysoserial.myfaces1.MyFaces_ValueExpressionMethodExpression: int hashCode()>
+<gleipner.core.GleipnerObject: int hashCode()>
+<gleipner.core.TriggerGadget: void readObject(java.io.ObjectInputStream)>
+]
+
+[
+<gleipner.core.SinkGadget: void sinkMethod(java.lang.String)>
+<gleipner.chains.ysoserial.myfaces1.MyFaces_ValueExpressionImpl: java.lang.Object getValue(gleipner.chains.ysoserial.myfaces1.MyFaces_ELContext)>
+<gleipner.chains.ysoserial.myfaces1.MyFaces_ValueExpression: java.lang.Object getValue(gleipner.chains.ysoserial.myfaces1.MyFaces_ELContext)>
+<gleipner.chains.ysoserial.myfaces1.MyFaces_ValueExpressionMethodExpression: gleipner.chains.ysoserial.myfaces1.MyFaces_MethodExpression getMethodExpression(gleipner.chains.ysoserial.myfaces1.MyFaces_ELContext)>
+<gleipner.chains.ysoserial.myfaces1.MyFaces_ValueExpressionMethodExpression: gleipner.chains.ysoserial.myfaces1.MyFaces_MethodExpression getMethodExpression()>
+<gleipner.chains.ysoserial.myfaces1.MyFaces_ValueExpressionMethodExpression: int hashCode()>
+<gleipner.core.GleipnerObject: int hashCode()>
+<gleipner.core.TriggerGadget: void readObject(java.io.ObjectInputStream)>
+]
+

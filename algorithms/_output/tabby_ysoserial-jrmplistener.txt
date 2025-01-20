@@ -1,0 +1,13 @@
+[
+<gleipner.core.SinkGadget: void sinkMethod(java.lang.String)>
+<gleipner.chains.ysoserial.jrmplistener.TCPTransport: void exportObject(gleipner.chains.ysoserial.jrmplistener.Target)>
+<gleipner.chains.ysoserial.jrmplistener.TCPEndpoint: void exportObject(gleipner.chains.ysoserial.jrmplistener.Target)>
+<gleipner.chains.ysoserial.jrmplistener.Endpoint: void exportObject(gleipner.chains.ysoserial.jrmplistener.Target)>
+<gleipner.chains.ysoserial.jrmplistener.LiveRef: void exportObject(gleipner.chains.ysoserial.jrmplistener.Target)>
+<gleipner.chains.ysoserial.jrmplistener.UnicastServerRef: gleipner.chains.ysoserial.jrmplistener.Remote exportObject(gleipner.chains.ysoserial.jrmplistener.Remote,java.lang.Object,boolean)>
+<gleipner.chains.ysoserial.jrmplistener.UnicastRemoteObject: gleipner.chains.ysoserial.jrmplistener.Remote exportObject(gleipner.chains.ysoserial.jrmplistener.Remote,gleipner.chains.ysoserial.jrmplistener.UnicastServerRef)>
+<gleipner.chains.ysoserial.jrmplistener.UnicastRemoteObject: gleipner.chains.ysoserial.jrmplistener.Remote exportObject(gleipner.chains.ysoserial.jrmplistener.Remote,java.lang.String,gleipner.core.SinkGadget)>
+<gleipner.chains.ysoserial.jrmplistener.UnicastRemoteObject: void reexport()>
+<gleipner.chains.ysoserial.jrmplistener.UnicastRemoteObject: void readObject(java.io.ObjectInputStream)>
+]
+

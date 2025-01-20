@@ -1,0 +1,338 @@
+<gleipner.chains.basic.BasicSinkGadget: java.lang.String tainted>
+<gleipner.chains.basic.BasicLinkGadget: gleipner.chains.basic.BasicSinkGadget basicSinkGadget>
+
+<gleipner.chains.jni.Thread_001_Trampoline: java.lang.String tainted>
+
+<sun.security.util.ObjectIdentifier: java.lang.String stringForm>
+<sun.security.x509.AlgorithmId: sun.security.util.ObjectIdentifier algid>
+
+<gleipner.chains.reflection.exceptions.NoSuchMethodException_002_FP_Trampoline: java.lang.String taint>
+
+<gleipner.chains.reflection.exceptions.InvocationTargetException_002_FP_Trampoline: java.lang.String taint>
+
+<gleipner.chains.reflection.exceptions.IllegalAccessException_001_Trampoline: java.lang.String taint>
+
+<gleipner.chains.reflection.exceptions.ClassCastException_002_FP_Trampoline: java.lang.String taint>
+
+<gleipner.chains.reflection.exceptions.ClassCastException_001_Trampoline: java.lang.String taint>
+
+<gleipner.chains.reflection.exceptions.InvocationTargetException_001_Trampoline: java.lang.String taint>
+
+<gleipner.chains.reflection.exceptions.InstantiationException_002_FP_Trampoline: java.lang.String taint>
+
+<gleipner.chains.reflection.exceptions.InstantiationException_001_Trampoline: java.lang.String taint>
+
+<gleipner.chains.reflection.exceptions.NoSuchMethodException_001_Trampoline: java.lang.String taint>
+
+<gleipner.chains.reflection.exceptions.ClassNotFoundException_001_Trampoline: java.lang.String taint>
+
+<gleipner.chains.reflection.exceptions.IllegalAccessException_002_FP_Trampoline: java.lang.String taint>
+
+<gleipner.chains.reflection.exceptions.NoSuchFieldException_001_Trampoline: java.lang.String taint>
+
+<gleipner.chains.reflection.exceptions.NoSuchFieldException_002_FP_Trampoline: java.lang.String taint>
+
+<gleipner.chains.reflection.exceptions.ClassNotFoundException_002_FP_Trampoline: java.lang.String taint>
+
+<gleipner.chains.multipath.Multipath_001_SinkGadget: java.lang.String tainted>
+<gleipner.chains.multipath.Multipath_001_LinkGadget3: gleipner.chains.multipath.Multipath_001_SinkGadget linkGadget>
+<gleipner.chains.multipath.Multipath_001_TrampolineGadget: gleipner.chains.multipath.Multipath_001_LinkGadget3 linkGadget3>
+
+<gleipner.chains.multipath.Multipath_001_SinkGadget: java.lang.String tainted>
+<gleipner.chains.multipath.Multipath_001_LinkGadget4: gleipner.chains.multipath.Multipath_001_SinkGadget linkGadget>
+<gleipner.chains.multipath.Multipath_001_TrampolineGadget: gleipner.chains.multipath.Multipath_001_LinkGadget4 linkGadget4>
+
+<gleipner.chains.multipath.Multipath_001_SinkGadget: java.lang.String tainted>
+<gleipner.chains.multipath.Multipath_001_LinkGadget9: gleipner.chains.multipath.Multipath_001_SinkGadget linkGadget>
+<gleipner.chains.multipath.Multipath_001_TrampolineGadget: gleipner.chains.multipath.Multipath_001_LinkGadget9 linkGadget9>
+
+<gleipner.chains.multipath.Multipath_001_SinkGadget: java.lang.String tainted>
+<gleipner.chains.multipath.Multipath_001_LinkGadget7: gleipner.chains.multipath.Multipath_001_SinkGadget linkGadget>
+<gleipner.chains.multipath.Multipath_001_TrampolineGadget: gleipner.chains.multipath.Multipath_001_LinkGadget7 linkGadget7>
+
+<gleipner.chains.multipath.Multipath_001_SinkGadget: java.lang.String tainted>
+<gleipner.chains.multipath.Multipath_001_LinkGadget2: gleipner.chains.multipath.Multipath_001_SinkGadget linkGadget>
+<gleipner.chains.multipath.Multipath_001_TrampolineGadget: gleipner.chains.multipath.Multipath_001_LinkGadget2 linkGadget2>
+
+<gleipner.chains.multipath.Multipath_001_SinkGadget: java.lang.String tainted>
+<gleipner.chains.multipath.Multipath_001_LinkGadget10: gleipner.chains.multipath.Multipath_001_SinkGadget linkGadget>
+<gleipner.chains.multipath.Multipath_001_TrampolineGadget: gleipner.chains.multipath.Multipath_001_LinkGadget10 linkGadget10>
+
+<gleipner.chains.multipath.Multipath_001_SinkGadget: java.lang.String tainted>
+<gleipner.chains.multipath.Multipath_001_LinkGadget5: gleipner.chains.multipath.Multipath_001_SinkGadget linkGadget>
+<gleipner.chains.multipath.Multipath_001_TrampolineGadget: gleipner.chains.multipath.Multipath_001_LinkGadget5 linkGadget5>
+
+<gleipner.chains.multipath.Multipath_001_SinkGadget: java.lang.String tainted>
+<gleipner.chains.multipath.Multipath_001_LinkGadget6: gleipner.chains.multipath.Multipath_001_SinkGadget linkGadget>
+<gleipner.chains.multipath.Multipath_001_TrampolineGadget: gleipner.chains.multipath.Multipath_001_LinkGadget6 linkGadget6>
+
+<gleipner.chains.multipath.Multipath_001_SinkGadget: java.lang.String tainted>
+<gleipner.chains.multipath.Multipath_001_LinkGadget1: gleipner.chains.multipath.Multipath_001_SinkGadget linkGadget>
+<gleipner.chains.multipath.Multipath_001_TrampolineGadget: gleipner.chains.multipath.Multipath_001_LinkGadget1 linkGadget1>
+
+<gleipner.chains.multipath.Multipath_001_SinkGadget: java.lang.String tainted>
+<gleipner.chains.multipath.Multipath_001_LinkGadget8: gleipner.chains.multipath.Multipath_001_SinkGadget linkGadget>
+<gleipner.chains.multipath.Multipath_001_TrampolineGadget: gleipner.chains.multipath.Multipath_001_LinkGadget8 linkGadget8>
+
+<gleipner.chains.ysoserial.urldns.URL: java.lang.String host>
+
+<gleipner.chains.polymorphism.Polymorphism_008_SinkGadget: java.lang.String tainted>
+<gleipner.chains.polymorphism.Polymorphism_008_LinkGadget: gleipner.chains.polymorphism.Polymorphism_008_SinkGadget sinkGadget>
+<gleipner.chains.polymorphism.Polymorphism_008_TrampolineGadget: gleipner.chains.polymorphism.Polymorphism_008_Parent linkGadget>
+
+<gleipner.chains.polymorphism.Polymorphism_012_SinkGadget: java.lang.String tainted>
+<gleipner.chains.polymorphism.Polymorphism_012_LinkGadget: gleipner.chains.polymorphism.Polymorphism_012_SinkGadget sinkGadget>
+<gleipner.chains.polymorphism.Polymorphism_012_TrampolineGadget: gleipner.chains.polymorphism.Polymorphism_012_Parent linkGadget>
+
+<gleipner.chains.polymorphism.Polymorphism_014_SinkGadget: java.lang.String tainted>
+<gleipner.chains.polymorphism.Polymorphism_014_LinkGadget: gleipner.chains.polymorphism.Polymorphism_014_SinkGadget sinkGadget>
+<gleipner.chains.polymorphism.Polymorphism_014_TrampolineGadget: gleipner.chains.polymorphism.Polymorphism_014_Parent linkGadget>
+
+<gleipner.chains.polymorphism.Polymorphism_009_SinkGadget: java.lang.String tainted>
+<gleipner.chains.polymorphism.Polymorphism_009_LinkGadget: gleipner.chains.polymorphism.Polymorphism_009_SinkGadget sinkGadget>
+<gleipner.chains.polymorphism.Polymorphism_009_TrampolineGadget: gleipner.chains.polymorphism.Polymorphism_009_Parent linkGadget>
+
+<gleipner.chains.polymorphism.Polymorphism_006_SinkGadget: java.lang.String tainted>
+<gleipner.chains.polymorphism.Polymorphism_006_LinkGadget: gleipner.chains.polymorphism.Polymorphism_006_SinkGadget sinkGadget>
+<gleipner.chains.polymorphism.Polymorphism_006_TrampolineGadget: gleipner.chains.polymorphism.Polymorphism_006_Parent linkGadget>
+
+<gleipner.chains.polymorphism.Polymorphism_011_SinkGadget: java.lang.String tainted>
+<gleipner.chains.polymorphism.Polymorphism_011_LinkGadget: gleipner.chains.polymorphism.Polymorphism_011_SinkGadget sinkGadget>
+<gleipner.chains.polymorphism.Polymorphism_011_TrampolineGadget: gleipner.chains.polymorphism.Polymorphism_011_Parent linkGadget>
+
+<gleipner.chains.polymorphism.Polymorphism_007_SinkGadget: java.lang.String tainted>
+<gleipner.chains.polymorphism.Polymorphism_007_LinkGadget: gleipner.chains.polymorphism.Polymorphism_007_SinkGadget sinkGadget>
+<gleipner.chains.polymorphism.Polymorphism_007_TrampolineGadget: gleipner.chains.polymorphism.Polymorphism_007_Parent linkGadget>
+
+<gleipner.chains.polymorphism.Polymorphism_013_SinkGadget: java.lang.String tainted>
+<gleipner.chains.polymorphism.Polymorphism_013_LinkGadget: gleipner.chains.polymorphism.Polymorphism_013_SinkGadget sinkGadget>
+<gleipner.chains.polymorphism.Polymorphism_013_TrampolineGadget: gleipner.chains.polymorphism.Polymorphism_013_Parent linkGadget>
+
+<gleipner.chains.polymorphism.Polymorphism_004_SinkGadget: java.lang.String tainted>
+<gleipner.chains.polymorphism.Polymorphism_004_LinkGadget: gleipner.chains.polymorphism.Polymorphism_004_SinkGadget sinkGadget>
+<gleipner.chains.polymorphism.Polymorphism_004_TrampolineGadget: gleipner.chains.polymorphism.Polymorphism_004_Parent linkGadget>
+
+<gleipner.chains.polymorphism.Polymorphism_001_SinkGadget: java.lang.String tainted>
+<gleipner.chains.polymorphism.Polymorphism_001_LinkGadget: gleipner.chains.polymorphism.Polymorphism_001_SinkGadget sinkGadget>
+<gleipner.chains.polymorphism.Polymorphism_001_TrampolineGadget: gleipner.chains.polymorphism.Polymorphism_001_Parent linkGadget>
+
+<gleipner.chains.polymorphism.Polymorphism_019_SinkGadget: java.lang.String tainted>
+<gleipner.chains.polymorphism.Polymorphism_019_LinkGadget: gleipner.chains.polymorphism.Polymorphism_019_SinkGadget sinkGadget>
+<gleipner.chains.polymorphism.Polymorphism_019_TrampolineGadget: gleipner.chains.polymorphism.Polymorphism_019_Parent linkGadget>
+
+<gleipner.chains.polymorphism.Polymorphism_015_SinkGadget: java.lang.String tainted>
+<gleipner.chains.polymorphism.Polymorphism_015_LinkGadget: gleipner.chains.polymorphism.Polymorphism_015_SinkGadget sinkGadget>
+<gleipner.chains.polymorphism.Polymorphism_015_TrampolineGadget: gleipner.chains.polymorphism.Polymorphism_015_Parent linkGadget>
+
+<gleipner.chains.polymorphism.Polymorphism_002_SinkGadget: java.lang.String tainted>
+<gleipner.chains.polymorphism.Polymorphism_002_LinkGadget: gleipner.chains.polymorphism.Polymorphism_002_SinkGadget sinkGadget>
+<gleipner.chains.polymorphism.Polymorphism_002_TrampolineGadget: gleipner.chains.polymorphism.Polymorphism_002_Parent linkGadget>
+
+<gleipner.chains.polymorphism.Polymorphism_018_SinkGadget: java.lang.String tainted>
+<gleipner.chains.polymorphism.Polymorphism_018_LinkGadget: gleipner.chains.polymorphism.Polymorphism_018_SinkGadget sinkGadget>
+<gleipner.chains.polymorphism.Polymorphism_018_TrampolineGadget: gleipner.chains.polymorphism.Polymorphism_018_Parent linkGadget>
+
+<gleipner.chains.polymorphism.Polymorphism_016_SinkGadget: java.lang.String tainted>
+<gleipner.chains.polymorphism.Polymorphism_016_LinkGadget: gleipner.chains.polymorphism.Polymorphism_016_SinkGadget sinkGadget>
+<gleipner.chains.polymorphism.Polymorphism_016_TrampolineGadget: gleipner.chains.polymorphism.Polymorphism_016_Parent linkGadget>
+
+<gleipner.chains.polymorphism.Polymorphism_017_SinkGadget: java.lang.String tainted>
+<gleipner.chains.polymorphism.Polymorphism_017_LinkGadget: gleipner.chains.polymorphism.Polymorphism_017_SinkGadget sinkGadget>
+<gleipner.chains.polymorphism.Polymorphism_017_TrampolineGadget: gleipner.chains.polymorphism.Polymorphism_017_Parent linkGadget>
+
+<gleipner.chains.polymorphism.Polymorphism_003_SinkGadget: java.lang.String tainted>
+<gleipner.chains.polymorphism.Polymorphism_003_LinkGadget: gleipner.chains.polymorphism.Polymorphism_003_SinkGadget sinkGadget>
+<gleipner.chains.polymorphism.Polymorphism_003_TrampolineGadget: gleipner.chains.polymorphism.Polymorphism_003_Parent linkGadget>
+
+<gleipner.chains.polymorphism.Polymorphism_005_SinkGadget: java.lang.String tainted>
+<gleipner.chains.polymorphism.Polymorphism_005_LinkGadget: gleipner.chains.polymorphism.Polymorphism_005_SinkGadget sinkGadget>
+<gleipner.chains.polymorphism.Polymorphism_005_TrampolineGadget: gleipner.chains.polymorphism.Polymorphism_005_Parent linkGadget>
+
+<gleipner.chains.polymorphism.Polymorphism_010_SinkGadget: java.lang.String tainted>
+<gleipner.chains.polymorphism.Polymorphism_010_LinkGadget: gleipner.chains.polymorphism.Polymorphism_010_SinkGadget sinkGadget>
+<gleipner.chains.polymorphism.Polymorphism_010_TrampolineGadget: gleipner.chains.polymorphism.Polymorphism_010_Parent linkGadget>
+
+<gleipner.chains.polymorphism.Polymorphism_020_SinkGadget: java.lang.String tainted>
+<gleipner.chains.polymorphism.Polymorphism_020_LinkGadget: gleipner.chains.polymorphism.Polymorphism_020_SinkGadget sinkGadget>
+<gleipner.chains.polymorphism.Polymorphism_020_TrampolineGadget: gleipner.chains.polymorphism.Polymorphism_020_Parent linkGadget>
+
+<gleipner.chains.reflection.classloading.Classloading_002_FP_Trampoline: java.lang.String taint>
+
+<gleipner.chains.reflection.classloading.Classloading_001_Trampoline: java.lang.String taint>
+
+<gleipner.chains.reflection.metaobjects.MetaObjects_010_FP_Trampoline: java.lang.String taint>
+
+<gleipner.chains.reflection.metaobjects.MetaObjects_009_Trampoline: java.lang.String taint>
+
+<gleipner.chains.reflection.metaobjects.MetaObjects_002_FP_Trampoline: java.lang.String taint>
+
+<gleipner.chains.reflection.metaobjects.MetaObjects_012_FP_Trampoline: java.lang.String taint>
+
+<gleipner.chains.reflection.metaobjects.MetaObjects_004_FP_Trampoline: java.lang.String taint>
+
+<gleipner.chains.reflection.metaobjects.MetaObjects_006_FP_Trampoline: java.lang.String taint>
+
+<gleipner.chains.reflection.metaobjects.MetaObjects_016_FP_Trampoline: java.lang.String taint>
+
+<gleipner.chains.reflection.metaobjects.MetaObjects_015_Trampoline: java.lang.String taint>
+
+<gleipner.chains.reflection.metaobjects.MetaObjects_003_Trampoline: java.lang.String taint>
+
+<gleipner.chains.reflection.metaobjects.MetaObjects_014_FP_Trampoline: java.lang.String taint>
+
+<gleipner.chains.reflection.metaobjects.MetaObjects_011_Trampoline: java.lang.String taint>
+
+<gleipner.chains.reflection.metaobjects.MetaObjects_007_Trampoline: java.lang.String taint>
+
+<gleipner.chains.reflection.metaobjects.MetaObjects_008_FP_Trampoline: java.lang.String taint>
+
+<gleipner.chains.reflection.metaobjects.MetaObjects_001_Trampoline: java.lang.String taint>
+
+<gleipner.chains.reflection.metaobjects.MetaObjects_013_Trampoline: java.lang.String taint>
+
+<gleipner.chains.reflection.metaobjects.MetaObjects_005_Trampoline: java.lang.String taint>
+
+<gleipner.chains.depth.Depth_003_SinkGadget: java.lang.String tainted>
+<gleipner.chains.depth.Depth_003_LinkGadget3: gleipner.chains.depth.Depth_003_SinkGadget sinkGadget>
+<gleipner.chains.depth.Depth_003_LinkGadget2: gleipner.chains.depth.Depth_003_LinkGadget3 linkGadget>
+<gleipner.chains.depth.Depth_003_LinkGadget1: gleipner.chains.depth.Depth_003_LinkGadget2 linkGadget>
+<gleipner.chains.depth.Depth_003_TrampolineGadget: gleipner.chains.depth.Depth_003_LinkGadget1 linkGadget>
+
+<gleipner.chains.depth.Depth_006_SinkGadget: java.lang.String tainted>
+<gleipner.chains.depth.Depth_006_LinkGadget6: gleipner.chains.depth.Depth_006_SinkGadget sinkGadget>
+<gleipner.chains.depth.Depth_006_LinkGadget5: gleipner.chains.depth.Depth_006_LinkGadget6 linkGadget>
+<gleipner.chains.depth.Depth_006_LinkGadget4: gleipner.chains.depth.Depth_006_LinkGadget5 linkGadget>
+<gleipner.chains.depth.Depth_006_LinkGadget3: gleipner.chains.depth.Depth_006_LinkGadget4 linkGadget>
+<gleipner.chains.depth.Depth_006_LinkGadget2: gleipner.chains.depth.Depth_006_LinkGadget3 linkGadget>
+<gleipner.chains.depth.Depth_006_LinkGadget1: gleipner.chains.depth.Depth_006_LinkGadget2 linkGadget>
+<gleipner.chains.depth.Depth_006_TrampolineGadget: gleipner.chains.depth.Depth_006_LinkGadget1 linkGadget>
+
+<gleipner.chains.depth.Depth_002_SinkGadget: java.lang.String tainted>
+<gleipner.chains.depth.Depth_002_LinkGadget2: gleipner.chains.depth.Depth_002_SinkGadget sinkGadget>
+<gleipner.chains.depth.Depth_002_LinkGadget1: gleipner.chains.depth.Depth_002_LinkGadget2 linkGadget>
+<gleipner.chains.depth.Depth_002_TrampolineGadget: gleipner.chains.depth.Depth_002_LinkGadget1 linkGadget>
+
+<gleipner.chains.depth.Depth_007_SinkGadget: java.lang.String tainted>
+<gleipner.chains.depth.Depth_007_LinkGadget7: gleipner.chains.depth.Depth_007_SinkGadget sinkGadget>
+<gleipner.chains.depth.Depth_007_LinkGadget6: gleipner.chains.depth.Depth_007_LinkGadget7 linkGadget>
+<gleipner.chains.depth.Depth_007_LinkGadget5: gleipner.chains.depth.Depth_007_LinkGadget6 linkGadget>
+<gleipner.chains.depth.Depth_007_LinkGadget4: gleipner.chains.depth.Depth_007_LinkGadget5 linkGadget>
+<gleipner.chains.depth.Depth_007_LinkGadget3: gleipner.chains.depth.Depth_007_LinkGadget4 linkGadget>
+<gleipner.chains.depth.Depth_007_LinkGadget2: gleipner.chains.depth.Depth_007_LinkGadget3 linkGadget>
+<gleipner.chains.depth.Depth_007_LinkGadget1: gleipner.chains.depth.Depth_007_LinkGadget2 linkGadget>
+<gleipner.chains.depth.Depth_007_TrampolineGadget: gleipner.chains.depth.Depth_007_LinkGadget1 linkGadget>
+
+<gleipner.chains.depth.Depth_012_SinkGadget: java.lang.String tainted>
+<gleipner.chains.depth.Depth_012_LinkGadget12: gleipner.chains.depth.Depth_012_SinkGadget sinkGadget>
+<gleipner.chains.depth.Depth_012_LinkGadget11: gleipner.chains.depth.Depth_012_LinkGadget12 linkGadget>
+<gleipner.chains.depth.Depth_012_LinkGadget10: gleipner.chains.depth.Depth_012_LinkGadget11 linkGadget>
+<gleipner.chains.depth.Depth_012_LinkGadget9: gleipner.chains.depth.Depth_012_LinkGadget10 linkGadget>
+<gleipner.chains.depth.Depth_012_LinkGadget8: gleipner.chains.depth.Depth_012_LinkGadget9 linkGadget>
+<gleipner.chains.depth.Depth_012_LinkGadget7: gleipner.chains.depth.Depth_012_LinkGadget8 linkGadget>
+<gleipner.chains.depth.Depth_012_LinkGadget6: gleipner.chains.depth.Depth_012_LinkGadget7 linkGadget>
+<gleipner.chains.depth.Depth_012_LinkGadget5: gleipner.chains.depth.Depth_012_LinkGadget6 linkGadget>
+<gleipner.chains.depth.Depth_012_LinkGadget4: gleipner.chains.depth.Depth_012_LinkGadget5 linkGadget>
+<gleipner.chains.depth.Depth_012_LinkGadget3: gleipner.chains.depth.Depth_012_LinkGadget4 linkGadget>
+<gleipner.chains.depth.Depth_012_LinkGadget2: gleipner.chains.depth.Depth_012_LinkGadget3 linkGadget>
+<gleipner.chains.depth.Depth_012_LinkGadget1: gleipner.chains.depth.Depth_012_LinkGadget2 linkGadget>
+<gleipner.chains.depth.Depth_012_TrampolineGadget: gleipner.chains.depth.Depth_012_LinkGadget1 linkGadget>
+
+<gleipner.chains.depth.Depth_010_SinkGadget: java.lang.String tainted>
+<gleipner.chains.depth.Depth_010_LinkGadget10: gleipner.chains.depth.Depth_010_SinkGadget sinkGadget>
+<gleipner.chains.depth.Depth_010_LinkGadget9: gleipner.chains.depth.Depth_010_LinkGadget10 linkGadget>
+<gleipner.chains.depth.Depth_010_LinkGadget8: gleipner.chains.depth.Depth_010_LinkGadget9 linkGadget>
+<gleipner.chains.depth.Depth_010_LinkGadget7: gleipner.chains.depth.Depth_010_LinkGadget8 linkGadget>
+<gleipner.chains.depth.Depth_010_LinkGadget6: gleipner.chains.depth.Depth_010_LinkGadget7 linkGadget>
+<gleipner.chains.depth.Depth_010_LinkGadget5: gleipner.chains.depth.Depth_010_LinkGadget6 linkGadget>
+<gleipner.chains.depth.Depth_010_LinkGadget4: gleipner.chains.depth.Depth_010_LinkGadget5 linkGadget>
+<gleipner.chains.depth.Depth_010_LinkGadget3: gleipner.chains.depth.Depth_010_LinkGadget4 linkGadget>
+<gleipner.chains.depth.Depth_010_LinkGadget2: gleipner.chains.depth.Depth_010_LinkGadget3 linkGadget>
+<gleipner.chains.depth.Depth_010_LinkGadget1: gleipner.chains.depth.Depth_010_LinkGadget2 linkGadget>
+<gleipner.chains.depth.Depth_010_TrampolineGadget: gleipner.chains.depth.Depth_010_LinkGadget1 linkGadget>
+
+<gleipner.chains.depth.Depth_008_SinkGadget: java.lang.String tainted>
+<gleipner.chains.depth.Depth_008_LinkGadget8: gleipner.chains.depth.Depth_008_SinkGadget sinkGadget>
+<gleipner.chains.depth.Depth_008_LinkGadget7: gleipner.chains.depth.Depth_008_LinkGadget8 linkGadget>
+<gleipner.chains.depth.Depth_008_LinkGadget6: gleipner.chains.depth.Depth_008_LinkGadget7 linkGadget>
+<gleipner.chains.depth.Depth_008_LinkGadget5: gleipner.chains.depth.Depth_008_LinkGadget6 linkGadget>
+<gleipner.chains.depth.Depth_008_LinkGadget4: gleipner.chains.depth.Depth_008_LinkGadget5 linkGadget>
+<gleipner.chains.depth.Depth_008_LinkGadget3: gleipner.chains.depth.Depth_008_LinkGadget4 linkGadget>
+<gleipner.chains.depth.Depth_008_LinkGadget2: gleipner.chains.depth.Depth_008_LinkGadget3 linkGadget>
+<gleipner.chains.depth.Depth_008_LinkGadget1: gleipner.chains.depth.Depth_008_LinkGadget2 linkGadget>
+<gleipner.chains.depth.Depth_008_TrampolineGadget: gleipner.chains.depth.Depth_008_LinkGadget1 linkGadget>
+
+<gleipner.chains.depth.Depth_005_SinkGadget: java.lang.String tainted>
+<gleipner.chains.depth.Depth_005_LinkGadget5: gleipner.chains.depth.Depth_005_SinkGadget sinkGadget>
+<gleipner.chains.depth.Depth_005_LinkGadget4: gleipner.chains.depth.Depth_005_LinkGadget5 linkGadget>
+<gleipner.chains.depth.Depth_005_LinkGadget3: gleipner.chains.depth.Depth_005_LinkGadget4 linkGadget>
+<gleipner.chains.depth.Depth_005_LinkGadget2: gleipner.chains.depth.Depth_005_LinkGadget3 linkGadget>
+<gleipner.chains.depth.Depth_005_LinkGadget1: gleipner.chains.depth.Depth_005_LinkGadget2 linkGadget>
+<gleipner.chains.depth.Depth_005_TrampolineGadget: gleipner.chains.depth.Depth_005_LinkGadget1 linkGadget>
+
+<gleipner.chains.depth.Depth_004_SinkGadget: java.lang.String tainted>
+<gleipner.chains.depth.Depth_004_LinkGadget4: gleipner.chains.depth.Depth_004_SinkGadget sinkGadget>
+<gleipner.chains.depth.Depth_004_LinkGadget3: gleipner.chains.depth.Depth_004_LinkGadget4 linkGadget>
+<gleipner.chains.depth.Depth_004_LinkGadget2: gleipner.chains.depth.Depth_004_LinkGadget3 linkGadget>
+<gleipner.chains.depth.Depth_004_LinkGadget1: gleipner.chains.depth.Depth_004_LinkGadget2 linkGadget>
+<gleipner.chains.depth.Depth_004_TrampolineGadget: gleipner.chains.depth.Depth_004_LinkGadget1 linkGadget>
+
+<gleipner.chains.depth.Depth_009_SinkGadget: java.lang.String tainted>
+<gleipner.chains.depth.Depth_009_LinkGadget9: gleipner.chains.depth.Depth_009_SinkGadget sinkGadget>
+<gleipner.chains.depth.Depth_009_LinkGadget8: gleipner.chains.depth.Depth_009_LinkGadget9 linkGadget>
+<gleipner.chains.depth.Depth_009_LinkGadget7: gleipner.chains.depth.Depth_009_LinkGadget8 linkGadget>
+<gleipner.chains.depth.Depth_009_LinkGadget6: gleipner.chains.depth.Depth_009_LinkGadget7 linkGadget>
+<gleipner.chains.depth.Depth_009_LinkGadget5: gleipner.chains.depth.Depth_009_LinkGadget6 linkGadget>
+<gleipner.chains.depth.Depth_009_LinkGadget4: gleipner.chains.depth.Depth_009_LinkGadget5 linkGadget>
+<gleipner.chains.depth.Depth_009_LinkGadget3: gleipner.chains.depth.Depth_009_LinkGadget4 linkGadget>
+<gleipner.chains.depth.Depth_009_LinkGadget2: gleipner.chains.depth.Depth_009_LinkGadget3 linkGadget>
+<gleipner.chains.depth.Depth_009_LinkGadget1: gleipner.chains.depth.Depth_009_LinkGadget2 linkGadget>
+<gleipner.chains.depth.Depth_009_TrampolineGadget: gleipner.chains.depth.Depth_009_LinkGadget1 linkGadget>
+
+<gleipner.chains.depth.Depth_001_SinkGadget: java.lang.String tainted>
+<gleipner.chains.depth.Depth_001_LinkGadget1: gleipner.chains.depth.Depth_001_SinkGadget sinkGadget>
+<gleipner.chains.depth.Depth_001_TrampolineGadget: gleipner.chains.depth.Depth_001_LinkGadget1 linkGadget>
+
+<gleipner.chains.depth.Depth_013_SinkGadget: java.lang.String tainted>
+<gleipner.chains.depth.Depth_013_LinkGadget13: gleipner.chains.depth.Depth_013_SinkGadget sinkGadget>
+<gleipner.chains.depth.Depth_013_LinkGadget12: gleipner.chains.depth.Depth_013_LinkGadget13 linkGadget>
+<gleipner.chains.depth.Depth_013_LinkGadget11: gleipner.chains.depth.Depth_013_LinkGadget12 linkGadget>
+<gleipner.chains.depth.Depth_013_LinkGadget10: gleipner.chains.depth.Depth_013_LinkGadget11 linkGadget>
+<gleipner.chains.depth.Depth_013_LinkGadget9: gleipner.chains.depth.Depth_013_LinkGadget10 linkGadget>
+<gleipner.chains.depth.Depth_013_LinkGadget8: gleipner.chains.depth.Depth_013_LinkGadget9 linkGadget>
+<gleipner.chains.depth.Depth_013_LinkGadget7: gleipner.chains.depth.Depth_013_LinkGadget8 linkGadget>
+<gleipner.chains.depth.Depth_013_LinkGadget6: gleipner.chains.depth.Depth_013_LinkGadget7 linkGadget>
+<gleipner.chains.depth.Depth_013_LinkGadget5: gleipner.chains.depth.Depth_013_LinkGadget6 linkGadget>
+<gleipner.chains.depth.Depth_013_LinkGadget4: gleipner.chains.depth.Depth_013_LinkGadget5 linkGadget>
+<gleipner.chains.depth.Depth_013_LinkGadget3: gleipner.chains.depth.Depth_013_LinkGadget4 linkGadget>
+<gleipner.chains.depth.Depth_013_LinkGadget2: gleipner.chains.depth.Depth_013_LinkGadget3 linkGadget>
+<gleipner.chains.depth.Depth_013_LinkGadget1: gleipner.chains.depth.Depth_013_LinkGadget2 linkGadget>
+<gleipner.chains.depth.Depth_013_TrampolineGadget: gleipner.chains.depth.Depth_013_LinkGadget1 linkGadget>
+
+<gleipner.chains.depth.Depth_011_SinkGadget: java.lang.String tainted>
+<gleipner.chains.depth.Depth_011_LinkGadget11: gleipner.chains.depth.Depth_011_SinkGadget sinkGadget>
+<gleipner.chains.depth.Depth_011_LinkGadget10: gleipner.chains.depth.Depth_011_LinkGadget11 linkGadget>
+<gleipner.chains.depth.Depth_011_LinkGadget9: gleipner.chains.depth.Depth_011_LinkGadget10 linkGadget>
+<gleipner.chains.depth.Depth_011_LinkGadget8: gleipner.chains.depth.Depth_011_LinkGadget9 linkGadget>
+<gleipner.chains.depth.Depth_011_LinkGadget7: gleipner.chains.depth.Depth_011_LinkGadget8 linkGadget>
+<gleipner.chains.depth.Depth_011_LinkGadget6: gleipner.chains.depth.Depth_011_LinkGadget7 linkGadget>
+<gleipner.chains.depth.Depth_011_LinkGadget5: gleipner.chains.depth.Depth_011_LinkGadget6 linkGadget>
+<gleipner.chains.depth.Depth_011_LinkGadget4: gleipner.chains.depth.Depth_011_LinkGadget5 linkGadget>
+<gleipner.chains.depth.Depth_011_LinkGadget3: gleipner.chains.depth.Depth_011_LinkGadget4 linkGadget>
+<gleipner.chains.depth.Depth_011_LinkGadget2: gleipner.chains.depth.Depth_011_LinkGadget3 linkGadget>
+<gleipner.chains.depth.Depth_011_LinkGadget1: gleipner.chains.depth.Depth_011_LinkGadget2 linkGadget>
+<gleipner.chains.depth.Depth_011_TrampolineGadget: gleipner.chains.depth.Depth_011_LinkGadget1 linkGadget>
+
+<sun.security.util.ObjectIdentifier: java.lang.String stringForm>
+<sun.security.x509.AlgorithmId: sun.security.util.ObjectIdentifier algid>
+
+<gleipner.chains.ysoserial.myfaces1.MyFaces_ValueExpressionImpl: java.lang.String expr>
+<gleipner.chains.ysoserial.myfaces1.MyFaces_ValueExpressionMethodExpression: gleipner.chains.ysoserial.myfaces1.MyFaces_ValueExpression valueExpression>
+
+<gleipner.chains.keywords.Transient_002_FP_TrampolineMethod: java.lang.String taint>
+
+<gleipner.chains.keywords.Transient_001_TrampolineMethod: java.lang.String taint>
+
+<gleipner.chains.keywords.Serializable_001_TrampolineMethod: java.lang.String taint>
+
+<gleipner.chains.taint.Taint_001_Trampoline: java.lang.String arg>
+

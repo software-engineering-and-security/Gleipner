@@ -1,0 +1,5 @@
+gleipner.core.SinkGadget->sinkMethod [(Ljava/lang/String;)V] U[T]  serializable
+gleipner.chains.ysoserial.c3p0.ReferenceableUtils::referenceToObject [(Ljavax/naming/Reference;)V] U[T] 
+gleipner.chains.ysoserial.c3p0.ReferenceIndirector$ReferenceSerialized->getObject [()Ljava/lang/Object;] T[]  serializable
+gleipner.chains.ysoserial.c3p0.PoolBackedDataSourceBase->readObject [(Ljava/io/ObjectInputStream;)V] U[U]  serializable
+

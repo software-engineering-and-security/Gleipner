@@ -1,0 +1,39 @@
+<gleipner.chains.multipath.Multipath_001_SinkGadget: java.lang.String tainted>
+<gleipner.chains.multipath.Multipath_001_LinkGadget3: gleipner.chains.multipath.Multipath_001_SinkGadget linkGadget>
+<gleipner.chains.multipath.Multipath_001_TrampolineGadget: gleipner.chains.multipath.Multipath_001_LinkGadget3 linkGadget3>
+
+<gleipner.chains.multipath.Multipath_001_SinkGadget: java.lang.String tainted>
+<gleipner.chains.multipath.Multipath_001_LinkGadget4: gleipner.chains.multipath.Multipath_001_SinkGadget linkGadget>
+<gleipner.chains.multipath.Multipath_001_TrampolineGadget: gleipner.chains.multipath.Multipath_001_LinkGadget4 linkGadget4>
+
+<gleipner.chains.multipath.Multipath_001_SinkGadget: java.lang.String tainted>
+<gleipner.chains.multipath.Multipath_001_LinkGadget9: gleipner.chains.multipath.Multipath_001_SinkGadget linkGadget>
+<gleipner.chains.multipath.Multipath_001_TrampolineGadget: gleipner.chains.multipath.Multipath_001_LinkGadget9 linkGadget9>
+
+<gleipner.chains.multipath.Multipath_001_SinkGadget: java.lang.String tainted>
+<gleipner.chains.multipath.Multipath_001_LinkGadget7: gleipner.chains.multipath.Multipath_001_SinkGadget linkGadget>
+<gleipner.chains.multipath.Multipath_001_TrampolineGadget: gleipner.chains.multipath.Multipath_001_LinkGadget7 linkGadget7>
+
+<gleipner.chains.multipath.Multipath_001_SinkGadget: java.lang.String tainted>
+<gleipner.chains.multipath.Multipath_001_LinkGadget2: gleipner.chains.multipath.Multipath_001_SinkGadget linkGadget>
+<gleipner.chains.multipath.Multipath_001_TrampolineGadget: gleipner.chains.multipath.Multipath_001_LinkGadget2 linkGadget2>
+
+<gleipner.chains.multipath.Multipath_001_SinkGadget: java.lang.String tainted>
+<gleipner.chains.multipath.Multipath_001_LinkGadget10: gleipner.chains.multipath.Multipath_001_SinkGadget linkGadget>
+<gleipner.chains.multipath.Multipath_001_TrampolineGadget: gleipner.chains.multipath.Multipath_001_LinkGadget10 linkGadget10>
+
+<gleipner.chains.multipath.Multipath_001_SinkGadget: java.lang.String tainted>
+<gleipner.chains.multipath.Multipath_001_LinkGadget5: gleipner.chains.multipath.Multipath_001_SinkGadget linkGadget>
+<gleipner.chains.multipath.Multipath_001_TrampolineGadget: gleipner.chains.multipath.Multipath_001_LinkGadget5 linkGadget5>
+
+<gleipner.chains.multipath.Multipath_001_SinkGadget: java.lang.String tainted>
+<gleipner.chains.multipath.Multipath_001_LinkGadget6: gleipner.chains.multipath.Multipath_001_SinkGadget linkGadget>
+<gleipner.chains.multipath.Multipath_001_TrampolineGadget: gleipner.chains.multipath.Multipath_001_LinkGadget6 linkGadget6>
+
+<gleipner.chains.multipath.Multipath_001_SinkGadget: java.lang.String tainted>
+<gleipner.chains.multipath.Multipath_001_LinkGadget1: gleipner.chains.multipath.Multipath_001_SinkGadget linkGadget>
+<gleipner.chains.multipath.Multipath_001_TrampolineGadget: gleipner.chains.multipath.Multipath_001_LinkGadget1 linkGadget1>
+
+<gleipner.chains.multipath.Multipath_001_SinkGadget: java.lang.String tainted>
+<gleipner.chains.multipath.Multipath_001_LinkGadget8: gleipner.chains.multipath.Multipath_001_SinkGadget linkGadget>
+<gleipner.chains.multipath.Multipath_001_TrampolineGadget: gleipner.chains.multipath.Multipath_001_LinkGadget8 linkGadget8>

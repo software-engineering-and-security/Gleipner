@@ -1,0 +1,5 @@
+gleipner.core.SinkGadget->sinkMethod [(Ljava/lang/String;)V] T[T]  serializable
+gleipner.chains.multipath.Multipath_001_SinkGadget->linkMethod [()V] T[]  serializable
+gleipner.chains.multipath.Multipath_001_LinkGadget2->linkMethod [()V] T[]  serializable
+gleipner.chains.multipath.Multipath_001_TrampolineGadget->hashCode [()I] T[]  serializable
+

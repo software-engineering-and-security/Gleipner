@@ -1,0 +1,22 @@
+package ${package};
+
+import gleipner.core.annotations.InterProcedural;
+import gleipner.core.GleipnerObject;
+
+public class ${class} extends GleipnerObject {
+    public ${linkGadgetClass} ${linkGadgetVar};
+
+    public ${class} () {
+    }
+
+    public ${class} (${linkGadgetClass} ${linkGadgetVar}) {
+        this.${linkGadgetVar} = ${linkGadgetVar};
+    }
+
+    @Override
+    @InterProcedural(InterProcedural.VIRTUAL_INVOKE)
+    public int hashCode() {
+        ${linkGadgetVar}.linkMethod();
+        return super.hashCode();
+    }
+}
