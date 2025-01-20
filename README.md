@@ -6,8 +6,15 @@ A benchmark for Java gadget chain detecting algorithms.
 
 ## Citation
 
-```
-// TODO when accepted
+Official publication will appear in the *Proceedings of FSE 2025*. For now, there is a preprint available on *hal.science*:
+```bibtex
+@inproceedings{kreyssig_gleipner_2025,
+    author = {Kreyssig, Bruno and Bartel, Alexandre},
+    title = {Gleipner - A Benchmark for Gadget Chain Detection in Java Deserialization Vulnerabilities},
+    booktitle = {Preprint for the ACM International Conference on the Foundations of Software Engineering (FSE) 2025},
+    year = 2025,
+    url = {https://hal.science/hal-04890074}
+}
 ```
 
 ## Usage
