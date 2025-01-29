@@ -186,6 +186,8 @@ python3 generate-chains.py --multipath 10
 
 ## Artifact Evaluation / Benchmarked Algorithms
 
+**Note: The authors of JDD reached out to us to reassess their tool's evaluation, we are currently in the process of resolving this issue with them.**
+
 For the submission we ran our benchmark on the tools listed below. The raw results are in the [output](algorithms/_output) dir, configuration modifications in [config](algorithms/_config) dir:
 
 - [GadgetInspector](https://github.com/JackOfMostTrades/gadgetinspector/tree/ac7832d4220b50e9e1d9855b5cc21936466b33e6) (2017 - Ian Haken)
