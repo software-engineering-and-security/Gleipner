@@ -764,6 +764,10 @@ class JDD(Project):
         base_file_name = os.path.split(self.analyze_jars[0])[-1]
         shutil.copyfile(self.analyze_jars[0], os.path.join(self.directory, "testExample", "Gleipner", "gleipner.jar"))
 
+        # empty the output directory:
+        for file in os.listdir(os.path.join(self.directory, "outputs", "gadgets", "Gleipner")):
+            os.remove(os.path.join(self.directory, "outputs", "gadgets", "Gleipner", file))
+
         # remove tmp dir, since otherwise the previous gleipner jar is still unpacked in the tmp dir and no new analysis is performed
         if os.path.exists(os.path.join(self.directory, "testExample", "Gleipnertmp")):
             shutil.rmtree(os.path.join(self.directory, "testExample", "Gleipnertmp"))
@@ -773,15 +777,6 @@ class JDD(Project):
         t_duration = timeit.default_timer() - t_start
         log_time(t_duration, self.directory)
 
-        # "save" results by copying the GadgetChains.txt file in the output ... this file will otherwise be continuesly appended to in further runs
-        # if GadgetChains.txt doesnt exist, no chains were found ... in this case create empty file
-
-        output_path = os.path.join(self.directory, "outputs", "gadgets", "interInfos")
-        if not os.path.exists(os.path.join(output_path, "GadgetChains.txt")):
-            with open(os.path.join(output_path, "GadgetChains.txt"), 'w') as fp:  pass
-
-        shutil.copyfile(os.path.join(output_path, "GadgetChains.txt"), os.path.join(output_path, f"{base_file_name}.txt"))
-        os.remove(os.path.join(output_path, "GadgetChains.txt"))
 
     def get_result(self) -> str:
 
