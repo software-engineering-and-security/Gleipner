@@ -1,4 +1,5 @@
 import datetime
+import json
 import os
 import subprocess
 import shutil
@@ -784,15 +785,18 @@ class JDD(Project):
 
     def get_result(self) -> str:
 
-        results_file_name = f"{os.path.split(self.analyze_jars[0])[-1]}.txt"
-        raw_result = open(os.path.join(self.directory, "outputs", "gadgets", "interInfos", results_file_name), "r").read()
-        chains = raw_result.split("\n\n")
-        result = ""
+        chains = ""
+        for file in os.listdir(os.path.join(self.directory, "outputs", "gadgets", "Gleipner")):
+            if "IfStmtRecord" in file or not ".json" in file:
+                continue
 
-        for chain in chains:
-            result += chain + "\n"
+            file_handle = open(os.path.join(self.directory, "outputs", "gadgets", "Gleipner", file), "r")
+            result_json = json.load(file_handle)
+            for gadget in result_json["gadgetCallStack"]:
+                chains += gadget["value"] + "\n"
+            chains += "\n"
 
-        return result
+        return chains
 
 def main():
     parser = argparse.ArgumentParser()
