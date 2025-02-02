@@ -11,7 +11,7 @@ import java.util.List;
 
 public class Vaadin_NestedMethodProperty<T> extends Vaadin_AbstractProperty<T> {
 
-    private Vaadin_Getter_SinkGadget instance;
+    private Object instance;
     private transient List<Method> getMethods;
     private transient Method setMethod;
     private String propertyName;
