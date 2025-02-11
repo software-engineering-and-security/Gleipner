@@ -37,7 +37,7 @@ public class Vaadin_NestedMethodProperty<T> extends Vaadin_AbstractProperty<T> {
 
     }
 
-    public Vaadin_NestedMethodProperty(Vaadin_Getter_SinkGadget instance, String propertyName) {
+    public Vaadin_NestedMethodProperty(Object instance, String propertyName) {
         this.instance = instance;
         initialize(instance.getClass(), propertyName);
     }

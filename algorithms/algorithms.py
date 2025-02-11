@@ -14,13 +14,13 @@ from neo4j import GraphDatabase
 
 # commit hashes preceded incase these prototypes get updated (seems unlikely though)
 GITHUB_PROJECTS = {
-    "serianalyzer": "https://github.com/mbechler/serianalyzer.git",                 # 85cff0a82d6684533fbc7ae6800e9e5ce40f6da0
-    "gadgetinspector": "https://github.com/JackOfMostTrades/gadgetinspector.git",   # ac7832d4220b50e9e1d9855b5cc21936466b33e6
-    "serhybridpub": "https://bitbucket.org/unshorn/serhybridpub.git",               # af6cb5a92f41f92212e9c3e87fc6941294e6cc5b
-    "JChainz": "https://github.com/Kigorky/JChainz.git",                            # 52632b215d89977143cd5cde93757f9c0f168a6f
-    "Crystallizer": "https://github.com/HexHive/Crystallizer.git",                  # 6a0eb336d2f75a28200311136593654900c1e99a
-    "tabby": "https://github.com/wh1t3p1g/tabby.git",                               # b3fa31ffb4fc68a6988ed10a91679d17b883146d
-    "JDD" : "https://github.com/fdu-sec/JDD.git"                                    # 55299879170b90e6b57634b2932cecd71d559446
+    "serianalyzer": ["https://github.com/mbechler/serianalyzer.git",                 "85cff0a82d6684533fbc7ae6800e9e5ce40f6da0"],
+    "gadgetinspector": ["https://github.com/JackOfMostTrades/gadgetinspector.git",   "ac7832d4220b50e9e1d9855b5cc21936466b33e6"],
+    "serhybridpub": ["https://bitbucket.org/unshorn/serhybridpub.git",               "af6cb5a92f41f92212e9c3e87fc6941294e6cc5b"],
+    "JChainz": ["https://github.com/Kigorky/JChainz.git",                            "52632b215d89977143cd5cde93757f9c0f168a6f"],
+    "Crystallizer": ["https://github.com/HexHive/Crystallizer.git",                  "6a0eb336d2f75a28200311136593654900c1e99a"],
+    "tabby": ["https://github.com/wh1t3p1g/tabby.git",                               "b3fa31ffb4fc68a6988ed10a91679d17b883146d"],
+    "JDD" : ["https://github.com/fdu-sec/JDD.git",                                   "55299879170b90e6b57634b2932cecd71d559446"]
 }
 
 # An older JDK is required to execute gradle script in gadgetinspector
@@ -64,7 +64,10 @@ class Project:
             print(f"[INFO] Project {self.directory} appears to already have been cloned ... skipping")
             return
         print(f"[INFO] Cloning project {self.directory} ...")
-        proc = subprocess.run(["git", "clone", self.clone_url], stdout=subprocess.PIPE, text=True)
+        proc = subprocess.run(["git", "clone", self.clone_url[0]], stdout=subprocess.PIPE, text=True)
+        if self.debug:
+            print(proc.stdout)
+        proc = subprocess.run(["git", "checkout", self.clone_url[1]], cwd=self.directory, stdout=subprocess.PIPE, text=True)
         if self.debug:
             print(proc.stdout)
 
@@ -765,8 +768,9 @@ class JDD(Project):
         shutil.copyfile(self.analyze_jars[0], os.path.join(self.directory, "testExample", "Gleipner", "gleipner.jar"))
 
         # empty the output directory:
-        for file in os.listdir(os.path.join(self.directory, "outputs", "gadgets", "Gleipner")):
-            os.remove(os.path.join(self.directory, "outputs", "gadgets", "Gleipner", file))
+        if os.path.exists(os.path.join(self.directory, "outputs", "gadgets", "Gleipner")):
+          for file in os.listdir(os.path.join(self.directory, "outputs", "gadgets", "Gleipner")):
+              os.remove(os.path.join(self.directory, "outputs", "gadgets", "Gleipner", file))
 
         # remove tmp dir, since otherwise the previous gleipner jar is still unpacked in the tmp dir and no new analysis is performed
         if os.path.exists(os.path.join(self.directory, "testExample", "Gleipnertmp")):
