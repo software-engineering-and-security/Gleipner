@@ -186,7 +186,7 @@ python3 generate-chains.py --multipath 10
 
 ## Artifact Evaluation / Benchmarked Algorithms
 
-**Note: The authors of JDD reached out to us to reassess their tool's evaluation, we are currently in the process of resolving this issue with them.**
+**Note: JDD has been recently updated (Feb 2025) and now fulfills the depth gadget chain category, aswell as the Ysoserial replicas: Hibernate, URLDNS and JRMPListener. Check out their [Repo](https://github.com/fdu-sec/JDD/tree/main) for more details.**
 
 For the submission we ran our benchmark on the tools listed below. The raw results are in the [output](algorithms/_output) dir, configuration modifications in [config](algorithms/_config) dir:
 
